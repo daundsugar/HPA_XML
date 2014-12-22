@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContractorDetails>
+    <VechicleType type="truck">
+        <ContractorCode Code="1456">
+            <ContractorName>नारायण तुकाराम कांबळे</ContractorName>
+            <VehicleNo>MH12-kx1234</VehicleNo>
+        </ContractorCode>
+        <ContractorCode Code="1457">
+            <ContractorName>विजय काळूराम वाघ</ContractorName>
+            <VehicleNo>MH12-AU5643</VehicleNo>
+        </ContractorCode>
+        <ContractorCode Code="1458">
+            <ContractorName>केशव बाबुराव गव्हाणे</ContractorName>
+            <VehicleNo>MH12-KH2356</VehicleNo>
+        </ContractorCode>
+    </VechicleType>
+    <VechicleType type="tractor">
+        <ContractorCode Code="7568">
+            <ContractorName>केशव तुकाराम कवडे</ContractorName>
+            <VehicleNo>MH12-kl8534</VehicleNo>
+            <TrollyNoA>MH03-trolly_A</TrollyNoA>
+            <TrollyNoB>MH04-trolly_B</TrollyNoB>
+        </ContractorCode>
+        <ContractorCode Code="7569">
+            <ContractorName>विजय बाबुराव चव्हाण</ContractorName>
+            <VehicleNo>MH12-LY6943</VehicleNo>
+            <TrollyNoA>MH01-trolly_A</TrollyNoA>
+            <TrollyNoB>MH02-trolly_B</TrollyNoB>
+        </ContractorCode>
+    </VechicleType>
+</ContractorDetails>
