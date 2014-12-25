@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <devices>
     <imeicode imei = "865072027983462">
-        <url></url>
-        <rstart></rstart>
-        <rend></rend>
+        <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/harvestingprogramdetails.xml</url>
+        <rstart>10</rstart>
+        <rend>15</rend>
     </imeicode>
 </devices>
