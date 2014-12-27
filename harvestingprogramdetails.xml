@@ -51,4 +51,21 @@
         <Irrigation>विहीर</Irrigation>
         <Plotend>N</Plotend>
     </PlotList>
+    <PlotList plotNo="3899">
+        <ProgramNo>१</ProgramNo>
+        <GrowerCode>१५४६</GrowerCode>
+        <GrowerName>वसंत राजाराम चव्हाण</GrowerName>
+        <GatCode>१</GatCode>
+        <GatName>हिवरे</GatName>
+        <VillageCode>१००</VillageCode>
+        <VillageName>धोरवाडी</VillageName>
+        <serveNo>२३२/३४</serveNo>
+        <CaneVariety>२</CaneVariety>
+        <CaneVarietyName>८६०३२</CaneVarietyName>
+        <CaneCode>१</CaneCode>
+        <CaneType>आडसाली</CaneType>
+        <CanegrowerType>सभासद</CanegrowerType>
+        <Irrigation>विहीर</Irrigation>
+        <Plotend>N</Plotend>
+    </PlotList>
 </HarvestingProgramDetailsList>
