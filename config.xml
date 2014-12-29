@@ -14,8 +14,8 @@
     </imeicode>
     <imeicode imei = "865072027983462">
         <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/harvestingprogramdetails.xml</url>
-        <version>2</version>
-        <rstart>100</rstart>
-        <rend>200</rend>
+        <version>3</version>
+        <rstart>501</rstart>
+        <rend>601</rend>
     </imeicode>
 </devices>
