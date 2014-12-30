@@ -9,8 +9,8 @@
     <imeicode imei = "353567057876576">
         <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/harvestingprogramdetails.xml</url>
         <version>1</version>
-        <rstart>500</rstart>
-        <rend>1000</rend>
+        <rstart>700</rstart>
+        <rend>900</rend>
     </imeicode>
     <imeicode imei = "352709062596523">
         <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/harvestingprogramdetails.xml</url>
