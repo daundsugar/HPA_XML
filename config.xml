@@ -24,10 +24,16 @@
         <rstart>500</rstart>
         <rend>1000</rend>
     </imeicode>
-    <imeicode imei = "865072027983462">
+    <imeicode imei = "352709062596531">
         <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/harvestingprogramdetails.xml</url>
-        <version>3</version>
-        <rstart>501</rstart>
-        <rend>601</rend>
+        <version>1</version>
+        <rstart>500</rstart>
+        <rend>1000</rend>
+    </imeicode>
+    <imeicode imei = "356044060792064">
+        <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/harvestingprogramdetails.xml</url>
+        <version>1</version>
+        <rstart>1000</rstart>
+        <rend>1100</rend>
     </imeicode>
 </devices>
