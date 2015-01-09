@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContractorDetails>
     <VechicleType type="truck">
-        <ContractorCode Code="3200">
+        <ContractorCode Code="3201">
             <ContractorName>घोरपडे हरिभाऊ झुंबर </ContractorName>
-            <VehicleNo>MH12 EB 6344</VehicleNo>
+            <VehicleNo>MH12 EB 6345</VehicleNo>
         </ContractorCode>
         <ContractorCode Code="1457">
             <ContractorName>विजय काळूराम वाघ</ContractorName>
@@ -21,9 +21,9 @@
             <TrollyNoA>MH03-trolly_A</TrollyNoA>
             <TrollyNoB>MH04-trolly_B</TrollyNoB>
         </ContractorCode>
-        <ContractorCode Code="7569">
-            <ContractorName>विजय बाबुराव चव्हाण</ContractorName>
-            <VehicleNo>MH12-LY6943</VehicleNo>
+        <ContractorCode Code="3200">
+            <ContractorName>घोरपडे हरिभाऊ झुंबर</ContractorName>
+            <VehicleNo>MH 12 EB 6344</VehicleNo>
             <TrollyNoA>MH01-trolly_A</TrollyNoA>
             <TrollyNoB>MH01-trolly_B</TrollyNoB>
         </ContractorCode>
