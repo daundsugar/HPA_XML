@@ -6,6 +6,12 @@
         <rstart>1</rstart>
         <rend>1000</rend>
     </imeicode>
+     <imeicode imei = "356044060310545">
+        <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044060310545.xml</url>
+        <version>1</version>
+        <rstart>20000</rstart>
+        <rend>30000</rend>
+    </imeicode>
     <imeicode imei = "357654051458555">
         <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/357654051458555.xml</url>
         <version>1</version>
