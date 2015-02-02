@@ -3,8 +3,8 @@
     <imeicode imei = "356044061108633">
         <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044061108633.xml</url>
         <version>1</version>
-        <rstart>1</rstart>
-        <rend>1000</rend>
+        <rstart>10000000</rstart>
+        <rend>100010000</rend>
     </imeicode>
      <imeicode imei = "356044060310545">
         <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044060310545.xml</url>
