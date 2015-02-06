@@ -48,12 +48,6 @@
     <rstart>10060001</rstart>
     <rend>10070000</rend>
   </imeicode>
-  <imeicode imei="355290064479361">
-    <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/355290064479361.xml</url>
-    <version>1</version>
-    <rstart>10070001</rstart>
-    <rend>10080000</rend>
-  </imeicode>
   <imeicode imei="355290064479379">
     <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/355290064479379.xml</url>
     <version>1</version>
