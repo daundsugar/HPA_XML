@@ -198,4 +198,10 @@
     <rstart>10070001</rstart>
     <rend>10080000</rend>
   </imeicode>
+  <imeicode imei="356044060310545">
+    <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044060310545.xml</url>
+    <version>1</version>
+    <rstart>10310001</rstart>
+    <rend>10400000</rend>
+  </imeicode>
 </devices>
