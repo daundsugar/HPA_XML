@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <devices>
+<imeicode imei = "356044060792064">
+        <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044061108633.xml</url>
+        <version>1</version>
+        <rstart>100</rstart>
+        <rend>1000</rend>
+  </imeicode>
  <imeicode imei = "356044061108633">
         <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044061108633.xml</url>
         <version>1</version>
