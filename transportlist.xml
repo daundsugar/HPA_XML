@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Truck">
+    <ContractorCode Code="11111">
+      <ContractorName>Amar Dhade</ContractorName>
+      <VehicleNo>MH 20 F 5075</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="4">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <VehicleNo>MH 20 F 5075</VehicleNo>
