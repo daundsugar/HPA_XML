@@ -624,6 +624,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="15907">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3433</GrowerCode>
+    <GrowerName>आरेकर अनिल महादेव </GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>220</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <serveNo>1147</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="8026">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3433</GrowerCode>
@@ -11856,6 +11872,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="15906">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9403</GrowerCode>
+    <GrowerName>आरेकर सचिन तुकाराम</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>220</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <serveNo>1147</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="8028">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>9403</GrowerCode>
@@ -13580,6 +13612,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15878">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2383</GrowerCode>
+    <GrowerName>धायतोंडे बापू रघुनाथ</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>432</VillageCode>
+    <VillageName>नांगरे वस्ती (पठार)</VillageName>
+    <serveNo>296</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -31692,6 +31740,54 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15793">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47211</GrowerCode>
+    <GrowerName>मेरगळ पोपट निवृत्ती (कौठडी)</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>38</VillageCode>
+    <VillageName>कौठडी</VillageName>
+    <serveNo>335</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15877">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47263</GrowerCode>
+    <GrowerName>सांगळे नारायण बाबुराव</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>432</VillageCode>
+    <VillageName>नांगरे वस्ती (पठार)</VillageName>
+    <serveNo>282/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15879">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47264</GrowerCode>
+    <GrowerName>सावंत संजय आप्पा</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>1301</VillageCode>
+    <VillageName>साबळेवाडी</VillageName>
+    <serveNo>2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
