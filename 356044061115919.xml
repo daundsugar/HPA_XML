@@ -4256,6 +4256,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="15964">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5287</GrowerCode>
+    <GrowerName>आटोळे दत्तात्रय झुंबर</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>118/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13899">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>5297</GrowerCode>
@@ -12396,6 +12412,38 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15962">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47309</GrowerCode>
+    <GrowerName>राजेभोसले धिरज सुनिल</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>63</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15963">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47310</GrowerCode>
+    <GrowerName>मराडे अजित संपत</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>358/2/3</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

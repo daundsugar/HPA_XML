@@ -12736,6 +12736,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="15981">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11664</GrowerCode>
+    <GrowerName>शेलार शंकर कृष्णा</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>504</VillageCode>
+    <VillageName>मळद (पठार)</VillageName>
+    <serveNo>224</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="4287">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>10022</GrowerCode>
@@ -21897,6 +21913,22 @@
     <VillageCode>405</VillageCode>
     <VillageName>शिर्सुफळ</VillageName>
     <serveNo>617</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15985">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25048</GrowerCode>
+    <GrowerName>बिबे ज्ञानदेव तात्या</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>405</VillageCode>
+    <VillageName>शिर्सुफळ</VillageName>
+    <serveNo>71</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -31980,6 +32012,118 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15976">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47311</GrowerCode>
+    <GrowerName>आटोळे नाना वामन</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>405</VillageCode>
+    <VillageName>शिर्सुफळ</VillageName>
+    <serveNo>626</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15977">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47312</GrowerCode>
+    <GrowerName>आटोळे गणेश सुखदेव</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>405</VillageCode>
+    <VillageName>शिर्सुफळ</VillageName>
+    <serveNo>626</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15978">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47313</GrowerCode>
+    <GrowerName>सावंत गणेश नरहरी</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>1301</VillageCode>
+    <VillageName>साबळेवाडी</VillageName>
+    <serveNo>13</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15979">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47314</GrowerCode>
+    <GrowerName>सावंत रविराज मच्छिंद्र</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>1301</VillageCode>
+    <VillageName>साबळेवाडी</VillageName>
+    <serveNo>13</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15980">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47315</GrowerCode>
+    <GrowerName>शेलार मधुकर उत्तम</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>504</VillageCode>
+    <VillageName>मळद (पठार)</VillageName>
+    <serveNo>219</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15983">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47316</GrowerCode>
+    <GrowerName>पोंदकुले निर्मला दत्तात्रय</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>432</VillageCode>
+    <VillageName>नांगरे वस्ती (पठार)</VillageName>
+    <serveNo>280/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="15982">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47316</GrowerCode>
+    <GrowerName>पोंदकुले निर्मला दत्तात्रय</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>432</VillageCode>
+    <VillageName>नांगरे वस्ती (पठार)</VillageName>
+    <serveNo>280/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
