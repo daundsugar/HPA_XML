@@ -8352,6 +8352,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16046">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3568</GrowerCode>
+    <GrowerName>कोल्हे तुकाराम आबा</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>482</VillageCode>
+    <VillageName>मळद (गोलांडे वस्ती)</VillageName>
+    <serveNo>466</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2671">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3572</GrowerCode>
@@ -20505,6 +20521,38 @@
     <VillageCode>124</VillageCode>
     <VillageName>नांगरे वस्ती</VillageName>
     <serveNo>101</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16048">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20197</GrowerCode>
+    <GrowerName>आटोळे गजिनाथ बजरंग</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>124</VillageCode>
+    <VillageName>नांगरे वस्ती</VillageName>
+    <serveNo>382</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16047">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20197</GrowerCode>
+    <GrowerName>आटोळे गजिनाथ बजरंग</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>124</VillageCode>
+    <VillageName>नांगरे वस्ती</VillageName>
+    <serveNo>382</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
