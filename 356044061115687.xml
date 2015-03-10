@@ -544,6 +544,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16128">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8667</GrowerCode>
+    <GrowerName>फलके चंद्रकांत नरसिंग </GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>129</VillageCode>
+    <VillageName>पिंपळसुटी</VillageName>
+    <serveNo>185</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13663">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>8667</GrowerCode>
@@ -9808,6 +9824,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16123">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>31363</GrowerCode>
+    <GrowerName>गरुड संदिप पंढरीनाथ</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>410</VillageCode>
+    <VillageName>गणेगाव (शिरुर)</VillageName>
+    <serveNo>581</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13587">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>32721</GrowerCode>
@@ -10905,6 +10937,22 @@
     <VillageCode>553</VillageCode>
     <VillageName>तांदळी (माळवाडी)</VillageName>
     <serveNo>390/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16133">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>31445</GrowerCode>
+    <GrowerName>वाळुंज दादा मुरलीधर</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>752</VillageCode>
+    <VillageName>शिंदोडी </VillageName>
+    <serveNo>153/4</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

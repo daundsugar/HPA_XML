@@ -11008,6 +11008,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16112">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26302</GrowerCode>
+    <GrowerName>होले भागवत शंकर</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>88</VillageCode>
+    <VillageName>शेडगाव</VillageName>
+    <serveNo>25/2/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10404">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>24969</GrowerCode>
@@ -26873,6 +26889,38 @@
     <VillageCode>56</VillageCode>
     <VillageName>वांगदरी</VillageName>
     <serveNo>29</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16113">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47399</GrowerCode>
+    <GrowerName>उंडे नितीश वसंतराव</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>74</VillageCode>
+    <VillageName>मढे वडगाव</VillageName>
+    <serveNo>126</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16116">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47400</GrowerCode>
+    <GrowerName>नागवडे मेघराज पांडुरंग</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>56</VillageCode>
+    <VillageName>वांगदरी</VillageName>
+    <serveNo>115</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
