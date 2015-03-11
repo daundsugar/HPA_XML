@@ -14384,6 +14384,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16215">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30779</GrowerCode>
+    <GrowerName>पाचपुते जालिंदर हरिभाऊ</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>54</VillageCode>
+    <VillageName>काष्टी</VillageName>
+    <serveNo>762</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="11085">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>30886</GrowerCode>
@@ -26924,6 +26940,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16217">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47454</GrowerCode>
+    <GrowerName>जोगदंड संतोष दिनकर</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>आर्वी</VillageName>
+    <serveNo>48</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

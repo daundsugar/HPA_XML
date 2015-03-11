@@ -67,7 +67,7 @@
   <PlotList plotNo="16146">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>8136</GrowerCode>
-    <GrowerName>उदावंत मनोज भगवान</GrowerName>
+    <GrowerName>उदावंत मनोज भगवान(CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>262</VillageCode>
@@ -7107,7 +7107,7 @@
   <PlotList plotNo="16036">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47350</GrowerCode>
-    <GrowerName>गायकवाड किसराव तुकाराम (CSSK)</GrowerName>
+    <GrowerName>गायकवाड किसनराव तुकाराम (CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>487</VillageCode>
@@ -10067,7 +10067,7 @@
   <PlotList plotNo="15865">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47256</GrowerCode>
-    <GrowerName>लोखंडे सपना(बापु)कृष्णराव(CSSK)</GrowerName>
+    <GrowerName>लोखंडे सपना(बाप)कृष्णराव(CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>1206</VillageCode>
@@ -10248,6 +10248,22 @@
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>364</VillageCode>
     <VillageName>सणसर अ (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16222">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47455</GrowerCode>
+    <GrowerName>जोरी सखुबाई व मिनाबाई भागवत(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>489</VillageCode>
+    <VillageName>बोरी (CSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>

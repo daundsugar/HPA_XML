@@ -27552,6 +27552,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16226">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23022</GrowerCode>
+    <GrowerName>धावडे पांडुरंग बारीकराव </GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>184/3</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="5362">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>23083</GrowerCode>
@@ -28412,6 +28428,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16228">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22397</GrowerCode>
+    <GrowerName>शिंदे मंगल ज्ञानदेव</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>407/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -37648,6 +37680,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16227">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>45992</GrowerCode>
+    <GrowerName>शिंदे अशोक नामदेव</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>407/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14175">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>46574</GrowerCode>
@@ -37852,6 +37900,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16229">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>46847</GrowerCode>
+    <GrowerName>जगताप सिमा शंकर</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>190</VillageCode>
+    <VillageName>खोरवडी (वाघदरा)</VillageName>
+    <serveNo>20</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

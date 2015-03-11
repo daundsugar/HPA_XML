@@ -5632,6 +5632,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16221">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1905</GrowerCode>
+    <GrowerName>शेंडगे तात्या योगिराज</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>17</VillageCode>
+    <VillageName>वाटलूज</VillageName>
+    <serveNo>226</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2159">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1905</GrowerCode>
@@ -7443,7 +7459,7 @@
   <PlotList plotNo="2219">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>9673</GrowerCode>
-    <GrowerName>शेंडगे आप्पा राघुनाथ</GrowerName>
+    <GrowerName>शेंडगे आप्पा रघुनाथ</GrowerName>
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>17</VillageCode>
@@ -12323,7 +12339,7 @@
   <PlotList plotNo="16146">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>8136</GrowerCode>
-    <GrowerName>उदावंत मनोज भगवान</GrowerName>
+    <GrowerName>उदावंत मनोज भगवान(CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>262</VillageCode>
@@ -22880,6 +22896,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16224">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22246</GrowerCode>
+    <GrowerName>ढेंबरे संदीप रामदास</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>198</VillageCode>
+    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <serveNo>604/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2259">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>22249</GrowerCode>
@@ -25904,6 +25936,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16216">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21754</GrowerCode>
+    <GrowerName>दळवी दत्तु भाऊ</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <serveNo>523</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="11723">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>21755</GrowerCode>
@@ -26780,6 +26828,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16220">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22311</GrowerCode>
+    <GrowerName>मेंगावडे सरला भिमराव</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>422</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -30544,6 +30608,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16223">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30740</GrowerCode>
+    <GrowerName>वाघमोडे दत्तात्रय बाळकृष्ण</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <serveNo>439</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="9376">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>30740</GrowerCode>
@@ -30633,6 +30713,22 @@
     <VillageCode>498</VillageCode>
     <VillageName>स्वा.चिंचोली (राजेगाव)</VillageName>
     <serveNo>231</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16218">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20688</GrowerCode>
+    <GrowerName>शिंदे बबन गुलाब</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>498</VillageCode>
+    <VillageName>स्वा.चिंचोली (राजेगाव)</VillageName>
+    <serveNo>224</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -31804,6 +31900,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16219">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32790</GrowerCode>
+    <GrowerName>खराडे संपत लक्ष्मण</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>206</VillageCode>
+    <VillageName>मलठण स्टेशन</VillageName>
+    <serveNo>267</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -42707,7 +42819,7 @@
   <PlotList plotNo="16036">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47350</GrowerCode>
-    <GrowerName>गायकवाड किसराव तुकाराम (CSSK)</GrowerName>
+    <GrowerName>गायकवाड किसनराव तुकाराम (CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>487</VillageCode>
@@ -45347,7 +45459,7 @@
   <PlotList plotNo="15865">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47256</GrowerCode>
-    <GrowerName>लोखंडे सपना(बापु)कृष्णराव(CSSK)</GrowerName>
+    <GrowerName>लोखंडे सपना(बाप)कृष्णराव(CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>1206</VillageCode>
@@ -45480,6 +45592,22 @@
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>364</VillageCode>
     <VillageName>सणसर अ (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16222">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47455</GrowerCode>
+    <GrowerName>जोरी सखुबाई व मिनाबाई भागवत(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>489</VillageCode>
+    <VillageName>बोरी (CSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
