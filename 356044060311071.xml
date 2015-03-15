@@ -1447,7 +1447,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>189</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -1580,6 +1580,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16418">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2689</GrowerCode>
+    <GrowerName>मेरगळ अशोक दत्तात्रय </GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>272</VillageCode>
+    <VillageName>जिरेगाव (रावणगाव)</VillageName>
+    <serveNo>486</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -1884,6 +1900,54 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16416">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3335</GrowerCode>
+    <GrowerName>काळभोर सोमनाथ बाबुराव</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>220</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <serveNo>13</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16415">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3335</GrowerCode>
+    <GrowerName>काळभोर सोमनाथ बाबुराव</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>220</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <serveNo>164</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16414">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3335</GrowerCode>
+    <GrowerName>काळभोर सोमनाथ बाबुराव</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>220</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <serveNo>275/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -4551,7 +4615,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>449</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -4599,7 +4663,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>221</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -4647,7 +4711,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>363</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -4663,7 +4727,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>352</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -4679,7 +4743,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>352</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -4695,7 +4759,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>352</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -4823,7 +4887,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>418</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -5127,7 +5191,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>362</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -6695,7 +6759,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>421</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -6711,7 +6775,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>421</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -6935,7 +6999,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>805</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -6999,7 +7063,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>364</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7015,7 +7079,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>364</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7175,7 +7239,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>331</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7191,7 +7255,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>331</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7207,7 +7271,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>368</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7223,7 +7287,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>284</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7239,7 +7303,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>407/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7399,7 +7463,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>291</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7415,7 +7479,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>363</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7431,7 +7495,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>363</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7447,7 +7511,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>361</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7463,7 +7527,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>361</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7479,7 +7543,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>363</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7815,7 +7879,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>346</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7879,7 +7943,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>250/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -8039,7 +8103,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>401</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -8071,7 +8135,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>305</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -8087,7 +8151,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>305</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -8279,7 +8343,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>355</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -8295,7 +8359,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>278</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -8311,7 +8375,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>355</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -9207,7 +9271,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>399</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -9568,6 +9632,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16411">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11210</GrowerCode>
+    <GrowerName>गावडे विकास बापु</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>432</VillageCode>
+    <VillageName>नांगरे वस्ती (पठार)</VillageName>
+    <serveNo>336</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="7941">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11212</GrowerCode>
@@ -9879,7 +9959,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>222</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -9895,7 +9975,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>92</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -10311,7 +10391,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>401</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -10775,7 +10855,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>728</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -11015,7 +11095,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>284</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12119,7 +12199,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>407/5</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -12135,7 +12215,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>407/5</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12151,7 +12231,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>359</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -12167,7 +12247,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>407</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12631,7 +12711,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>597</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13111,7 +13191,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>624</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13127,7 +13207,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>364</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13143,7 +13223,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>381</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13431,7 +13511,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>377</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13463,7 +13543,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>361</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13479,7 +13559,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>808</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13543,7 +13623,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>312</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13575,7 +13655,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>361</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13591,7 +13671,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>361</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13671,7 +13751,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>724</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14167,7 +14247,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>373</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14183,7 +14263,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>371</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14999,7 +15079,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>301</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15015,7 +15095,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>301</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -15463,7 +15543,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>550/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15863,7 +15943,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>90</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16807,7 +16887,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>362</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16823,7 +16903,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>275</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16839,7 +16919,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>397</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16855,7 +16935,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>387</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -17031,7 +17111,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>369</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -17047,7 +17127,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>369</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -19111,7 +19191,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>355</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -19127,7 +19207,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>358</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -19143,7 +19223,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>358</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -19815,7 +19895,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>432</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -20119,7 +20199,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>224</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -21303,7 +21383,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>371</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -21964,6 +22044,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16417">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25046</GrowerCode>
+    <GrowerName>सोनवणे नामदेव दौलत</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>405</VillageCode>
+    <VillageName>शिर्सुफळ</VillageName>
+    <serveNo>405</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -22999,7 +23095,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>729</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24183,7 +24279,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>358</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24199,7 +24295,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>358</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24215,7 +24311,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>137</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24231,7 +24327,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>185</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24631,7 +24727,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>120</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -25639,7 +25735,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>377</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -25756,6 +25852,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16412">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41567</GrowerCode>
+    <GrowerName>चांदगुडे नर्मदाबाई तगोेबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>872</VillageCode>
+    <VillageName>उंडवडी सुपे</VillageName>
+    <serveNo>142</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -26391,7 +26503,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>355</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -26711,7 +26823,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>545</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -27367,7 +27479,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>387</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -27703,7 +27815,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>265</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28039,7 +28151,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>360</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30183,7 +30295,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>91</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30631,7 +30743,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>289</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -31351,7 +31463,7 @@
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
-    <VillageName>रावणगाव(आकाशनगर)</VillageName>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
     <serveNo>350</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32489,6 +32601,102 @@
     <VillageCode>220</VillageCode>
     <VillageName>खडकी</VillageName>
     <serveNo>1035</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16407">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47573</GrowerCode>
+    <GrowerName>गाडेकर महेंद्र भाऊसाहेब</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>1301</VillageCode>
+    <VillageName>साबळेवाडी</VillageName>
+    <serveNo>389</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16410">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47574</GrowerCode>
+    <GrowerName>गाडेकर दादासो उत्तम</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>1301</VillageCode>
+    <VillageName>साबळेवाडी</VillageName>
+    <serveNo>200</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16409">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47574</GrowerCode>
+    <GrowerName>गाडेकर दादासो उत्तम</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>1301</VillageCode>
+    <VillageName>साबळेवाडी</VillageName>
+    <serveNo>383</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16408">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47574</GrowerCode>
+    <GrowerName>गाडेकर दादासो उत्तम</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>1301</VillageCode>
+    <VillageName>साबळेवाडी</VillageName>
+    <serveNo>389</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16413">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47575</GrowerCode>
+    <GrowerName>चांदगुडे सुभद्रा पोपट</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>872</VillageCode>
+    <VillageName>उंडवडी सुपे</VillageName>
+    <serveNo>135</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16419">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47576</GrowerCode>
+    <GrowerName>साबळे शरद माणिकराव</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>1301</VillageCode>
+    <VillageName>साबळेवाडी</VillageName>
+    <serveNo>338</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

@@ -519,7 +519,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>518</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -535,7 +535,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>518</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -567,7 +567,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>47</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -583,7 +583,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>47</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -599,7 +599,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>49</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -615,7 +615,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>47</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -631,7 +631,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>49</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -2631,7 +2631,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>574</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -2855,7 +2855,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>610/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -3200,6 +3200,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16420">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2871</GrowerCode>
+    <GrowerName>मोरे मालोजी नारायण</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>233</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="7392">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>2874</GrowerCode>
@@ -3287,7 +3303,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>604</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -3303,7 +3319,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>604</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -5527,7 +5543,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>33</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -5543,7 +5559,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>33</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -6407,7 +6423,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>525</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -6423,7 +6439,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>555</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -6567,7 +6583,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>522</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -6791,7 +6807,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>581</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -6807,7 +6823,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>533</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -6903,7 +6919,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>71</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -6919,7 +6935,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>71</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7047,7 +7063,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>49</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7063,7 +7079,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>604</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7079,7 +7095,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>604</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7095,7 +7111,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>537</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7143,7 +7159,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>409/47</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7159,7 +7175,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>579</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7319,7 +7335,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>122</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7415,7 +7431,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>22</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7511,7 +7527,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>51</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7527,7 +7543,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>51</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7543,7 +7559,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>51</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7607,7 +7623,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>455</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7687,7 +7703,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>73/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7703,7 +7719,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>59/3</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7719,7 +7735,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>22</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7943,7 +7959,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>125</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -7959,7 +7975,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>122</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -8071,7 +8087,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>96</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -8087,7 +8103,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>96</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -8119,7 +8135,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>579</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -8391,7 +8407,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>580/3</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -8695,7 +8711,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>137</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -8711,7 +8727,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>137</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -8919,7 +8935,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>502</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -8951,7 +8967,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>510</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -9175,7 +9191,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>57</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -9191,7 +9207,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>57</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -9479,7 +9495,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>117</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -10519,7 +10535,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>50</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -10567,7 +10583,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>53</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -10807,7 +10823,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>57</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -10823,7 +10839,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>57</serveNo>
     <CaneVariety>3</CaneVariety>
     <CaneVarietyName>CoC-671</CaneVarietyName>
@@ -11031,7 +11047,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>154</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -11383,7 +11399,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>609</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12455,7 +12471,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>521</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12487,7 +12503,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>22</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -12503,7 +12519,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>43</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -12519,7 +12535,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>587/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12695,7 +12711,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>24</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12711,7 +12727,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>591</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12727,7 +12743,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>591</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -12743,7 +12759,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>591</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -12759,7 +12775,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>591</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -12775,7 +12791,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>616</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -12935,7 +12951,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>138</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -12951,7 +12967,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>165</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13079,7 +13095,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>516</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13095,7 +13111,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>503/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13111,7 +13127,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>53</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13127,7 +13143,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>547</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13143,7 +13159,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>547</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13159,7 +13175,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13175,7 +13191,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13191,7 +13207,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>59</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13207,7 +13223,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>59</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13223,7 +13239,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>124</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13255,7 +13271,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>535</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13271,7 +13287,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>54/1९</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13543,7 +13559,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>536</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -13719,7 +13735,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>69</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13735,7 +13751,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>69</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13751,7 +13767,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>69</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13767,7 +13783,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>69</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -13991,7 +14007,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>69</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14087,7 +14103,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>123</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14119,7 +14135,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>523</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14135,7 +14151,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>502</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14743,7 +14759,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>603</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14759,7 +14775,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>603</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -14775,7 +14791,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>545</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14791,7 +14807,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>545</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -14935,7 +14951,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>132</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14951,7 +14967,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>537</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -14967,7 +14983,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>422</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -14983,7 +14999,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>421</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15031,7 +15047,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>590</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15047,7 +15063,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>590</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -15063,7 +15079,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>518</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15079,7 +15095,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>502</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15095,7 +15111,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>518</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -15111,7 +15127,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>115</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15431,7 +15447,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>540</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -15447,7 +15463,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>540</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -15623,7 +15639,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>63</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -15767,7 +15783,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>494</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15799,7 +15815,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>557</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -15815,7 +15831,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>118</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15879,7 +15895,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>41</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15895,7 +15911,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15911,7 +15927,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15943,7 +15959,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>512</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -15959,7 +15975,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>95</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16247,7 +16263,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>233</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16311,7 +16327,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>523/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16327,7 +16343,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>523/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16391,7 +16407,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>72</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16407,7 +16423,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>49</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16423,7 +16439,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>33</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16455,7 +16471,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>98</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16471,7 +16487,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>527</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16487,7 +16503,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>49</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16503,7 +16519,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>49</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16519,7 +16535,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>140</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16535,7 +16551,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>181</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16551,7 +16567,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>181</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16599,7 +16615,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16615,7 +16631,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16823,7 +16839,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>518</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16839,7 +16855,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>394</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16855,7 +16871,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>591</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16935,7 +16951,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>524</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -16967,7 +16983,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>510</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -16983,7 +16999,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>510</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -17863,7 +17879,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>528</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -17927,7 +17943,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>532</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -17943,7 +17959,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>532</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -17975,7 +17991,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>531</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -17991,7 +18007,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>531</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -18007,7 +18023,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>531</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -18279,7 +18295,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>600</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -18375,7 +18391,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>535/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -18423,7 +18439,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>143</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -18631,7 +18647,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>111</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -18663,7 +18679,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>529</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -18679,7 +18695,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>506</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -18695,7 +18711,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>506</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -19495,7 +19511,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>161</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -19511,7 +19527,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>143</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -19527,7 +19543,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>48</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -19543,7 +19559,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>48</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -19559,7 +19575,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>500</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -19575,7 +19591,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>35</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -19671,7 +19687,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>601</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -19735,7 +19751,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>39</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -20023,7 +20039,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>533</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -20279,7 +20295,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>107</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -20295,7 +20311,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>128</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -20311,7 +20327,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>128</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -20375,7 +20391,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>603</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -20391,7 +20407,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>603</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -20407,7 +20423,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>603</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -20487,7 +20503,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>57</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -20711,7 +20727,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>59/5</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -20727,7 +20743,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>59/5</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -20855,7 +20871,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>270</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -20983,7 +20999,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>156</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -21111,7 +21127,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>455</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -21255,7 +21271,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>137</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -21655,7 +21671,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>147</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -21671,7 +21687,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>147</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -22295,7 +22311,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>529</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -22503,7 +22519,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>89</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -22727,7 +22743,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>138</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -22951,7 +22967,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>604/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -22967,7 +22983,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>599</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -22983,7 +22999,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>534</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -22999,7 +23015,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>599</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -23015,7 +23031,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>599</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23031,7 +23047,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>90</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23047,7 +23063,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>490/4</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -23063,7 +23079,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>533</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23095,7 +23111,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23111,7 +23127,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23127,7 +23143,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>534</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23143,7 +23159,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>534</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -23159,7 +23175,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>534</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23175,7 +23191,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>614</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -23239,7 +23255,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>156</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23255,7 +23271,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -23271,7 +23287,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>156</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -23712,6 +23728,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16437">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>19469</GrowerCode>
+    <GrowerName>दराडे कौशल्या सदाशिव(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>329</VillageCode>
+    <VillageName>अकोले (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14062">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>23011</GrowerCode>
@@ -23719,7 +23751,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>482</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24055,7 +24087,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>422</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24231,7 +24263,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>609</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -24615,7 +24647,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -24631,7 +24663,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24647,7 +24679,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>611</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24663,7 +24695,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>611</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -24679,7 +24711,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>506</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -24743,7 +24775,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>581/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -25143,7 +25175,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>143</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -25159,7 +25191,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>143</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -25175,7 +25207,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>143</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -25191,7 +25223,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>143</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -25207,7 +25239,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>527/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -25223,7 +25255,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>527/2</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -25303,7 +25335,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>59</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -25319,7 +25351,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>59</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -25351,7 +25383,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>610/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26151,7 +26183,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>57</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26183,7 +26215,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>493</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26231,7 +26263,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>490</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26247,7 +26279,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>490</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26263,7 +26295,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>490</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26279,7 +26311,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>490</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -26327,7 +26359,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>581</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -26487,7 +26519,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>56</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -26503,7 +26535,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>130</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -26519,7 +26551,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>56</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26688,6 +26720,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16438">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26438</GrowerCode>
+    <GrowerName>केकाण राजेंद्र लक्ष्मण(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>329</VillageCode>
+    <VillageName>अकोले (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14752">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>26442</GrowerCode>
@@ -26711,7 +26759,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>50</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26727,7 +26775,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>50</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -26823,7 +26871,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>19</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26839,7 +26887,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>19</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -26903,7 +26951,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>120</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -26951,7 +26999,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>646/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -27159,7 +27207,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>529</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -27175,7 +27223,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>529</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -27367,7 +27415,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>144</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -27575,7 +27623,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>548</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -27607,7 +27655,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>492</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -27672,6 +27720,22 @@
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>267</VillageCode>
     <VillageName>शेटफ़ळगढे (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16354">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26215</GrowerCode>
+    <GrowerName>वणवे गोरख शंकर(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>454</VillageCode>
+    <VillageName>लाकडी (CSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -27783,7 +27847,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>574</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28007,7 +28071,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>32/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28023,7 +28087,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>32/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28039,7 +28103,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>502</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28055,7 +28119,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>520</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28263,7 +28327,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>65/2</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28279,7 +28343,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>138</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28295,7 +28359,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>132</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28311,7 +28375,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>51</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28327,7 +28391,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>141</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28343,7 +28407,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>530/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28359,7 +28423,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>530</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28423,7 +28487,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>152</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28439,7 +28503,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>152</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28471,7 +28535,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>142</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28487,7 +28551,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>142/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28519,7 +28583,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>532</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28535,7 +28599,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>532</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28679,7 +28743,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>579</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28695,7 +28759,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>579</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28743,7 +28807,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>580</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -28759,7 +28823,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>600</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28775,7 +28839,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>534</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -28951,7 +29015,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>468</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -29031,7 +29095,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>439</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -29319,7 +29383,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>137</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -29335,7 +29399,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>137</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -29351,7 +29415,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>137</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -29367,7 +29431,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>132</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -29383,7 +29447,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>132</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -29895,7 +29959,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>137</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30007,7 +30071,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>31</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30071,7 +30135,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>610/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30087,7 +30151,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>610/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30199,7 +30263,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>519</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30215,7 +30279,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>521</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30231,7 +30295,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>29/2</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30247,7 +30311,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>29/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30375,7 +30439,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>651</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30407,7 +30471,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>592</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30551,7 +30615,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>42</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30567,7 +30631,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>42</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30583,7 +30647,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>42</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30647,7 +30711,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>114</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30663,7 +30727,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>527</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30743,7 +30807,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>530/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30759,7 +30823,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>126</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30775,7 +30839,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>126</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30791,7 +30855,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>126</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30807,7 +30871,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>69</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -30823,7 +30887,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>69</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -30967,7 +31031,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>613</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -31239,7 +31303,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>527/1 523</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -31456,6 +31520,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16424">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30788</GrowerCode>
+    <GrowerName>कोंडे हरिदास महादेव</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <serveNo>594</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2803">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>32352</GrowerCode>
@@ -31463,7 +31543,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>613</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -31479,7 +31559,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>572</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -31559,7 +31639,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>99</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -31703,7 +31783,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>98</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32183,7 +32263,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>128</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32215,7 +32295,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>44</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32311,7 +32391,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>507</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -32327,7 +32407,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>507</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32343,7 +32423,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>507</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -32359,7 +32439,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>507</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32375,7 +32455,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>507</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32391,7 +32471,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>545</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32407,7 +32487,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>522</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32423,7 +32503,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>522</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -32455,7 +32535,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>555</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -32471,7 +32551,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>436</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -32583,7 +32663,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>651</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32599,7 +32679,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>651</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -32647,7 +32727,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>467</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -32711,7 +32791,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>521</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -32759,7 +32839,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>50</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -32791,7 +32871,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>155</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -33111,7 +33191,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>141</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -33456,6 +33536,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16403">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37328</GrowerCode>
+    <GrowerName>निंबाळकर चंद्रकला संपतराव(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>1298</VillageCode>
+    <VillageName>सणसर ब (CSSK )</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="15592">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>35926</GrowerCode>
@@ -33479,7 +33575,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>611</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -33591,7 +33687,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>130</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -33607,7 +33703,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>130</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -33687,7 +33783,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>75</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -33943,7 +34039,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>417</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34071,7 +34167,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>33</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34247,7 +34343,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>90</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34263,7 +34359,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -34279,7 +34375,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34295,7 +34391,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -34311,7 +34407,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34439,7 +34535,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>51</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34455,7 +34551,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>51</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34535,7 +34631,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>580</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -34615,7 +34711,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>577</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34647,7 +34743,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>615/616</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34695,7 +34791,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>29/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -34711,7 +34807,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>132</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -34727,7 +34823,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>50/10</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34743,7 +34839,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>50/9</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34759,7 +34855,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>39/4</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -34983,7 +35079,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>608</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -35015,7 +35111,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>337</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -35031,7 +35127,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>608</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -35047,7 +35143,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>608</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -35175,7 +35271,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>534</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -35191,7 +35287,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>534</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -35239,7 +35335,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>331/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -35271,7 +35367,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>597</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -35335,7 +35431,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>522</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -35399,7 +35495,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>29</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -35655,7 +35751,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>417</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -35687,7 +35783,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>116</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -36183,7 +36279,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>24</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -36423,7 +36519,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>155</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -37175,7 +37271,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>557</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -37191,7 +37287,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>557</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -37207,7 +37303,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>616/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -37223,7 +37319,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>616/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -37239,7 +37335,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>579</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -37287,7 +37383,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>163</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -37319,7 +37415,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>390/6</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -37335,7 +37431,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>133/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -37351,7 +37447,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>133/2</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -37495,7 +37591,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>98</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -37943,7 +38039,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>155/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -38039,7 +38135,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>492</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -38055,7 +38151,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>492</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -38103,7 +38199,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>461</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -38135,7 +38231,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>22</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -38231,7 +38327,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>131</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -38295,7 +38391,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>165</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -38551,7 +38647,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>530/6</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -38807,7 +38903,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>90</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -38823,7 +38919,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>449</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -38983,7 +39079,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>38</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -38999,7 +39095,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>38</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -39239,7 +39335,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -39255,7 +39351,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>58/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -40199,7 +40295,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>156</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -40215,7 +40311,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>156</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -40231,7 +40327,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>198</VillageCode>
-    <VillageName>मेंगावडेवस्ती(राजेगाव)</VillageName>
+    <VillageName>मेंगावडेवस्ती (राजेगाव)</VillageName>
     <serveNo>604</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -41351,7 +41447,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>175</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -41367,7 +41463,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>175</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -41703,7 +41799,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>50</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -42663,7 +42759,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>69</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -43175,7 +43271,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>91</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -43191,7 +43287,7 @@
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
-    <VillageName>राजेगाव(फार्म)</VillageName>
+    <VillageName>राजेगाव (फार्म)</VillageName>
     <serveNo>148/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -46112,6 +46208,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16435">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47589</GrowerCode>
+    <GrowerName>लंबाते गोरख नवनाथ राजाराम (CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>360</VillageCode>
+    <VillageName>गोजुबावी (छत्रपती)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16153">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47422</GrowerCode>
@@ -46296,6 +46408,22 @@
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>461</VillageCode>
     <VillageName>जळोची (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16402">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47570</GrowerCode>
+    <GrowerName>मोहीते कृष्णा साहेबराव(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>262</VillageCode>
+    <VillageName>सिदेश्वर निंबोडी (CSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -46892,6 +47020,70 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16421">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47577</GrowerCode>
+    <GrowerName>मोरे शिवाजी जगन्नाथ</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>226</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16422">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47578</GrowerCode>
+    <GrowerName>मेंगावडे नवनाथ गुलाब</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>496</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16423">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47579</GrowerCode>
+    <GrowerName>गुणवरे बाळासो तात्याबा</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>106</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16425">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47580</GrowerCode>
+    <GrowerName>जाधव सर्जेराव दिनकर</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>226/6</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

@@ -112,22 +112,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="16354">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>26215</GrowerCode>
-    <GrowerName>वणवे गोरख शंकर(CSSK)</GrowerName>
-    <GatCode>16</GatCode>
-    <GatName>इंदापुर </GatName>
-    <VillageCode>1078</VillageCode>
-    <VillageName>लाकडी</VillageName>
-    <serveNo>-</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>पु.हंगामी</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="14768">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>34815</GrowerCode>
@@ -265,6 +249,22 @@
     <VillageCode>872</VillageCode>
     <VillageName>उंडवडी सुपे</VillageName>
     <serveNo>14</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16412">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41567</GrowerCode>
+    <GrowerName>चांदगुडे नर्मदाबाई तगोेबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>872</VillageCode>
+    <VillageName>उंडवडी सुपे</VillageName>
+    <serveNo>142</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -1513,6 +1513,22 @@
     <VillageCode>1293</VillageCode>
     <VillageName>रुई (कळस)</VillageName>
     <serveNo>92</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16413">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47575</GrowerCode>
+    <GrowerName>चांदगुडे सुभद्रा पोपट</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>872</VillageCode>
+    <VillageName>उंडवडी सुपे</VillageName>
+    <serveNo>135</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

@@ -26992,4 +26992,36 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16427">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47582</GrowerCode>
+    <GrowerName>खराडे गणेश मोहन</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>492</VillageCode>
+    <VillageName>लहारेपट(काष्टी)</VillageName>
+    <serveNo>140</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16428">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47583</GrowerCode>
+    <GrowerName>निंभोरे रमेश बापू</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>46</VillageCode>
+    <VillageName>घोटवी</VillageName>
+    <serveNo>294</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
