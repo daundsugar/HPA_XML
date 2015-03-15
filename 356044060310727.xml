@@ -3040,6 +3040,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16441">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>27433</GrowerCode>
+    <GrowerName>निंबाळकर सुनिता नानासाहेब(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>475</VillageCode>
+    <VillageName>काझड (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16362">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>27433</GrowerCode>
@@ -10800,6 +10816,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16440">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47591</GrowerCode>
+    <GrowerName>नवले संजय दत्तात्रय(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>469</VillageCode>
+    <VillageName>पिंपळी (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16371">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47546</GrowerCode>
@@ -11683,7 +11715,7 @@
   <PlotList plotNo="16200">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47447</GrowerCode>
-    <GrowerName>जगताप बापुराव तात्याबा(CSS</GrowerName>
+    <GrowerName>जगताप बापुराव तात्याबा(CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>489</VillageCode>
