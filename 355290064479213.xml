@@ -1024,6 +1024,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16497">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>789</GrowerCode>
+    <GrowerName>खोमणे कैलास मारुती</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>126</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="15301">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>790</GrowerCode>
@@ -23600,6 +23616,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16496">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12198</GrowerCode>
+    <GrowerName>शिंदे पमाबाई नामदेव</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>407/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14093">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12208</GrowerCode>
@@ -27270,8 +27302,8 @@
     <GrowerName>गायकवाड अनिल मधुकर</GrowerName>
     <GatCode>2</GatCode>
     <GatName>लिंगाळी</GatName>
-    <VillageCode>9</VillageCode>
-    <VillageName>खोरवडी</VillageName>
+    <VillageCode>10</VillageCode>
+    <VillageName>दौंड</VillageName>
     <serveNo>10</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -33110,8 +33142,8 @@
     <GrowerName>गायकवाड संतोष विनायक</GrowerName>
     <GatCode>2</GatCode>
     <GatName>लिंगाळी</GatName>
-    <VillageCode>9</VillageCode>
-    <VillageName>खोरवडी</VillageName>
+    <VillageCode>10</VillageCode>
+    <VillageName>दौंड</VillageName>
     <serveNo>10</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
