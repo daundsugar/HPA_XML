@@ -19510,8 +19510,8 @@
     <GrowerName>वाबळे सागर परशुराम</GrowerName>
     <GatCode>10</GatCode>
     <GatName>शिरुर</GatName>
-    <VillageCode>129</VillageCode>
-    <VillageName>पिंपळसुटी</VillageName>
+    <VillageCode>751</VillageCode>
+    <VillageName>शिरसगाव काटा (जगतापवाडी)</VillageName>
     <serveNo>262</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -19545,6 +19545,22 @@
     <VillageCode>750</VillageCode>
     <VillageName>तांदळी (म्हसोबावाडी)</VillageName>
     <serveNo>221</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16499">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47626</GrowerCode>
+    <GrowerName>पवार केसरबाई पोपट</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>129</VillageCode>
+    <VillageName>पिंपळसुटी</VillageName>
+    <serveNo>299/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
