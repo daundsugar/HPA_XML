@@ -19888,4 +19888,20 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16567">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47677</GrowerCode>
+    <GrowerName>कुरुमकर दिगंबर हनुमंत</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>300</VillageCode>
+    <VillageName>इनामगाव (शिरुर)</VillageName>
+    <serveNo>490</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

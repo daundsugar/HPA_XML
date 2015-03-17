@@ -14192,6 +14192,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16552">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12096</GrowerCode>
+    <GrowerName>पोटे दिलीप मारुती</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>3</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <serveNo>679</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14259">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12098</GrowerCode>
@@ -21657,6 +21673,22 @@
     <VillageCode>6</VillageCode>
     <VillageName>काळेवाडी</VillageName>
     <serveNo>5</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16551">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41371</GrowerCode>
+    <GrowerName>खोमणे सुनिता महादेव</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>145</VillageCode>
+    <VillageName>गाडेवाडी (दौंड)</VillageName>
+    <serveNo>193</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>

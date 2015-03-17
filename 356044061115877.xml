@@ -3712,6 +3712,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16565">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5978</GrowerCode>
+    <GrowerName>तोरकड जगन्नाथ विश्वनाथ</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>115</VillageCode>
+    <VillageName>तोरकडवाडी</VillageName>
+    <serveNo>15</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13009">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>5428</GrowerCode>
@@ -5392,6 +5408,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16564">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6886</GrowerCode>
+    <GrowerName>भोसले भाऊसाहेब सर्जेराव </GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>बेर्डी</VillageName>
+    <serveNo>4/4</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14351">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>7751</GrowerCode>
@@ -6057,6 +6089,22 @@
     <VillageCode>93</VillageCode>
     <VillageName>सिध्दटेक</VillageName>
     <serveNo>32</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16566">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8029</GrowerCode>
+    <GrowerName>शेळके विठ्ठल बाबु</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>761</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
