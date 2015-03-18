@@ -7168,6 +7168,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16616">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8661</GrowerCode>
+    <GrowerName>ढमे गणेश बाळासो </GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>579</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="9201">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>8024</GrowerCode>
@@ -26784,6 +26800,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16615">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>24381</GrowerCode>
+    <GrowerName>लोंढे स्वराज तुळशीराम</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>613</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="1779">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>24385</GrowerCode>
@@ -36860,6 +36892,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16613">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47701</GrowerCode>
+    <GrowerName>कोशिंबरे तुकाराम बापु</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>206</VillageCode>
+    <VillageName>मलठण स्टेशन</VillageName>
+    <serveNo>80</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

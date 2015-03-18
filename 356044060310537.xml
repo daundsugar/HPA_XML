@@ -1312,4 +1312,36 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16611">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47700</GrowerCode>
+    <GrowerName>जाचक शैलेंद्र कुशार्वत</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>969</VillageCode>
+    <VillageName>जाचकवस्ती</VillageName>
+    <serveNo>275/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16608">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47700</GrowerCode>
+    <GrowerName>जाचक शैलेंद्र कुशार्वत</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>969</VillageCode>
+    <VillageName>जाचकवस्ती</VillageName>
+    <serveNo>275/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

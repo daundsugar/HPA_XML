@@ -1840,6 +1840,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16610">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6477</GrowerCode>
+    <GrowerName>भोगे सुनिता एकनाथ</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>115</VillageCode>
+    <VillageName>तोरकडवाडी</VillageName>
+    <serveNo>27/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13161">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>4451</GrowerCode>
@@ -3180,6 +3196,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16612">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4525</GrowerCode>
+    <GrowerName>शितोळे सर्जेराव निवृत्ती</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>336</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -8201,6 +8233,22 @@
     <VillageCode>93</VillageCode>
     <VillageName>सिध्दटेक</VillageName>
     <serveNo>57</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16609">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26552</GrowerCode>
+    <GrowerName>काकडे सुदाम नारायण</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>384/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
