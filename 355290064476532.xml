@@ -15616,6 +15616,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16596">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20291</GrowerCode>
+    <GrowerName>होले भगवान तुकाराम</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>5</VillageCode>
+    <VillageName>लोणारवाडी </VillageName>
+    <serveNo>196/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="6405">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20301</GrowerCode>
@@ -17049,6 +17065,22 @@
     <VillageCode>145</VillageCode>
     <VillageName>गाडेवाडी (दौंड)</VillageName>
     <serveNo>174</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16599">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20085</GrowerCode>
+    <GrowerName>काळे भानुदास रघुनाथ </GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>आलेगाव</VillageName>
+    <serveNo>59</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
@@ -24988,6 +25020,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16598">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47691</GrowerCode>
+    <GrowerName>गायकवाड मुरलिधर दत्तात्रय</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>5</VillageCode>
+    <VillageName>लोणारवाडी </VillageName>
+    <serveNo>192/3</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
