@@ -31299,7 +31299,7 @@
   <PlotList plotNo="8291">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>45114</GrowerCode>
-    <GrowerName>काळे अमोल शिवाजी </GrowerName>
+    <GrowerName>काळभोर अमोल शिवाजी </GrowerName>
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>220</VillageCode>
@@ -32739,7 +32739,7 @@
   <PlotList plotNo="16673">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47732</GrowerCode>
-    <GrowerName>हुंबे बाळासो नाना</GrowerName>
+    <GrowerName>हुंबे बाळासाहेब नानासो</GrowerName>
     <GatCode>20</GatCode>
     <GatName>बारामती</GatName>
     <VillageCode>1053</VillageCode>
@@ -32748,6 +32748,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16738">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47773</GrowerCode>
+    <GrowerName>जामदार शिवाजी तात्याबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>1053</VillageCode>
+    <VillageName>बेलवाडी</VillageName>
+    <serveNo>156</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

@@ -1635,7 +1635,7 @@
   <PlotList plotNo="16673">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47732</GrowerCode>
-    <GrowerName>हुंबे बाळासो नाना</GrowerName>
+    <GrowerName>हुंबे बाळासाहेब नानासो</GrowerName>
     <GatCode>20</GatCode>
     <GatName>बारामती</GatName>
     <VillageCode>1053</VillageCode>
@@ -1705,6 +1705,70 @@
     <VillageCode>1293</VillageCode>
     <VillageName>रुई (कळस)</VillageName>
     <serveNo>402</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16735">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47770</GrowerCode>
+    <GrowerName>जामदार गजानन अर्जुन</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>969</VillageCode>
+    <VillageName>जाचकवस्ती</VillageName>
+    <serveNo>110</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16736">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47771</GrowerCode>
+    <GrowerName>निंबाळकर दिलीप तुकाराम</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>386</VillageCode>
+    <VillageName>लासुर्णे</VillageName>
+    <serveNo>723</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16737">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47772</GrowerCode>
+    <GrowerName>जाधव शर्मत राजेंद्र</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>969</VillageCode>
+    <VillageName>जाचकवस्ती</VillageName>
+    <serveNo>51</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16738">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47773</GrowerCode>
+    <GrowerName>जामदार शिवाजी तात्याबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>1053</VillageCode>
+    <VillageName>बेलवाडी</VillageName>
+    <serveNo>156</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
