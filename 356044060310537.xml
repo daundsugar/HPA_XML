@@ -1312,6 +1312,54 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16900">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47872</GrowerCode>
+    <GrowerName>जगताप प्रल्हाद नारायण (डाळज-2)</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>354</VillageCode>
+    <VillageName>डाळज नं 2</VillageName>
+    <serveNo>244</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16902">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47873</GrowerCode>
+    <GrowerName>मारकड निवृत्ती श्रीरंग</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1293</VillageCode>
+    <VillageName>रुई (कळस)</VillageName>
+    <serveNo>481</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16903">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47875</GrowerCode>
+    <GrowerName>मारकड जगन्नाथ दिनकर</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1293</VillageCode>
+    <VillageName>रुई (कळस)</VillageName>
+    <serveNo>429</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16511">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47635</GrowerCode>

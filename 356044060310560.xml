@@ -6432,6 +6432,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16896">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3641</GrowerCode>
+    <GrowerName>दुधे गजानन राघु</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>504</VillageCode>
+    <VillageName>मळद (पठार)</VillageName>
+    <serveNo>84</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14922">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3642</GrowerCode>
@@ -32380,6 +32396,38 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16897">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47868</GrowerCode>
+    <GrowerName>आटोळे बापुराव श्रीपती</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>405</VillageCode>
+    <VillageName>शिर्सुफळ</VillageName>
+    <serveNo>620</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16898">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47869</GrowerCode>
+    <GrowerName>मेरगळ दादा जयसिंग</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>38</VillageCode>
+    <VillageName>कौठडी</VillageName>
+    <serveNo>79</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

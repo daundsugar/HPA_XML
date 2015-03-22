@@ -17392,6 +17392,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16881">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21788</GrowerCode>
+    <GrowerName>धुमाळ ज्ञानदेव दिनकर</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>145</VillageCode>
+    <VillageName>गाडेवाडी (दौंड)</VillageName>
+    <serveNo>52</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="9975">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>21789</GrowerCode>
@@ -21465,6 +21481,22 @@
     <VillageCode>3</VillageCode>
     <VillageName>बोरीबेल</VillageName>
     <serveNo>45/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16882">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39055</GrowerCode>
+    <GrowerName>ठोंबरे प्रतिमा प्रल्हाद</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>6</VillageCode>
+    <VillageName>काळेवाडी</VillageName>
+    <serveNo>27/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
