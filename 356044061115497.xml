@@ -3139,7 +3139,7 @@
   <PlotList plotNo="16817">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>9089</GrowerCode>
-    <GrowerName>पठाण अब्रारखान नुरखान</GrowerName>
+    <GrowerName>पठाण अब्रारखान नुरखान(CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>262</VillageCode>
@@ -3331,7 +3331,7 @@
   <PlotList plotNo="16721">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>9972</GrowerCode>
-    <GrowerName>मोहिते आप्पासो माणिकराव</GrowerName>
+    <GrowerName>मोहिते आप्पासो माणिकराव(CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>262</VillageCode>
@@ -6028,6 +6028,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16974">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>17163</GrowerCode>
+    <GrowerName>खाडे रायसिंग दशरथ(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>271</VillageCode>
+    <VillageName>निरगुडे (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -40932,10 +40948,10 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47878</GrowerCode>
     <GrowerName>चौधर रामदास नामदेव (CSSK)</GrowerName>
-    <GatCode>16</GatCode>
-    <GatName>इंदापुर </GatName>
-    <VillageCode>471</VillageCode>
-    <VillageName>निरगुडे</VillageName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>271</VillageCode>
+    <VillageName>निरगुडे (CSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -42057,6 +42073,38 @@
     <VillageCode>831</VillageCode>
     <VillageName>काटेवाडी</VillageName>
     <serveNo>359</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16971">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47924</GrowerCode>
+    <GrowerName>हुंबे आप्पा सदाशिव(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>360</VillageCode>
+    <VillageName>गोजुबावी (छत्रपती)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16973">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47926</GrowerCode>
+    <GrowerName>वीरकर महादेव नामदेव(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>486</VillageCode>
+    <VillageName>सावळ (CSSK)</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>

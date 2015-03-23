@@ -22784,6 +22784,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="16982">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41213</GrowerCode>
+    <GrowerName>शिंदे महादेव बापूराव</GrowerName>
+    <GatCode>33</GatCode>
+    <GatName>गिरीम</GatName>
+    <VillageCode>1031</VillageCode>
+    <VillageName>गिरीम (धनगरवाडा)</VillageName>
+    <serveNo>692/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16679">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>41214</GrowerCode>
@@ -25609,6 +25625,22 @@
     <VillageCode>1019</VillageCode>
     <VillageName>सोनवडी</VillageName>
     <serveNo>109</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="16983">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47927</GrowerCode>
+    <GrowerName>भोसले रंगनाथ प्रभाकर</GrowerName>
+    <GatCode>33</GatCode>
+    <GatName>गिरीम</GatName>
+    <VillageCode>1044</VillageCode>
+    <VillageName>कुसेगांव</VillageName>
+    <serveNo>171</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
