@@ -31776,6 +31776,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17051">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>46056</GrowerCode>
+    <GrowerName>खोमणे युवराज संपत</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>272</VillageCode>
+    <VillageName>जिरेगाव (रावणगाव)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14107">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>46554</GrowerCode>
@@ -32800,6 +32816,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17091">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48010</GrowerCode>
+    <GrowerName>बनकर कविता मच्छिंद्र</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>405</VillageCode>
+    <VillageName>शिर्सुफळ</VillageName>
+    <serveNo>315</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16897">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47868</GrowerCode>
@@ -32825,6 +32857,22 @@
     <VillageCode>38</VillageCode>
     <VillageName>कौठडी</VillageName>
     <serveNo>79</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17087">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48008</GrowerCode>
+    <GrowerName>बोरकर भाऊसो गेणबा(SSSK)</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>979</VillageCode>
+    <VillageName>कुरकुंभ(पांढरेवाडी)</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>

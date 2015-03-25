@@ -240,6 +240,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17104">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41432</GrowerCode>
+    <GrowerName>मोरे वर्षा संजय</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>479</VillageCode>
+    <VillageName>मेडद (इंदापुर)</VillageName>
+    <serveNo>560</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14991">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>38903</GrowerCode>
@@ -1321,6 +1337,38 @@
     <VillageCode>1293</VillageCode>
     <VillageName>रुई (कळस)</VillageName>
     <serveNo>283</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17083">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48005</GrowerCode>
+    <GrowerName>पाटील आशिष सुरेश</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1326</VillageCode>
+    <VillageName>परिटवाडी (इंदापुर)</VillageName>
+    <serveNo>143</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17094">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48013</GrowerCode>
+    <GrowerName>निटवे सुरवंता नातु</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>386</VillageCode>
+    <VillageName>लासुर्णे</VillageName>
+    <serveNo>415</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
