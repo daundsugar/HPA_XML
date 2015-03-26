@@ -3136,6 +3136,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17179">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4305</GrowerCode>
+    <GrowerName>धालवडे उत्तम हरिभाऊ</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>569/2ऑष</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="14300">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>5339</GrowerCode>
@@ -13132,6 +13148,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17178">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48074</GrowerCode>
+    <GrowerName>जांभळे दत्तु राजाराम</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>दुधोडी</VillageName>
+    <serveNo>278/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

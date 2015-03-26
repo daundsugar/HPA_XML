@@ -12256,6 +12256,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17181">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35102</GrowerCode>
+    <GrowerName>घोरपडे शांताराम बाबासाहेब</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1045</VillageCode>
+    <VillageName>आंधळगांव </VillageName>
+    <serveNo>54</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="11890">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>35104</GrowerCode>
@@ -12457,6 +12473,22 @@
     <VillageCode>292</VillageCode>
     <VillageName>मांडवगण फराटा (शिरूर)</VillageName>
     <serveNo>648</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17182">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35168</GrowerCode>
+    <GrowerName>घोरपडे शहाजी बाबासाहेब</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>801</VillageCode>
+    <VillageName>कुरूळी</VillageName>
+    <serveNo>54</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
@@ -13068,6 +13100,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17183">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40913</GrowerCode>
+    <GrowerName>घोरपडे संभाजी बाबासाहेब</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>801</VillageCode>
+    <VillageName>कुरूळी</VillageName>
+    <serveNo>54</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -14156,6 +14204,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17184">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41019</GrowerCode>
+    <GrowerName>कुसेकर जयकुमार वसंत</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1045</VillageCode>
+    <VillageName>आंधळगांव </VillageName>
+    <serveNo>10/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -19836,6 +19900,86 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17180">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48075</GrowerCode>
+    <GrowerName>निंबाळकर नारायण शंकर (गणेगांव)</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>410</VillageCode>
+    <VillageName>गणेगाव (शिरुर)</VillageName>
+    <serveNo>153/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17186">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48076</GrowerCode>
+    <GrowerName>सुर्यवंशी सुनिल गोरख</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>824</VillageCode>
+    <VillageName>कोळगाव डोळस</VillageName>
+    <serveNo>140/4</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17185">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48076</GrowerCode>
+    <GrowerName>सुर्यवंशी सुनिल गोरख</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>824</VillageCode>
+    <VillageName>कोळगाव डोळस</VillageName>
+    <serveNo>135/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17188">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48077</GrowerCode>
+    <GrowerName>कुल नंदा संभाजी</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>824</VillageCode>
+    <VillageName>कोळगाव डोळस</VillageName>
+    <serveNo>65</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17187">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48077</GrowerCode>
+    <GrowerName>कुल नंदा संभाजी</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>824</VillageCode>
+    <VillageName>कोळगाव डोळस</VillageName>
+    <serveNo>65</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
