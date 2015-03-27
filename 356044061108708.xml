@@ -96,6 +96,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17270">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42336</GrowerCode>
+    <GrowerName>भिसे बाळुबाई नारायण</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>46</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17277">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42342</GrowerCode>
+    <GrowerName>भिसे शिवाजी जयसिंग</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>255</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="15463">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47029</GrowerCode>
@@ -121,6 +153,22 @@
     <VillageCode>1299</VillageCode>
     <VillageName>हिंगणगाव (फलटण)</VillageName>
     <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17276">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>43139</GrowerCode>
+    <GrowerName>भिसे विनायक सर्जेराव</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>646</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
@@ -268,6 +316,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17264">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48132</GrowerCode>
+    <GrowerName>ठोंबरे दत्तात्रय कृष्णाजी</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>82</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

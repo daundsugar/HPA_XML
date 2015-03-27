@@ -8208,22 +8208,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="10243">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12843</GrowerCode>
-    <GrowerName>पुणेकर सुदाम मुरलीधर</GrowerName>
-    <GatCode>1</GatCode>
-    <GatName>आलेगाव</GatName>
-    <VillageCode>5</VillageCode>
-    <VillageName>लोणारवाडी </VillageName>
-    <serveNo>78/3</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>पु.हंगामी</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="10295">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12847</GrowerCode>
@@ -10201,22 +10185,6 @@
     <VillageCode>5</VillageCode>
     <VillageName>लोणारवाडी </VillageName>
     <serveNo>22</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="4439">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12827</GrowerCode>
-    <GrowerName>पुणेकर माणिक मुरलीधर</GrowerName>
-    <GatCode>1</GatCode>
-    <GatName>आलेगाव</GatName>
-    <VillageCode>5</VillageCode>
-    <VillageName>लोणारवाडी </VillageName>
-    <serveNo>78/3</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

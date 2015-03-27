@@ -26896,6 +26896,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17244">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23327</GrowerCode>
+    <GrowerName>सकट गंगाराम बापु</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>83/3</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="1076">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>22378</GrowerCode>
@@ -38627,11 +38643,11 @@
   <PlotList plotNo="17242">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48114</GrowerCode>
-    <GrowerName>कृषि पर्यवेक्षक तालुका बिजगुणन केंद्र दौंड</GrowerName>
+    <GrowerName>कृषि पर्यवेक्षक तालुका बिज गुणन केंद्र दौंड</GrowerName>
     <GatCode>2</GatCode>
     <GatName>लिंगाळी</GatName>
-    <VillageCode>13</VillageCode>
-    <VillageName>गोपाळवाडी</VillageName>
+    <VillageCode>10</VillageCode>
+    <VillageName>दौंड</VillageName>
     <serveNo>166</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>

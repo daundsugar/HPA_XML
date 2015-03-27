@@ -10976,6 +10976,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17243">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11645</GrowerCode>
+    <GrowerName>सकुंडे संभाजी एकनाथ</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>501</VillageCode>
+    <VillageName>खडकी (पठार)</VillageName>
+    <serveNo>352</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13317">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11648</GrowerCode>
@@ -29136,6 +29152,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17274">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42379</GrowerCode>
+    <GrowerName>करे संतोष साहेबराव </GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>1037</VillageCode>
+    <VillageName>झारगडवाडी (बारामती)</VillageName>
+    <serveNo>490</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="4281">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39664</GrowerCode>
@@ -33196,6 +33228,86 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17258">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48128</GrowerCode>
+    <GrowerName>काळे स्वप्निल सुधाकर</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>220</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <serveNo>1233</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17259">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48129</GrowerCode>
+    <GrowerName>गवळी दत्तात्रय बाळासो</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>872</VillageCode>
+    <VillageName>उंडवडी सुपे</VillageName>
+    <serveNo>141</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17275">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48134</GrowerCode>
+    <GrowerName>मासाळ बबन आप्पा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>1037</VillageCode>
+    <VillageName>झारगडवाडी (बारामती)</VillageName>
+    <serveNo>41</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17279">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48135</GrowerCode>
+    <GrowerName>रायते भालचंद्र दशरथ</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>867</VillageCode>
+    <VillageName>सणसर </VillageName>
+    <serveNo>362/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17278">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48135</GrowerCode>
+    <GrowerName>रायते भालचंद्र दशरथ</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>867</VillageCode>
+    <VillageName>सणसर </VillageName>
+    <serveNo>362/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

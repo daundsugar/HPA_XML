@@ -10976,6 +10976,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17243">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11645</GrowerCode>
+    <GrowerName>सकुंडे संभाजी एकनाथ</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>501</VillageCode>
+    <VillageName>खडकी (पठार)</VillageName>
+    <serveNo>352</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13317">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11648</GrowerCode>
@@ -32521,6 +32537,22 @@
     <VillageCode>220</VillageCode>
     <VillageName>खडकी</VillageName>
     <serveNo>1035</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17258">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48128</GrowerCode>
+    <GrowerName>काळे स्वप्निल सुधाकर</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>220</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <serveNo>1233</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
