@@ -6528,6 +6528,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17353">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9163</GrowerCode>
+    <GrowerName>कायगुडे हनुमंत बाबा</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>102</VillageCode>
+    <VillageName>गणेशवाडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13901">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>7383</GrowerCode>
@@ -8505,6 +8521,22 @@
     <VillageCode>91</VillageCode>
     <VillageName>जलालपूर</VillageName>
     <serveNo>384/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17178">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25130</GrowerCode>
+    <GrowerName>जांभळे दत्तात्रय राजाराम</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>दुधोडी</VillageName>
+    <serveNo>278/2</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
@@ -13164,22 +13196,6 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="17178">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>48074</GrowerCode>
-    <GrowerName>जांभळे दत्तु राजाराम</GrowerName>
-    <GatCode>6</GatCode>
-    <GatName>कर्जत</GatName>
-    <VillageCode>90</VillageCode>
-    <VillageName>दुधोडी</VillageName>
-    <serveNo>278/2</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
