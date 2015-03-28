@@ -1264,6 +1264,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17365">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48074</GrowerCode>
+    <GrowerName>नागवडे तुकाराम बाबासो</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>479</VillageCode>
+    <VillageName>मेडद (इंदापुर)</VillageName>
+    <serveNo>265</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17368">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48196</GrowerCode>
+    <GrowerName>सातव सिंधुबाई बळीराम</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>828</VillageCode>
+    <VillageName>करेवाडी</VillageName>
+    <serveNo>192</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16322">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47515</GrowerCode>

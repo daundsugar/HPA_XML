@@ -96,6 +96,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17375">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42222</GrowerCode>
+    <GrowerName>कोळेकर मारुती बळिबा</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>349</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16201">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>42252</GrowerCode>
@@ -108,6 +124,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17376">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42257</GrowerCode>
+    <GrowerName>ठोंबरे कुसुम सुरेश</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>115</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
