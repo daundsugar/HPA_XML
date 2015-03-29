@@ -10976,6 +10976,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17465">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11201</GrowerCode>
+    <GrowerName>कोकणे बबन किसन</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>432</VillageCode>
+    <VillageName>नांगरे वस्ती (पठार)</VillageName>
+    <serveNo>90</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17243">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11645</GrowerCode>
@@ -32144,6 +32160,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17461">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>43048</GrowerCode>
+    <GrowerName>कोकणे बाळु आण्णा</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>432</VillageCode>
+    <VillageName>नांगरे वस्ती (पठार)</VillageName>
+    <serveNo>75</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13493">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>46271</GrowerCode>
@@ -32800,6 +32832,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17464">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44239</GrowerCode>
+    <GrowerName>गवळी मधुकर यादवराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>872</VillageCode>
+    <VillageName>उंडवडी सुपे</VillageName>
+    <serveNo>266</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="15859">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47251</GrowerCode>
@@ -33184,6 +33232,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17462">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48261</GrowerCode>
+    <GrowerName>जगताप आण्णा तुकाराम</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>872</VillageCode>
+    <VillageName>उंडवडी सुपे</VillageName>
+    <serveNo>61</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17463">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48262</GrowerCode>
+    <GrowerName>कोकणे नवनाथ आण्णा</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>432</VillageCode>
+    <VillageName>नांगरे वस्ती (पठार)</VillageName>
+    <serveNo>75</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16822">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47827</GrowerCode>
@@ -33401,6 +33481,22 @@
     <VillageCode>504</VillageCode>
     <VillageName>मळद (पठार)</VillageName>
     <serveNo>629</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17456">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48257</GrowerCode>
+    <GrowerName>काटे महादेव बापु</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>933</VillageCode>
+    <VillageName>कन्हेरी</VillageName>
+    <serveNo>120</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>

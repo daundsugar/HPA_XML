@@ -16,6 +16,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17459">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41647</GrowerCode>
+    <GrowerName>भिसे विठ्ठल साहेबराव</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>94</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16204">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>42394</GrowerCode>
@@ -281,6 +297,22 @@
     <VillageCode>1299</VillageCode>
     <VillageName>हिंगणगाव (फलटण)</VillageName>
     <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17457">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48258</GrowerCode>
+    <GrowerName>अटपाडकर शामराव बाबा</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>208</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
