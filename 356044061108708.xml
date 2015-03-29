@@ -352,6 +352,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17400">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48219</GrowerCode>
+    <GrowerName>भोईटे अंकुश आनंदराव</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1299</VillageCode>
+    <VillageName>हिंगणगाव (फलटण)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16583">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47682</GrowerCode>

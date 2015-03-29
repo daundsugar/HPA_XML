@@ -1328,6 +1328,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17437">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48248</GrowerCode>
+    <GrowerName>कुताळ नाथासो बाबुराव</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>815</VillageCode>
+    <VillageName>भादलवाडी</VillageName>
+    <serveNo>233</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16820">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47825</GrowerCode>
@@ -1660,6 +1676,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17435">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48246</GrowerCode>
+    <GrowerName>खांडेकर अंकुश किसन</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>392</VillageCode>
+    <VillageName>डाळज नं 3</VillageName>
+    <serveNo>193</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
