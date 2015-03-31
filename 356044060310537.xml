@@ -1318,8 +1318,8 @@
     <GrowerName>घोडके शांता तानाजी</GrowerName>
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
-    <VillageCode>791</VillageCode>
-    <VillageName>वरकुटे बु.</VillageName>
+    <VillageCode>589</VillageCode>
+    <VillageName>वरकुटे</VillageName>
     <serveNo>282</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -1433,6 +1433,38 @@
     <VillageCode>1293</VillageCode>
     <VillageName>रुई (कळस)</VillageName>
     <serveNo>283</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17647">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48385</GrowerCode>
+    <GrowerName>कोकरे चंद्रकला मारुती</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1293</VillageCode>
+    <VillageName>रुई (कळस)</VillageName>
+    <serveNo>578</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17648">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48386</GrowerCode>
+    <GrowerName>कांबळे रामचंद्र गोपिनाथ</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1293</VillageCode>
+    <VillageName>रुई (कळस)</VillageName>
+    <serveNo>428</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -1783,7 +1815,7 @@
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
     <VillageCode>383</VillageCode>
-    <VillageName>बोरी(इदापुर)</VillageName>
+    <VillageName>बोरी (इदापुर)</VillageName>
     <serveNo>368</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
