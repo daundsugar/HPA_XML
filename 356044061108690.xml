@@ -25712,6 +25712,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17710">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48429</GrowerCode>
+    <GrowerName>भोसले संपत बाबुराव</GrowerName>
+    <GatCode>33</GatCode>
+    <GatName>गिरीम</GatName>
+    <VillageCode>1044</VillageCode>
+    <VillageName>कुसेगांव</VillageName>
+    <serveNo>100</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16774">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47794</GrowerCode>
