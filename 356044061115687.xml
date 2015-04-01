@@ -11008,6 +11008,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17723">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>31029</GrowerCode>
+    <GrowerName>इथापे दत्तात्रय भाऊसाहेब</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>553</VillageCode>
+    <VillageName>तांदळी (माळवाडी)</VillageName>
+    <serveNo>585</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="12706">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>31029</GrowerCode>
@@ -20732,6 +20748,54 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17721">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48438</GrowerCode>
+    <GrowerName>गायकवाड जनार्दन मारुती</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>410</VillageCode>
+    <VillageName>गणेगाव (शिरुर)</VillageName>
+    <serveNo>550/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17722">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48439</GrowerCode>
+    <GrowerName>भोसले भाऊसो संपत</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>410</VillageCode>
+    <VillageName>गणेगाव (शिरुर)</VillageName>
+    <serveNo>550</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17724">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48440</GrowerCode>
+    <GrowerName>नवलाखा रविंद्र निरजीचंद</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>379</VillageCode>
+    <VillageName>आलेगांव पागा</VillageName>
+    <serveNo>361</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
