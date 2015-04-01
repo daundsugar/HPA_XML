@@ -3936,6 +3936,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17733">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5414</GrowerCode>
+    <GrowerName>नाझीरकर सुनिल बाबुराव</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>358</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13009">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>5428</GrowerCode>
@@ -13705,22 +13721,6 @@
     <VillageCode>55</VillageCode>
     <VillageName>भांबोरा</VillageName>
     <serveNo>-</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>पु.हंगामी</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="17733">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>48448</GrowerCode>
-    <GrowerName>नाझिरकर सुनिल बाबुराव</GrowerName>
-    <GatCode>6</GatCode>
-    <GatName>कर्जत</GatName>
-    <VillageCode>91</VillageCode>
-    <VillageName>जलालपूर</VillageName>
-    <serveNo>358</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
