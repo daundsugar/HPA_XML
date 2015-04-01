@@ -45555,7 +45555,7 @@
   <PlotList plotNo="17504">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11060</GrowerCode>
-    <GrowerName>चौधर रोहिदास राजाराम</GrowerName>
+    <GrowerName>चौधर रोहिदास राजाराम(CSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>337</VillageCode>
@@ -47737,6 +47737,22 @@
     <VillageCode>464</VillageCode>
     <VillageName>सोनगाव अ (CSSK)</VillageName>
     <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17745">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48456</GrowerCode>
+    <GrowerName>रासकर गणेश अंकुशराव</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>464</VillageCode>
+    <VillageName>सोनगाव अ (CSSK)</VillageName>
+    <serveNo>10716</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
@@ -51104,6 +51120,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17748">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>34900</GrowerCode>
+    <GrowerName>काटे शितल सुभाषराव(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>487</VillageCode>
+    <VillageName>काटेवाडी (CSSK)</VillageName>
+    <serveNo>319/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="15526">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>35259</GrowerCode>
@@ -53891,7 +53923,7 @@
   <PlotList plotNo="17609">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48361</GrowerCode>
-    <GrowerName>भोसले बाळासो नामदेवे (CSSSK)</GrowerName>
+    <GrowerName>भोसले बाळासो नामदेव (CSSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>1206</VillageCode>
