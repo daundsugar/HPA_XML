@@ -58496,22 +58496,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="17720">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>48436</GrowerCode>
-    <GrowerName>चौधर बापु रघुनाथ</GrowerName>
-    <GatCode>20</GatCode>
-    <GatName>बारामती</GatName>
-    <VillageCode>829</VillageCode>
-    <VillageName>रुई</VillageName>
-    <serveNo>-</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="16539">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47655</GrowerCode>
@@ -58553,6 +58537,22 @@
     <VillageCode>1022</VillageCode>
     <VillageName>गार (दौंड)</VillageName>
     <serveNo>1158</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17827">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48512</GrowerCode>
+    <GrowerName>टाकळे बाळासो आप्पासो</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>1067</VillageCode>
+    <VillageName>गुनवडी (बारामती)</VillageName>
+    <serveNo>813</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
