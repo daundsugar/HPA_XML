@@ -25392,6 +25392,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="17828">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48513</GrowerCode>
+    <GrowerName>खराडे बबन निवृत्ती</GrowerName>
+    <GatCode>33</GatCode>
+    <GatName>गिरीम</GatName>
+    <VillageCode>1048</VillageCode>
+    <VillageName>हिंगणीगाडा (गिरीम)</VillageName>
+    <serveNo>1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="17829">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48514</GrowerCode>
+    <GrowerName>शिंदे सुशिलाबई दशरथ</GrowerName>
+    <GatCode>33</GatCode>
+    <GatName>गिरीम</GatName>
+    <VillageCode>1048</VillageCode>
+    <VillageName>हिंगणीगाडा (गिरीम)</VillageName>
+    <serveNo>386</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17092">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48011</GrowerCode>
