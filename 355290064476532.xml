@@ -5712,6 +5712,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18247">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6414</GrowerCode>
+    <GrowerName>देवकाते छबाबाई सुरेश</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>5</VillageCode>
+    <VillageName>लोणारवाडी </VillageName>
+    <serveNo>1/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="4422">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>150</GrowerCode>
@@ -21280,6 +21296,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18245">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36134</GrowerCode>
+    <GrowerName>बालटकर शालन बाळु</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>5</VillageCode>
+    <VillageName>लोणारवाडी </VillageName>
+    <serveNo>86</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10057">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>34021</GrowerCode>
@@ -25129,6 +25161,22 @@
     <VillageCode>145</VillageCode>
     <VillageName>गाडेवाडी (दौंड)</VillageName>
     <serveNo>96/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18240">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48786</GrowerCode>
+    <GrowerName>गाडे सुरेश दत्तु</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>145</VillageCode>
+    <VillageName>गाडेवाडी (दौंड)</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
