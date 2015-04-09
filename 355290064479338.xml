@@ -47680,6 +47680,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18500">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>17202</GrowerCode>
+    <GrowerName>चौधर विट्टल जयवंत(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>337</VillageCode>
+    <VillageName>रुई (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="15384">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>17262</GrowerCode>
@@ -53124,6 +53140,22 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48850</GrowerCode>
     <GrowerName>गावडे संदीप बाबूराव (CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>485</VillageCode>
+    <VillageName>कन्हेरी अ (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18501">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48951</GrowerCode>
+    <GrowerName>गावडे धनाजी विठोबा (SSSK)</GrowerName>
     <GatCode>17</GatCode>
     <GatName>छत्रपती कारखाना</GatName>
     <VillageCode>485</VillageCode>
