@@ -45792,6 +45792,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18479">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48939</GrowerCode>
+    <GrowerName>माळवदकर अमोल खंडेराव</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1057</VillageCode>
+    <VillageName>निर्वी</VillageName>
+    <serveNo>265</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18482">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48941</GrowerCode>
+    <GrowerName>शेख निजाम सल्लाउद्दीन</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>752</VillageCode>
+    <VillageName>शिंदोडी </VillageName>
+    <serveNo>521</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17381">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48202</GrowerCode>
@@ -47513,6 +47545,22 @@
     <VillageCode>410</VillageCode>
     <VillageName>गणेगाव (शिरुर)</VillageName>
     <serveNo>600/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18466">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48929</GrowerCode>
+    <GrowerName>ढ़वळे बाळासाहेब बाबुराव</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>798</VillageCode>
+    <VillageName>वडगाव रासाई (तळई माळ)</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
