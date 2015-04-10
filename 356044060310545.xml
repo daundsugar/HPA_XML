@@ -2976,6 +2976,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18515">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48960</GrowerCode>
+    <GrowerName>लोहार वसंत तुकाराम</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>1067</VillageCode>
+    <VillageName>गुनवडी (बारामती)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17811">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48501</GrowerCode>
@@ -3001,6 +3017,22 @@
     <VillageCode>434</VillageCode>
     <VillageName>नरुटवाडी</VillageName>
     <serveNo>105</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18573">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48999</GrowerCode>
+    <GrowerName>घुले गोविंदराव भाऊसाहेब </GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>831</VillageCode>
+    <VillageName>काटेवाडी</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -3120,6 +3152,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18580">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49006</GrowerCode>
+    <GrowerName>भालेकर अंकुश नारायण</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>825</VillageCode>
+    <VillageName>कळाशी</VillageName>
+    <serveNo>42/2(ऑष)</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17435">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48246</GrowerCode>
@@ -3177,6 +3225,22 @@
     <VillageCode>825</VillageCode>
     <VillageName>कळाशी</VillageName>
     <serveNo>701</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18587">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49010</GrowerCode>
+    <GrowerName>सुर्यवंशी अविनाश देविदास</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>825</VillageCode>
+    <VillageName>कळाशी</VillageName>
+    <serveNo>70</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

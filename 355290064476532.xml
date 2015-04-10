@@ -21936,6 +21936,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18560">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39221</GrowerCode>
+    <GrowerName>शिंदे सखाराम तुकाराम</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>3</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <serveNo>415/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2032">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39221</GrowerCode>
@@ -23452,6 +23468,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18531">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37703</GrowerCode>
+    <GrowerName>निंबाळकर दत्तात्रय बाजीराव(CSSK)</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>आलेगाव</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

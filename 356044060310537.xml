@@ -1968,6 +1968,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18580">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49006</GrowerCode>
+    <GrowerName>भालेकर अंकुश नारायण</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>825</VillageCode>
+    <VillageName>कळाशी</VillageName>
+    <serveNo>42/2(ऑष)</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17435">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48246</GrowerCode>
@@ -2009,6 +2025,22 @@
     <VillageCode>825</VillageCode>
     <VillageName>कळाशी</VillageName>
     <serveNo>701</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18587">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49010</GrowerCode>
+    <GrowerName>सुर्यवंशी अविनाश देविदास</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>825</VillageCode>
+    <VillageName>कळाशी</VillageName>
+    <serveNo>70</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

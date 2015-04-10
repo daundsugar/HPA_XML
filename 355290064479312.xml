@@ -2832,6 +2832,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18568">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5335</GrowerCode>
+    <GrowerName>मोरे भाऊसाहेब पांडूरंग</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>330/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13088">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>345</GrowerCode>
@@ -9072,6 +9088,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18569">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>27176</GrowerCode>
+    <GrowerName>जांभळे दत्तात्रय ज्ञानदेव</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>बेर्डी</VillageName>
+    <serveNo>399</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17652">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>25734</GrowerCode>
@@ -14153,6 +14185,22 @@
     <VillageCode>111</VillageCode>
     <VillageName>रुईगव्हाण</VillageName>
     <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18567">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48996</GrowerCode>
+    <GrowerName>हगारे राजू किसन</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>291</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

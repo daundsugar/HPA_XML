@@ -12704,6 +12704,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18581">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>34088</GrowerCode>
+    <GrowerName>ढवळे महेंद्र पोपट</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>365</VillageCode>
+    <VillageName>वडगाव रासाई (शिरुर)</VillageName>
+    <serveNo>216</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17538">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>34198</GrowerCode>
@@ -20752,6 +20768,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18566">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48995</GrowerCode>
+    <GrowerName>तोंडे भिवा मथू</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1354</VillageCode>
+    <VillageName>अरणगांव</VillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17460">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48260</GrowerCode>
@@ -21280,6 +21312,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18544">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>48978</GrowerCode>
+    <GrowerName>कदम राजाराम गुलाबराव</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1045</VillageCode>
+    <VillageName>आंधळगांव </VillageName>
+    <serveNo>--</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16174">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47436</GrowerCode>
@@ -21648,6 +21696,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18578">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49004</GrowerCode>
+    <GrowerName>शेलार त्रिवेणी गणपत</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>756</VillageCode>
+    <VillageName>नागरगाव</VillageName>
+    <serveNo>373/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18579">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49005</GrowerCode>
+    <GrowerName>शेलार पोपट लक्ष्मण</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>365</VillageCode>
+    <VillageName>वडगाव रासाई (शिरुर)</VillageName>
+    <serveNo>138/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="18132">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48717</GrowerCode>
@@ -21753,6 +21833,22 @@
     <VillageCode>885</VillageCode>
     <VillageName>निमोणे (शिरुर) </VillageName>
     <serveNo>776</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18584">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49008</GrowerCode>
+    <GrowerName>ढवळे पोपट किसन (भिवा)</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>365</VillageCode>
+    <VillageName>वडगाव रासाई (शिरुर)</VillageName>
+    <serveNo>610</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
