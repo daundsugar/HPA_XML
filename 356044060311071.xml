@@ -34400,6 +34400,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18590">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49013</GrowerCode>
+    <GrowerName>वाघ चंद्रकांत तुकाराम</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>1051</VillageCode>
+    <VillageName>पिंपळी (बारामती)</VillageName>
+    <serveNo>5</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16205">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47450</GrowerCode>
@@ -34441,6 +34457,22 @@
     <VillageCode>405</VillageCode>
     <VillageName>शिर्सुफळ</VillageName>
     <serveNo>799</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18682">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49080</GrowerCode>
+    <GrowerName>लोहार मदन रामचंद्र</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>बारामती</GatName>
+    <VillageCode>1067</VillageCode>
+    <VillageName>गुनवडी (बारामती)</VillageName>
+    <serveNo>822</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
