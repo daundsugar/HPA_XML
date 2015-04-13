@@ -27072,6 +27072,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18875">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42756</GrowerCode>
+    <GrowerName>नरुटे अरुण भगवान </GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>199</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="15565">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47086</GrowerCode>
@@ -27660,6 +27676,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18891">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49206</GrowerCode>
+    <GrowerName>बोरकर रामदास कृष्णा</GrowerName>
+    <GatCode>35</GatCode>
+    <GatName>भोर</GatName>
+    <VillageCode>1329</VillageCode>
+    <VillageName>सासवड  </VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
