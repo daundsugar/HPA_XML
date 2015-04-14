@@ -27952,6 +27952,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="18943">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49243</GrowerCode>
+    <GrowerName>शिंदे मधुकर भिमदेव</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1056</VillageCode>
+    <VillageName>शिंदेवाडी (फलटण)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="18955">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49253</GrowerCode>
+    <GrowerName>यादव विजय बळवंत</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16387">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47559</GrowerCode>
@@ -28169,6 +28201,38 @@
     <VillageCode>1299</VillageCode>
     <VillageName>हिंगणगाव (फलटण)</VillageName>
     <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19048">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49287</GrowerCode>
+    <GrowerName>कोकाटे औदुंबर नारायण</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1056</VillageCode>
+    <VillageName>शिंदेवाडी (फलटण)</VillageName>
+    <serveNo>06</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19050">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49289</GrowerCode>
+    <GrowerName>शिंदे राहुल विनायक</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1056</VillageCode>
+    <VillageName>शिंदेवाडी (फलटण)</VillageName>
+    <serveNo>322</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
