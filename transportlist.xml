@@ -1,14 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Truck">
-    <ContractorCode Code="11111111">
-      <ContractorName>Amar Dhade</ContractorName>
-      <VehicleNo>MH 20 F 5075</VehicleNo>
-    </ContractorCode>
-     <ContractorCode Code="310">
-      <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
-      <VehicleNo>MH 20 F 5076</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="4">
       <ContractorName>मगर ज्ञानदेव भाऊ</ContractorName>
       <VehicleNo>MH 20 F 5075</VehicleNo>
@@ -53,9 +45,17 @@
       <ContractorName>काळे तुकाराम अनंता</ContractorName>
       <VehicleNo>MH 42 B 7721</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="94">
+      <ContractorName>लोंढे संगमेश्वर माणिक  </ContractorName>
+      <VehicleNo>MH 16 AM 1492</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="133">
       <ContractorName>खामकर मारुती दादा </ContractorName>
       <VehicleNo>MH 20 A 1843</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="152">
+      <ContractorName>कुरुमकर अंकुश रामचद्र</ContractorName>
+      <VehicleNo>MH 16 F 5696</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="167">
       <ContractorName>होलम प्रकाश बबन </ContractorName>
@@ -185,6 +185,10 @@
       <ContractorName>यादव मोहन भगवान</ContractorName>
       <VehicleNo>MH 04 CU 5386</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="2411">
+      <ContractorName>कोल्हटकर जालिंदर गजानन </ContractorName>
+      <VehicleNo>MH 16 F 3477</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="2798">
       <ContractorName>लोंढे अनमोल माणिकराव NA</ContractorName>
       <VehicleNo>MH 10 A 9841</VehicleNo>
@@ -192,6 +196,10 @@
     <ContractorCode Code="2828">
       <ContractorName>बळे अमोल सुभाष </ContractorName>
       <VehicleNo>MH 12 CT 7390</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="2876">
+      <ContractorName>भवर रामदास त्रिंबक</ContractorName>
+      <VehicleNo>MH 21 D 9047</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="2876">
       <ContractorName>भवर रामदास त्रिंबक</ContractorName>
@@ -234,7 +242,7 @@
       <VehicleNo>MH 42 B 7764</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="3213">
-      <ContractorName>काळे अर्चना संतोष NA</ContractorName>
+      <ContractorName>काळे अर्चना संतोष, NA</ContractorName>
       <VehicleNo>MH 12 QA 9476</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="3228">
@@ -254,8 +262,6 @@
     <ContractorCode Code="5">
       <ContractorName>मगर युवराज ज्ञानदेव</ContractorName>
       <VehicleNo>MH 16 AM 0149</VehicleNo>
-      <TrollyNoA>T5-1</TrollyNoA>
-      <TrollyNoB>T5-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="7">
       <ContractorName>गवळी प्रकाश नाना</ContractorName>
@@ -419,12 +425,6 @@
       <TrollyNoA>T82-1</TrollyNoA>
       <TrollyNoB>T82-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="94">
-      <ContractorName>लोंढे संगमेश्वर माणिक  </ContractorName>
-      <VehicleNo>MH 16 AM 1492</VehicleNo>
-      <TrollyNoA>T94-1</TrollyNoA>
-      <TrollyNoB>T94-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="98">
       <ContractorName>सस्ते संजिवन खंडेराव </ContractorName>
       <VehicleNo>MH 16 AM 5430</VehicleNo>
@@ -508,12 +508,6 @@
       <VehicleNo>MH 42 F 9926</VehicleNo>
       <TrollyNoA>T148-1</TrollyNoA>
       <TrollyNoB>T148-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="152">
-      <ContractorName>कुरुमकर अंकुश रामचद्र</ContractorName>
-      <VehicleNo>MH 16 F 5696</VehicleNo>
-      <TrollyNoA>T152-1</TrollyNoA>
-      <TrollyNoB>T152-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="165">
       <ContractorName>होलम संजय दत्तात्रय </ContractorName>
@@ -1475,12 +1469,6 @@
       <TrollyNoA>T2301-1</TrollyNoA>
       <TrollyNoB>T2301-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="2411">
-      <ContractorName>कोल्हटकर जालिंदर गजानन </ContractorName>
-      <VehicleNo>MH 16 F 3477</VehicleNo>
-      <TrollyNoA>T2411-1</TrollyNoA>
-      <TrollyNoB>T2411-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="2512">
       <ContractorName>शेळके रविंद्र भाउसाहेब</ContractorName>
       <VehicleNo>MH 16 F 7511</VehicleNo>
@@ -2061,7 +2049,7 @@
       <ContractorName>आटोळे बबन बाबु</ContractorName>
       <VehicleNo>MH 42 Y 4374</VehicleNo>
       <TrollyNoA>T3230-1</TrollyNoA>
-      <TrollyNoB>T3230-2</TrollyNoB>
+      <TrollyNoB>N</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="3231">
       <ContractorName>घाडगे दादा किसन</ContractorName>
