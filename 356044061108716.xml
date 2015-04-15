@@ -13696,6 +13696,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19135">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13962</GrowerCode>
+    <GrowerName>राक्षे रामदास यशवंत</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>379</VillageCode>
+    <VillageName>आलेगांव पागा</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="4066">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>13210</GrowerCode>
@@ -45824,6 +45840,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19089">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49314</GrowerCode>
+    <GrowerName>भोसले अमोल मधुकर</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>379</VillageCode>
+    <VillageName>आलेगांव पागा</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19119">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49337</GrowerCode>
+    <GrowerName>कोरेकर विकास गंगाधर</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>491</VillageCode>
+    <VillageName>न्हावरा</VillageName>
+    <serveNo>9158005917</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16302">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47505</GrowerCode>
@@ -47084,6 +47132,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19140">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49351</GrowerCode>
+    <GrowerName>गायकवाड भाऊसाहेब मारुती</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1357</VillageCode>
+    <VillageName>गायकवाडवाडी (भांबर्डे)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
