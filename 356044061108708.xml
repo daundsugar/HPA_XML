@@ -96,6 +96,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19273">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41842</GrowerCode>
+    <GrowerName>भिसे विलास बाबासाहेब</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>203</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16405">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>41910</GrowerCode>
@@ -761,6 +777,22 @@
     <VillageCode>1077</VillageCode>
     <VillageName>कांबळेश्वर</VillageName>
     <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19269">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49439</GrowerCode>
+    <GrowerName>परिंचे बापुराव बजरंग</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>खुंटे</VillageName>
+    <serveNo>471</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
