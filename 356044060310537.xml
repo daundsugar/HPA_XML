@@ -1424,6 +1424,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19351">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49496</GrowerCode>
+    <GrowerName>बंडगर सतिश दत्तात्रय</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>352</VillageCode>
+    <VillageName>बंडगरवाडी</VillageName>
+    <serveNo>20</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="18256">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48797</GrowerCode>

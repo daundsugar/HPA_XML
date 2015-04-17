@@ -26176,22 +26176,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="9595">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>41470</GrowerCode>
-    <GrowerName>हिवरकर बाबासो बाबुराव</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>405</VillageCode>
-    <VillageName>शिर्सुफळ</VillageName>
-    <serveNo>266</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="9682">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>42522</GrowerCode>
@@ -33011,7 +32995,7 @@
   <PlotList plotNo="19261">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>49432</GrowerCode>
-    <GrowerName>शिंदे आजिनाथ सुखदेव</GrowerName>
+    <GrowerName>मिंढे आजिनाथ सुखदेव</GrowerName>
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>36</VillageCode>
@@ -33244,6 +33228,22 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="9595">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41470</GrowerCode>
+    <GrowerName>हिवरकर बाबासो बाबुराव</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>405</VillageCode>
+    <VillageName>शिर्सुफळ</VillageName>
+    <serveNo>266</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
