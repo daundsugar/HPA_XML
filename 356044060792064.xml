@@ -2368,6 +2368,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19596">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>34027</GrowerCode>
+    <GrowerName>फराटे शोभा प्रकाश</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>292</VillageCode>
+    <VillageName>मांडवगण फराटा (शिरूर)</VillageName>
+    <serveNo>103</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="13418">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>34027</GrowerCode>
@@ -3337,6 +3353,22 @@
     <VillageCode>292</VillageCode>
     <VillageName>मांडवगण फराटा (शिरूर)</VillageName>
     <serveNo>586</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19571">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40169</GrowerCode>
+    <GrowerName>भोस ज्ञानोबा रंभाजी</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>824</VillageCode>
+    <VillageName>कोळगाव डोळस</VillageName>
+    <serveNo>141</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -5264,6 +5296,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19501">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49578</GrowerCode>
+    <GrowerName>पिंगळे ज्ञानेश्वर तुकाराम</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1362</VillageCode>
+    <VillageName>पिंगळेवाडी (भांबर्डे)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19502">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49579</GrowerCode>
+    <GrowerName>दौंडकर भाऊसाहेब गोविंद</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>950</VillageCode>
+    <VillageName>दहिवडी</VillageName>
+    <serveNo>121</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="18255">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48796</GrowerCode>
@@ -5420,6 +5484,86 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19580">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49632</GrowerCode>
+    <GrowerName>काळे गणेश लक्ष्मण</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>970</VillageCode>
+    <VillageName>पिंपळाचीवाडी (निमोणे)</VillageName>
+    <serveNo>282</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19581">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49633</GrowerCode>
+    <GrowerName>गोबारे रविंद्र सिताराम</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>934</VillageCode>
+    <VillageName>गुनाट</VillageName>
+    <serveNo>315</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19582">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49634</GrowerCode>
+    <GrowerName>गारगोटे केशव काशिनाथ</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>950</VillageCode>
+    <VillageName>दहिवडी</VillageName>
+    <serveNo>126</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19583">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49635</GrowerCode>
+    <GrowerName>संकपाळ लहु रामदास</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1362</VillageCode>
+    <VillageName>पिंगळेवाडी (भांबर्डे)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19586">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49638</GrowerCode>
+    <GrowerName>शेलार भालचंद्र सुदामराव</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>756</VillageCode>
+    <VillageName>नागरगाव</VillageName>
+    <serveNo>560</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

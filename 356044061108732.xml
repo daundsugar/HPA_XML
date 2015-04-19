@@ -8992,6 +8992,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19532">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49600</GrowerCode>
+    <GrowerName>लकडे छाया बाळु</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1077</VillageCode>
+    <VillageName>कांबळेश्वर</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="19358">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>49501</GrowerCode>
@@ -9276,6 +9292,38 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19564">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49619</GrowerCode>
+    <GrowerName>शिंदे गोविंद बापु</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1299</VillageCode>
+    <VillageName>हिंगणगाव (फलटण)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19584">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49636</GrowerCode>
+    <GrowerName>इधाते मंगल भगवान</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>हंगेवाडी</VillageName>
+    <serveNo>335</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>

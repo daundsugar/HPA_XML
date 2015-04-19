@@ -592,6 +592,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19521">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35494</GrowerCode>
+    <GrowerName>पवार शंकर लक्ष्मण(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>874</VillageCode>
+    <VillageName>माहुर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17076">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>35201</GrowerCode>
@@ -1824,6 +1840,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19565">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37957</GrowerCode>
+    <GrowerName>धायगुडे बलराम गणपत(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>906</VillageCode>
+    <VillageName>मोर्वे(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="18934">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>37795</GrowerCode>
@@ -2903,7 +2935,7 @@
     <GatCode>18</GatCode>
     <GatName>सोमेश्वर कारखाना</GatName>
     <VillageCode>1358</VillageCode>
-    <VillageName>माळशिकारेवाडी((SSSK)</VillageName>
+    <VillageName>माळशिकारेवाडी (SSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -3655,7 +3687,7 @@
     <GatCode>18</GatCode>
     <GatName>सोमेश्वर कारखाना</GatName>
     <VillageCode>1358</VillageCode>
-    <VillageName>माळशिकारेवाडी((SSSK)</VillageName>
+    <VillageName>माळशिकारेवाडी (SSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
@@ -4096,6 +4128,262 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19525">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49595</GrowerCode>
+    <GrowerName>फराटे ज्ञानेश्वर बाबुराव(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>842</VillageCode>
+    <VillageName>सदोबाचीवाडी(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19526">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49596</GrowerCode>
+    <GrowerName>दगडे कोंडीबा सादु(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1339</VillageCode>
+    <VillageName>थोपटेवाडी (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19531">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49599</GrowerCode>
+    <GrowerName>जगताप राजेंद्र शिवाजी(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>347</VillageCode>
+    <VillageName>सासवड (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19536">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49601</GrowerCode>
+    <GrowerName>जगताप प्रभाकर साहेबराव(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>347</VillageCode>
+    <VillageName>सासवड (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19538">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49603</GrowerCode>
+    <GrowerName>माळशिकारे बापुराव रामभाऊ(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19539">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49604</GrowerCode>
+    <GrowerName>पवार विजय गुलाब(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19540">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49605</GrowerCode>
+    <GrowerName>वाबळे सतिश रामचंद्र(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>339</VillageCode>
+    <VillageName>दंडवाडी(सुपा) (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19549">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49608</GrowerCode>
+    <GrowerName>चांदगुडे पोपट किसन(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>339</VillageCode>
+    <VillageName>दंडवाडी(सुपा) (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19552">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49610</GrowerCode>
+    <GrowerName>नाळे सविता सुभाष(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1321</VillageCode>
+    <VillageName>माळवाडी (लाटे)(SSSK)</VillageName>
+    <serveNo>85</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19555">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49612</GrowerCode>
+    <GrowerName>धुमाळ शिवदास विट्टल(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>879</VillageCode>
+    <VillageName>वीर (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19570">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49624</GrowerCode>
+    <GrowerName>दरेकर शहाजी दत्तात्रय (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19575">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49627</GrowerCode>
+    <GrowerName>लोणकर एकनाथ बाबुराव (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>920</VillageCode>
+    <VillageName>का-हाटी (SSSK)</VillageName>
+    <serveNo>--</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19576">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49628</GrowerCode>
+    <GrowerName>देवकर नंदकुमार शंकरराव (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19577">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49629</GrowerCode>
+    <GrowerName>भंडलकर हनुमंत परशुराम (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1356</VillageCode>
+    <VillageName>होळ (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19578">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49630</GrowerCode>
+    <GrowerName>भंडलकर रघुनाथ खंडू (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1356</VillageCode>
+    <VillageName>होळ (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19579">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49631</GrowerCode>
+    <GrowerName>केसकर नानासो मारुती (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1319</VillageCode>
+    <VillageName>को-हाळे बु. (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="16928">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47892</GrowerCode>
@@ -4304,6 +4592,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19551">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49485</GrowerCode>
+    <GrowerName>दानवले आनंदराव बापुराव (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1321</VillageCode>
+    <VillageName>माळवाडी (लाटे)(SSSK)</VillageName>
+    <serveNo>4</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="19337">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>49485</GrowerCode>
@@ -4456,6 +4760,102 @@
     <GatName>सोमेश्वर कारखाना</GatName>
     <VillageCode>1319</VillageCode>
     <VillageName>को-हाळे बु. (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19557">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49613</GrowerCode>
+    <GrowerName>दरेकर मिनाक्षी राजेद्र (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19558">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49614</GrowerCode>
+    <GrowerName>घोडके दिगांबर रामचंद्र (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19563">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49618</GrowerCode>
+    <GrowerName>धायगुडे पंढरिनाथ महादेव(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>906</VillageCode>
+    <VillageName>मोर्वे(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19566">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49620</GrowerCode>
+    <GrowerName>धायगुडे जयवंत सर्जेराव(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>906</VillageCode>
+    <VillageName>मोर्वे(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19567">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49621</GrowerCode>
+    <GrowerName>वाबळे सुमन सयाजी(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>887</VillageCode>
+    <VillageName>कोळोळी (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19585">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49637</GrowerCode>
+    <GrowerName>पवार कमल मारुती(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1363</VillageCode>
+    <VillageName>भादवडे(SSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7200,6 +7600,54 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19537">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49602</GrowerCode>
+    <GrowerName>होळकर सोमनाथ यशवंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>842</VillageCode>
+    <VillageName>सदोबाचीवाडी(SSSK)</VillageName>
+    <serveNo>207</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19547">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49607</GrowerCode>
+    <GrowerName>धाडवे बबई नारायण</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1355</VillageCode>
+    <VillageName>लाटे (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19550">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49609</GrowerCode>
+    <GrowerName>कोळेकर विट्टल बाबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1355</VillageCode>
+    <VillageName>लाटे (SSSK)</VillageName>
+    <serveNo>6</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="17394">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48214</GrowerCode>
@@ -7463,7 +7911,7 @@
     <GatCode>18</GatCode>
     <GatName>सोमेश्वर कारखाना</GatName>
     <VillageCode>1358</VillageCode>
-    <VillageName>माळशिकारेवाडी((SSSK)</VillageName>
+    <VillageName>माळशिकारेवाडी (SSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -7816,6 +8264,86 @@
     <GatName>सोमेश्वर कारखाना</GatName>
     <VillageCode>843</VillageCode>
     <VillageName>परिंचे(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19505">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49581</GrowerCode>
+    <GrowerName>साळवे द्वारकोजीराव गुलाब (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19506">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49582</GrowerCode>
+    <GrowerName>हिरवे पद्मा विठ्ठल (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19512">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49586</GrowerCode>
+    <GrowerName>खैरे नारायण दिनकर (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>874</VillageCode>
+    <VillageName>माहुर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19515">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49588</GrowerCode>
+    <GrowerName>जाधव नरेंद्र ज्ञानेश्वर (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>844</VillageCode>
+    <VillageName>मांडकी (SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19516">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49589</GrowerCode>
+    <GrowerName>शिंदे मधुकर जगन्नाथ (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
@@ -8532,6 +9060,38 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>49499</GrowerCode>
     <GrowerName>जगताप प्रशांत चंद्रकांत (SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>874</VillageCode>
+    <VillageName>माहुर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19517">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49590</GrowerCode>
+    <GrowerName>झोडगे प्रमिला प्रकाश(SSSK)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>सोमेश्वर कारखाना</GatName>
+    <VillageCode>1341</VillageCode>
+    <VillageName>वडगाव निंबाळकर(SSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19520">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49592</GrowerCode>
+    <GrowerName>जगताप रामचंद्र खाशेराव(SSSK)</GrowerName>
     <GatCode>18</GatCode>
     <GatName>सोमेश्वर कारखाना</GatName>
     <VillageCode>874</VillageCode>
@@ -12615,7 +13175,7 @@
     <GatCode>18</GatCode>
     <GatName>सोमेश्वर कारखाना</GatName>
     <VillageCode>1356</VillageCode>
-    <VillageName>होळ(SSSK)</VillageName>
+    <VillageName>होळ (SSSK)</VillageName>
     <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
