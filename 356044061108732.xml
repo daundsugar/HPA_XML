@@ -5376,6 +5376,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19661">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42390</GrowerCode>
+    <GrowerName>भंडलकर नामदेव शंकर </GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>खुंटे</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10427">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>45292</GrowerCode>
@@ -8988,6 +9004,38 @@
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19658">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49674</GrowerCode>
+    <GrowerName>सरक पुंडलिक दामोदर</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>खुंटे</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="19659">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49675</GrowerCode>
+    <GrowerName>भांडवलकर शिवाजी निवृत्ती</GrowerName>
+    <GatCode>35</GatCode>
+    <GatName>भोर</GatName>
+    <VillageCode>1329</VillageCode>
+    <VillageName>सासवड  </VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
