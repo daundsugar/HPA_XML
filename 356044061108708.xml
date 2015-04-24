@@ -720,6 +720,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="19911">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49842</GrowerCode>
+    <GrowerName>बागडे जनार्दन गंगाराम</GrowerName>
+    <GatCode>34</GatCode>
+    <GatName>फलटण</GatName>
+    <VillageCode>1299</VillageCode>
+    <VillageName>हिंगणगाव (फलटण)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>पु.हंगामी</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="18279">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48811</GrowerCode>
