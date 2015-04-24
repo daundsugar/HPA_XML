@@ -96,12 +96,6 @@
     <rstart>10430001</rstart>
     <rend>10440000</rend>
   </imeicode>
-  <imeicode imei="356044060079223">
-    <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044060079223.xml</url>
-    <version>1</version>
-    <rstart>10440001</rstart>
-    <rend>10450000</rend>
-  </imeicode>
   <imeicode imei="356044060072723">
     <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044060072723.xml</url>
     <version>1</version>
