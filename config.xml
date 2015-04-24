@@ -36,12 +36,6 @@
     <rstart>10220001</rstart>
     <rend>10230000</rend>
   </imeicode>
-  <imeicode imei="356044060072723">
-    <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044060072723.xml</url>
-    <version>1</version>
-    <rstart>10340001</rstart>
-    <rend>10350000</rend>
-  </imeicode>
   <imeicode imei="356044061116339">
     <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044061116339.xml</url>
     <version>1</version>
@@ -96,11 +90,11 @@
     <rstart>10430001</rstart>
     <rend>10440000</rend>
   </imeicode>
-  <imeicode imei="356044060072723">
-    <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044060072723.xml</url>
+  <imeicode imei="356044060079223">
+    <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/356044060079223.xml</url>
     <version>1</version>
-    <rstart>10340001</rstart>
-    <rend>10350000</rend>
+    <rstart>10440001</rstart>
+    <rend>10450000</rend>
   </imeicode>
   <imeicode imei="355290064479213">
     <url>https://raw.githubusercontent.com/manojtilekar/HPA_XML/master/355290064479213.xml</url>
