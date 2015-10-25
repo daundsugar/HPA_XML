@@ -3,7 +3,7 @@
   <imeicode imei="356044060310545">
     <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044060310545.xml</url>
     <version>1</version>
-    <rstart>10310002</rstart>
+    <rstart>10310001</rstart>
     <rend>10320000</rend>
   </imeicode>
   <imeicode imei="356044060310537">
@@ -96,11 +96,11 @@
     <rstart>10440001</rstart>
     <rend>10450000</rend>
   </imeicode>
-  <imeicode imei="356044060072566">
-    <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044060072566.xml</url>
+  <imeicode imei="356044060067822">
+    <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044060067822.xml</url>
     <version>1</version>
-    <rstart>10450001</rstart>
-    <rend>10460000</rend>
+    <rstart>10380001</rstart>
+    <rend>10390000</rend>
   </imeicode>
   <imeicode imei="355290064479213">
     <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/355290064479213.xml</url>
@@ -279,7 +279,7 @@
   <imeicode imei="356044061115919">
     <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044061115919.xml</url>
     <version>1</version>
-    <rstart>10300005</rstart>
+    <rstart>10300001</rstart>
     <rend>10310000</rend>
   </imeicode>
 </devices>
