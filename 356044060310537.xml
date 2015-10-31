@@ -58288,6 +58288,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12367">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15103</GrowerCode>
+    <GrowerName>कायगुडे भाऊसाहेब ताराचंद</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>102</VillageCode>
+    <VillageName>गणेशवाडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="11977">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>8797</GrowerCode>
@@ -74489,6 +74505,22 @@
     <VillageCode>1375</VillageCode>
     <VillageName>वनगळी</VillageName>
     <serveNo>84</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12366">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50453</GrowerCode>
+    <GrowerName>मोरे दामोदर भाऊ</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1375</VillageCode>
+    <VillageName>वनगळी</VillageName>
+    <serveNo>84/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
