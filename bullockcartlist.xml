@@ -251,9 +251,6 @@
     <GadiwanCode>121</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>123</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>126</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -956,9 +953,6 @@
     <GadiwanCode>509</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>510</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>515</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1491,9 +1485,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1019</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1020</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1022</GadiwanCode>
@@ -2388,6 +2379,11 @@
     <GadiwanCode>1183</GadiwanCode>
     <GadiwanName>आंधळे नागनाथ बाबासाहेब</GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="66">
+    <ContractorName>आंधळे राघु नोमा</ContractorName>
+    <GadiwanCode>123</GadiwanCode>
+    <GadiwanName>आंधळे म्हातारदेव राघु</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="67">
     <ContractorName>जाधव भगवान दासु</ContractorName>
     <GadiwanCode>66</GadiwanCode>
@@ -2556,6 +2552,9 @@
     <ContractorName>काकडे नामदेव सर्जेराव </ContractorName>
     <GadiwanCode>334</GadiwanCode>
     <GadiwanName>वणवे गुणाजी पाटिलबुवा</GadiwanName>
+    <ContractorName>काकडे नामदेव सर्जेराव </ContractorName>
+    <GadiwanCode>510</GadiwanCode>
+    <GadiwanName>पालवे ज्ञानदेव निवृत्ती</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="162">
     <ContractorName>गावडे भाउसाहेब मारुती</ContractorName>
@@ -2765,6 +2764,9 @@
     <ContractorName>कळसाने महादेव माणिकराव</ContractorName>
     <GadiwanCode>317</GadiwanCode>
     <GadiwanName>बहिरवाळ बाळु सुंदरराव</GadiwanName>
+    <ContractorName>कळसाने महादेव माणिकराव</ContractorName>
+    <GadiwanCode>1020</GadiwanCode>
+    <GadiwanName>वीर विकास तुकाराम</GadiwanName>
     <ContractorName>कळसाने महादेव माणिकराव</ContractorName>
     <GadiwanCode>1153</GadiwanCode>
     <GadiwanName>टाक नितीन गोवर्धन</GadiwanName>
