@@ -64,6 +64,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12451">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10044</GrowerCode>
+    <GrowerName>दौंड शुगर लिमिटेड</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>आलेगाव</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="567">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11892</GrowerCode>
@@ -4987,6 +5003,22 @@
     <serveNo>119</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12452">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6764</GrowerCode>
+    <GrowerName>दौंड शुगर(कांडी टिपरी)</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>178</VillageCode>
+    <VillageName>कारखाना साईट</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
@@ -12112,6 +12144,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="1993">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1419</GrowerCode>
+    <GrowerName>येडे हरिभाऊ बाबा</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>12</VillageCode>
+    <VillageName>मेरगळवाडी</VillageName>
+    <serveNo>15</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="694">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>30255</GrowerCode>
@@ -12425,22 +12473,6 @@
     <VillageCode>12</VillageCode>
     <VillageName>मेरगळवाडी</VillageName>
     <serveNo>14</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="1993">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1419</GrowerCode>
-    <GrowerName>येडे हरिभाऊ बाबा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>15</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -65616,6 +65648,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12455">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50500</GrowerCode>
+    <GrowerName>होले संजय विठ्ठल(लडकतवाडी)</GrowerName>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>1289</VillageCode>
+    <VillageName>लडकतवाडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12454">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50499</GrowerCode>
+    <GrowerName>गोलांडे सुहास आप्पासाहेब</GrowerName>
+    <GatCode>9</GatCode>
+    <GatName>करमाळा</GatName>
+    <VillageCode>97</VillageCode>
+    <VillageName>जिंती</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="12400">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>32086</GrowerCode>
@@ -75504,6 +75568,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12456">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50501</GrowerCode>
+    <GrowerName>शिंदे सुरेश दत्तात्रय</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>434</VillageCode>
+    <VillageName>नरुटवाडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12457">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50502</GrowerCode>
+    <GrowerName>दराडे प्रकाश बबन</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>471</VillageCode>
+    <VillageName>निरगुडे</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="12381">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50461</GrowerCode>
@@ -83892,6 +83988,22 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50465</GrowerCode>
     <GrowerName>फडके रामदास आनंदराव (दिनकर)</GrowerName>
+    <GatCode>33</GatCode>
+    <GatName>गिरीम</GatName>
+    <VillageCode>1021</VillageCode>
+    <VillageName>कानगाव</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12453">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50498</GrowerCode>
+    <GrowerName>गवळी श्रीनाथ शंकर</GrowerName>
     <GatCode>33</GatCode>
     <GatName>गिरीम</GatName>
     <VillageCode>1021</VillageCode>
