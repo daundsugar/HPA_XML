@@ -1424,9 +1424,6 @@
     <GadiwanCode>1002</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1003</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1013</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1434,9 +1431,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1016</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1022</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1024</GadiwanCode>
@@ -3171,5 +3165,15 @@
     <ContractorName>भवार शेषराव पांडुरंग</ContractorName>
     <GadiwanCode>1137</GadiwanCode>
     <GadiwanName>भवार शेषराव पांडुरग</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="314">
+    <ContractorName>नागवे आत्माराम पांडुरंग</ContractorName>
+    <GadiwanCode>1022</GadiwanCode>
+    <GadiwanName>नागवे आत्माराम पांडुरंग</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="315">
+    <ContractorName>निकम बुधा हिलाल No pan</ContractorName>
+    <GadiwanCode>1003</GadiwanCode>
+    <GadiwanName>निकम बुधा हिलाल</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
