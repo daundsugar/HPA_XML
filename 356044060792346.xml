@@ -2448,22 +2448,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="1973">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>801</GrowerCode>
-    <GrowerName>सकट विश्वनाथ जयवंत</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>9</VillageCode>
-    <VillageName>खोरवडी</VillageName>
-    <serveNo>39</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="1974">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>17138</GrowerCode>
@@ -4057,6 +4041,22 @@
     <VillageCode>10</VillageCode>
     <VillageName>दौंड</VillageName>
     <serveNo>47</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="1973">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>801</GrowerCode>
+    <GrowerName>सकट विश्वनाथ जयवंत</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>10</VillageCode>
+    <VillageName>दौंड</VillageName>
+    <serveNo>39</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
