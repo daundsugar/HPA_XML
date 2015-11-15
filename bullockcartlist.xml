@@ -161,9 +161,6 @@
     <GadiwanCode>82</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>83</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>84</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1415,9 +1412,6 @@
     <GadiwanCode>1002</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1024</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1026</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1430,16 +1424,10 @@
     <GadiwanCode>1033</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1037</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1038</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1041</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1053</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1057</GadiwanCode>
@@ -1484,9 +1472,6 @@
     <GadiwanCode>1106</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1109</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1114</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1497,9 +1482,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1122</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1127</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1129</GadiwanCode>
@@ -2657,6 +2639,9 @@
     <GadiwanCode>1020</GadiwanCode>
     <GadiwanName>वीर विकास तुकाराम</GadiwanName>
     <ContractorName>कळसाने महादेव माणिकराव</ContractorName>
+    <GadiwanCode>1037</GadiwanCode>
+    <GadiwanName>तुपे वैभव रामहरी</GadiwanName>
+    <ContractorName>कळसाने महादेव माणिकराव</ContractorName>
     <GadiwanCode>1039</GadiwanCode>
     <GadiwanName>टाक सतिश गोवर्धन</GadiwanName>
     <ContractorName>कळसाने महादेव माणिकराव</ContractorName>
@@ -2814,6 +2799,14 @@
     <ContractorName>नाकाडे विष्णु गोविंद</ContractorName>
     <GadiwanCode>1402</GadiwanCode>
     <GadiwanName>फुंदे बबन जिजाबा</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="268">
+    <ContractorName>खुरंगे भारत आबासो </ContractorName>
+    <GadiwanCode>1024</GadiwanCode>
+    <GadiwanName>खुरुंगे भारत आबासो</GadiwanName>
+    <ContractorName>खुरंगे भारत आबासो </ContractorName>
+    <GadiwanCode>1109</GadiwanCode>
+    <GadiwanName>आटोळे नवनाथ आप्पा</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="271">
     <ContractorName>माने प्रकाश अनंता</ContractorName>
@@ -3152,8 +3145,11 @@
   </ContractorCode>
   <ContractorCode Code="312">
     <ContractorName>काळे संजय बाबुराव No Pan</ContractorName>
-    <GadiwanCode>413</GadiwanCode>
+    <GadiwanCode>83</GadiwanCode>
     <GadiwanName>मिसाळ राजेंद्र मुरलिधर</GadiwanName>
+    <ContractorName>काळे संजय बाबुराव No Pan</ContractorName>
+    <GadiwanCode>413</GadiwanCode>
+    <GadiwanName>TEMP</GadiwanName>
     <ContractorName>काळे संजय बाबुराव No Pan</ContractorName>
     <GadiwanCode>564</GadiwanCode>
     <GadiwanName>गर्जे नागनाथ मार्तंड</GadiwanName>
@@ -3175,5 +3171,15 @@
     <ContractorName>निकम बुधा हिलाल No pan</ContractorName>
     <GadiwanCode>1003</GadiwanCode>
     <GadiwanName>निकम बुधा हिलाल</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="316">
+    <ContractorName>खोमणे सुदाम दादाराम</ContractorName>
+    <GadiwanCode>1053</GadiwanCode>
+    <GadiwanName>खोमणे सुदाम दादाराम</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="317">
+    <ContractorName>राठोड बळीराम पिराजी</ContractorName>
+    <GadiwanCode>1127</GadiwanCode>
+    <GadiwanName>राठोड बळीराम पिराजी</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
