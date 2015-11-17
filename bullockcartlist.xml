@@ -89,9 +89,6 @@
     <GadiwanCode>46</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>47</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>48</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1043,9 +1040,6 @@
     <GadiwanCode>571</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>572</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>574</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1406,9 +1400,6 @@
     <GadiwanCode>800</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1001</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1002</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1419,9 +1410,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1030</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1033</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1038</GadiwanCode>
@@ -1454,9 +1442,6 @@
     <GadiwanCode>1085</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1087</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1093</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1472,9 +1457,6 @@
     <GadiwanCode>1106</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1114</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1120</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1482,9 +1464,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1122</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1129</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1131</GadiwanCode>
@@ -1801,6 +1780,9 @@
   </ContractorCode>
   <ContractorCode Code="11">
     <ContractorName>तिरखुंडे विनायक रामकिसन</ContractorName>
+    <GadiwanCode>47</GadiwanCode>
+    <GadiwanName>आंधळे प्रल्हाद बाबासो</GadiwanName>
+    <ContractorName>तिरखुंडे विनायक रामकिसन</ContractorName>
     <GadiwanCode>116</GadiwanCode>
     <GadiwanName>दरेकर बाळु बबन</GadiwanName>
     <ContractorName>तिरखुंडे विनायक रामकिसन</ContractorName>
@@ -2084,6 +2066,9 @@
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>514</GadiwanCode>
     <GadiwanName>फुंदे रामकिसन बन्सी</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>572</GadiwanCode>
+    <GadiwanName>गर्कळ विष्णू मारुती</GadiwanName>
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>1004</GadiwanCode>
     <GadiwanName>शेख युसुफ मेहबुब</GadiwanName>
@@ -2914,7 +2899,7 @@
     <GadiwanName>गोरे आसाराम निवृती</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="293">
-    <ContractorName>पाटिल धिरेश भालेराव No pan</ContractorName>
+    <ContractorName>पाटिल धिरेश भालेराव</ContractorName>
     <GadiwanCode>1156</GadiwanCode>
     <GadiwanName>पाटिल धिरेश भालेराव </GadiwanName>
   </ContractorCode>
@@ -3181,5 +3166,28 @@
     <ContractorName>राठोड बळीराम पिराजी</ContractorName>
     <GadiwanCode>1127</GadiwanCode>
     <GadiwanName>राठोड बळीराम पिराजी</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="318">
+    <ContractorName>बाराते रामचंद्र दादाराम No Pan</ContractorName>
+    <GadiwanCode>1114</GadiwanCode>
+    <GadiwanName>बाराते रामचंद्र दादाराम</GadiwanName>
+    <ContractorName>बाराते रामचंद्र दादाराम No Pan</ContractorName>
+    <GadiwanCode>1129</GadiwanCode>
+    <GadiwanName>बाराते रामचंद्र दादाराम</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="319">
+    <ContractorName>शेळके मारुती लक्ष्मण</ContractorName>
+    <GadiwanCode>1033</GadiwanCode>
+    <GadiwanName>शेळ्के मारुती लक्ष्मंण</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="320">
+    <ContractorName>खोमणे ज्ञानदेव महादेव</ContractorName>
+    <GadiwanCode>1087</GadiwanCode>
+    <GadiwanName>खोमणे ज्ञानदेव महादेव </GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="321">
+    <ContractorName>जगदाळे संतोष ज्ञानेश्वर</ContractorName>
+    <GadiwanCode>1001</GadiwanCode>
+    <GadiwanName>जगदाळे संतोष ज्ञानेश्वर </GadiwanName>
   </ContractorCode>
 </ContractorDetails>
