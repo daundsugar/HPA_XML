@@ -1427,9 +1427,6 @@
     <GadiwanCode>1077</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1078</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1079</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1440,6 +1437,9 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1085</GadiwanCode>
+    <GadiwanName>NA</GadiwanName>
+    <ContractorName>NA</ContractorName>
+    <GadiwanCode>1087</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1093</GadiwanCode>
@@ -3182,8 +3182,8 @@
   </ContractorCode>
   <ContractorCode Code="320">
     <ContractorName>खोमणे ज्ञानदेव महादेव</ContractorName>
-    <GadiwanCode>1087</GadiwanCode>
-    <GadiwanName>खोमणे ज्ञानदेव महादेव </GadiwanName>
+    <GadiwanCode>1078</GadiwanCode>
+    <GadiwanName>खोमणे ज्ञानदेव महादेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="321">
     <ContractorName>जगदाळे संतोष ज्ञानेश्वर</ContractorName>
