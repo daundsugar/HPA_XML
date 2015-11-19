@@ -832,6 +832,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12563">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50558</GrowerCode>
+    <GrowerName>गिरमकर आस्मिता अमित</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>देऊळगावराजे</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="273">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12354</GrowerCode>
@@ -9936,22 +9952,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="243">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>13092</GrowerCode>
-    <GrowerName>कापसे संजय लक्ष्मण</GrowerName>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <serveNo>192</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="244">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39044</GrowerCode>
@@ -9961,22 +9961,6 @@
     <VillageCode>29</VillageCode>
     <VillageName>शिरापुर</VillageName>
     <serveNo>186</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="246">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>5125</GrowerCode>
-    <GrowerName>काळे शहाजी पंढरीनाथ</GrowerName>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <serveNo>112</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -10112,6 +10096,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12523">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50538</GrowerCode>
+    <GrowerName>गिरमकर दत्तात्रय सर्जेराव</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>192</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12548">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40337</GrowerCode>
+    <GrowerName>वारे रेखा राजेंद्र</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>112</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="219">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3185</GrowerCode>
@@ -10144,10 +10160,10 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="253">
+  <PlotList plotNo="12549">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>5125</GrowerCode>
-    <GrowerName>काळे शहाजी पंढरीनाथ</GrowerName>
+    <GrowerCode>40337</GrowerCode>
+    <GrowerName>वारे रेखा राजेंद्र</GrowerName>
     <GatCode>3</GatCode>
     <GatName>देऊळगाव राजे</GatName>
     <VillageCode>29</VillageCode>
@@ -10400,10 +10416,10 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="2060">
+  <PlotList plotNo="12556">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>13173</GrowerCode>
-    <GrowerName>सातव भरत दत्तुबा</GrowerName>
+    <GrowerCode>13175</GrowerCode>
+    <GrowerName>गांधले राजु शिवदास</GrowerName>
     <GatCode>3</GatCode>
     <GatName>देऊळगाव राजे</GatName>
     <VillageCode>29</VillageCode>
@@ -11920,22 +11936,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="151">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>4958</GrowerCode>
-    <GrowerName>काळे पंढरीनाथ रघुनाथ</GrowerName>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <serveNo>47</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="226">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>5276</GrowerCode>
@@ -11993,6 +11993,22 @@
     <VillageCode>31</VillageCode>
     <VillageName>पानवकर वस्ती</VillageName>
     <serveNo>53</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12522">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40337</GrowerCode>
+    <GrowerName>वारे रेखा राजेंद्र</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>पानवकर वस्ती</VillageName>
+    <serveNo>47</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
