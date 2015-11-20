@@ -1400,12 +1400,6 @@
     <GadiwanCode>800</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1002</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1026</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1028</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1433,9 +1427,6 @@
     <GadiwanCode>1082</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1083</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1085</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1451,9 +1442,6 @@
     <GadiwanCode>1100</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1102</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1106</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1464,9 +1452,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1122</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1131</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1135</GadiwanCode>
@@ -2548,6 +2533,14 @@
     <GadiwanCode>1144</GadiwanCode>
     <GadiwanName>पवार गोरख तुकाराम</GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="202">
+    <ContractorName>आटोळे कांतीलाल कल्याण</ContractorName>
+    <GadiwanCode>1026</GadiwanCode>
+    <GadiwanName>आटोळे रामदास हनुमंत</GadiwanName>
+    <ContractorName>आटोळे कांतीलाल कल्याण</ContractorName>
+    <GadiwanCode>1083</GadiwanCode>
+    <GadiwanName>आटोळे रामदास हनुमंत</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="222">
     <ContractorName>नाकाडे आण्णा आश्रूबा</ContractorName>
     <GadiwanCode>44</GadiwanCode>
@@ -3025,28 +3018,28 @@
     <GadiwanName>राठोड राजु धर्मा</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="305">
-    <ContractorName>दहिफळे मच्छिंद्र महादेव No Pan</ContractorName>
+    <ContractorName>दहिफळे मच्छिंद्र महादेव</ContractorName>
     <GadiwanCode>132</GadiwanCode>
     <GadiwanName>दहिफळे देविदास मच्छिंद्र</GadiwanName>
-    <ContractorName>दहिफळे मच्छिंद्र महादेव No Pan</ContractorName>
+    <ContractorName>दहिफळे मच्छिंद्र महादेव</ContractorName>
     <GadiwanCode>140</GadiwanCode>
     <GadiwanName>वाकडे श्रीरंग जयंता</GadiwanName>
-    <ContractorName>दहिफळे मच्छिंद्र महादेव No Pan</ContractorName>
+    <ContractorName>दहिफळे मच्छिंद्र महादेव</ContractorName>
     <GadiwanCode>270</GadiwanCode>
     <GadiwanName>दहिफळे विष्णु मच्छिंद्र</GadiwanName>
-    <ContractorName>दहिफळे मच्छिंद्र महादेव No Pan</ContractorName>
+    <ContractorName>दहिफळे मच्छिंद्र महादेव</ContractorName>
     <GadiwanCode>446</GadiwanCode>
     <GadiwanName>वाकडे दशरथ श्रीरंग</GadiwanName>
-    <ContractorName>दहिफळे मच्छिंद्र महादेव No Pan</ContractorName>
+    <ContractorName>दहिफळे मच्छिंद्र महादेव</ContractorName>
     <GadiwanCode>455</GadiwanCode>
     <GadiwanName>दहिफळे अशोक मच्छिंद्र</GadiwanName>
-    <ContractorName>दहिफळे मच्छिंद्र महादेव No Pan</ContractorName>
+    <ContractorName>दहिफळे मच्छिंद्र महादेव</ContractorName>
     <GadiwanCode>456</GadiwanCode>
     <GadiwanName>दहिफळे अजिनाथ बाबासाहेब</GadiwanName>
-    <ContractorName>दहिफळे मच्छिंद्र महादेव No Pan</ContractorName>
+    <ContractorName>दहिफळे मच्छिंद्र महादेव</ContractorName>
     <GadiwanCode>501</GadiwanCode>
     <GadiwanName>आव्हाड बाबासाहेब त्रिंबक</GadiwanName>
-    <ContractorName>दहिफळे मच्छिंद्र महादेव No Pan</ContractorName>
+    <ContractorName>दहिफळे मच्छिंद्र महादेव</ContractorName>
     <GadiwanCode>582</GadiwanCode>
     <GadiwanName>आधंळे रोहिदास प्रभाकर</GadiwanName>
   </ContractorCode>
@@ -3080,8 +3073,14 @@
     <GadiwanCode>1074</GadiwanCode>
     <GadiwanName>भालेराव राजु नामदेव</GadiwanName>
     <ContractorName>जाधव अशोक रामराव No pan</ContractorName>
+    <GadiwanCode>1102</GadiwanCode>
+    <GadiwanName>पवार रोहिदास सुर्यभान</GadiwanName>
+    <ContractorName>जाधव अशोक रामराव No pan</ContractorName>
     <GadiwanCode>1111</GadiwanCode>
     <GadiwanName>आढाव गणपत गोरक्षनाथ</GadiwanName>
+    <ContractorName>जाधव अशोक रामराव No pan</ContractorName>
+    <GadiwanCode>1131</GadiwanCode>
+    <GadiwanName>बर्डे राजाराम सुर्यभान</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="309">
     <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
@@ -3189,5 +3188,10 @@
     <ContractorName>जगदाळे संतोष ज्ञानेश्वर</ContractorName>
     <GadiwanCode>1001</GadiwanCode>
     <GadiwanName>जगदाळे संतोष ज्ञानेश्वर </GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="322">
+    <ContractorName>सांगळे दत्तात्रय नामदेव</ContractorName>
+    <GadiwanCode>1002</GadiwanCode>
+    <GadiwanName>सांगळे दत्तात्रय नामदेव</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
