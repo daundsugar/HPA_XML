@@ -128,6 +128,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12586">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50572</GrowerCode>
+    <GrowerName>पानसरे शंकर ज्ञानदेव</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>घारगाव</VillageName>
+    <serveNo>438</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10490">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>24297</GrowerCode>
@@ -2560,6 +2576,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12585">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>46915</GrowerCode>
+    <GrowerName>गायकवाड उध्दव भिवसेन</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>75</VillageCode>
+    <VillageName>चिंभळा</VillageName>
+    <serveNo>533</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2197">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>23654</GrowerCode>
@@ -4260,6 +4292,22 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50516</GrowerCode>
     <GrowerName>सोनवणे सर्जेराव श्रीरंग</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>बोरी (श्रीगोंदा)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12581">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33173</GrowerCode>
+    <GrowerName>सोनवणे संगिता भाऊसाहेब</GrowerName>
     <GatCode>7</GatCode>
     <GatName>श्रीगोंदा</GatName>
     <VillageCode>80</VillageCode>

@@ -59760,6 +59760,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12586">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50572</GrowerCode>
+    <GrowerName>पानसरे शंकर ज्ञानदेव</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>घारगाव</VillageName>
+    <serveNo>438</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10490">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>24297</GrowerCode>
@@ -62185,6 +62201,22 @@
     <VillageCode>75</VillageCode>
     <VillageName>चिंभळा</VillageName>
     <serveNo>110</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12585">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>46915</GrowerCode>
+    <GrowerName>गायकवाड उध्दव भिवसेन</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>75</VillageCode>
+    <VillageName>चिंभळा</VillageName>
+    <serveNo>533</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -76089,6 +76121,22 @@
     <VillageCode>354</VillageCode>
     <VillageName>डाळज नं 2</VillageName>
     <serveNo>513</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12584">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50571</GrowerCode>
+    <GrowerName>जगताप मधुकर मनोहर</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>354</VillageCode>
+    <VillageName>डाळज नं 2</VillageName>
+    <serveNo>516</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

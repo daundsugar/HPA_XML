@@ -752,6 +752,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12576">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50566</GrowerCode>
+    <GrowerName>लोंढे राजेंद्र लक्ष्मण</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10782">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>15448</GrowerCode>
@@ -5129,6 +5145,22 @@
     <VillageCode>90</VillageCode>
     <VillageName>दुधोडी</VillageName>
     <serveNo>30/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12583">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5118</GrowerCode>
+    <GrowerName>जांभळे दत्तात्रय नारायण</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>दुधोडी</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
