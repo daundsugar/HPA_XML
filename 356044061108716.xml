@@ -192,6 +192,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12582">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>31125</GrowerCode>
+    <GrowerName>थोरात बाळासो धोंडिबा</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>164</VillageCode>
+    <VillageName>बाभुळसर बु.</VillageName>
+    <serveNo>219/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2406">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>30836</GrowerCode>
@@ -540,6 +556,22 @@
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12580">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50570</GrowerCode>
+    <GrowerName>जाधव चंद्रकांत विष्णु </GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>292</VillageCode>
+    <VillageName>मांडवगण फराटा (शिरूर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>खोडवा</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -23076,6 +23108,22 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50545</GrowerCode>
     <GrowerName>डेंबळकर अमित पोपट</GrowerName>
+    <GatCode>33</GatCode>
+    <GatName>गिरीम</GatName>
+    <VillageCode>1028</VillageCode>
+    <VillageName>पडवी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12575">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14893</GrowerCode>
+    <GrowerName>शितोळे सरस्वती आनंदराव</GrowerName>
     <GatCode>33</GatCode>
     <GatName>गिरीम</GatName>
     <VillageCode>1028</VillageCode>
