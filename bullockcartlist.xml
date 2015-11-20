@@ -953,9 +953,6 @@
     <GadiwanCode>527</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>530</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>531</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1424,9 +1421,6 @@
     <GadiwanCode>1079</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1082</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1085</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1434,9 +1428,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1093</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1094</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1100</GadiwanCode>
@@ -1449,9 +1440,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1121</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1122</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1135</GadiwanCode>
@@ -2399,6 +2387,11 @@
     <GadiwanCode>1155</GadiwanCode>
     <GadiwanName>रोमन अमोल घनशाम</GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="163">
+    <ContractorName>येडे तुळशिराम लक्ष्मण</ContractorName>
+    <GadiwanCode>530</GadiwanCode>
+    <GadiwanName>येडे तुळशिराम लक्ष्मण</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="165">
     <ContractorName>पवार ममराज किसन</ContractorName>
     <GadiwanCode>53</GadiwanCode>
@@ -2788,6 +2781,9 @@
   </ContractorCode>
   <ContractorCode Code="271">
     <ContractorName>माने प्रकाश अनंता</ContractorName>
+    <GadiwanCode>1094</GadiwanCode>
+    <GadiwanName>माने प्रकश अनंता</GadiwanName>
+    <ContractorName>माने प्रकाश अनंता</ContractorName>
     <GadiwanCode>1198</GadiwanCode>
     <GadiwanName>माने प्रकाश अनंता</GadiwanName>
   </ContractorCode>
@@ -3083,31 +3079,31 @@
     <GadiwanName>बर्डे राजाराम सुर्यभान</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="309">
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>197</GadiwanCode>
     <GadiwanName>खटाणे अशोक माणिक</GadiwanName>
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>304</GadiwanCode>
     <GadiwanName>पोंडार बाबासाहेब श्रीरंग</GadiwanName>
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>412</GadiwanCode>
     <GadiwanName>बहिरवाळ समाधान विठ्ठल</GadiwanName>
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>1007</GadiwanCode>
     <GadiwanName>गायकवाड सतिष महादेव</GadiwanName>
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>1031</GadiwanCode>
     <GadiwanName>पवार सुभाष विठ्ठल</GadiwanName>
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>1066</GadiwanCode>
     <GadiwanName>पवार सुभाष विठ्ठल</GadiwanName>
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>1068</GadiwanCode>
     <GadiwanName>पवार बाळु भागुजी</GadiwanName>
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>1108</GadiwanCode>
     <GadiwanName>पवार बाळु भागुजी</GadiwanName>
-    <ContractorName>खटाणे हनुमान सखाराम No pan</ContractorName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>1134</GadiwanCode>
     <GadiwanName>जाधव राजेंद्र रावसाहेब</GadiwanName>
   </ContractorCode>
@@ -3117,24 +3113,24 @@
     <GadiwanName>फडके सागर शिवराम</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="311">
-    <ContractorName>बडे मधुकर दादा No pan</ContractorName>
+    <ContractorName>बडे मधुकर दादा</ContractorName>
     <GadiwanCode>20</GadiwanCode>
     <GadiwanName>खाडे अंबादास आश्रुबा</GadiwanName>
-    <ContractorName>बडे मधुकर दादा No pan</ContractorName>
+    <ContractorName>बडे मधुकर दादा</ContractorName>
     <GadiwanCode>81</GadiwanCode>
     <GadiwanName>खाडे लक्ष्मण विलास</GadiwanName>
-    <ContractorName>बडे मधुकर दादा No pan</ContractorName>
+    <ContractorName>बडे मधुकर दादा</ContractorName>
     <GadiwanCode>495</GadiwanCode>
     <GadiwanName>गर्जे तुकाराम भाऊराव </GadiwanName>
   </ContractorCode>
   <ContractorCode Code="312">
-    <ContractorName>काळे संजय बाबुराव No Pan</ContractorName>
+    <ContractorName>काळे संजय बाबुराव</ContractorName>
     <GadiwanCode>83</GadiwanCode>
     <GadiwanName>मिसाळ राजेंद्र मुरलिधर</GadiwanName>
-    <ContractorName>काळे संजय बाबुराव No Pan</ContractorName>
+    <ContractorName>काळे संजय बाबुराव</ContractorName>
     <GadiwanCode>413</GadiwanCode>
     <GadiwanName>TEMP</GadiwanName>
-    <ContractorName>काळे संजय बाबुराव No Pan</ContractorName>
+    <ContractorName>काळे संजय बाबुराव</ContractorName>
     <GadiwanCode>564</GadiwanCode>
     <GadiwanName>गर्जे नागनाथ मार्तंड</GadiwanName>
   </ContractorCode>
@@ -3154,6 +3150,9 @@
   <ContractorCode Code="315">
     <ContractorName>निकम बुधा हिलाल No pan</ContractorName>
     <GadiwanCode>1003</GadiwanCode>
+    <GadiwanName>निकम बुधा हिलाल</GadiwanName>
+    <ContractorName>निकम बुधा हिलाल No pan</ContractorName>
+    <GadiwanCode>1082</GadiwanCode>
     <GadiwanName>निकम बुधा हिलाल</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="316">
@@ -3193,5 +3192,10 @@
     <ContractorName>सांगळे दत्तात्रय नामदेव</ContractorName>
     <GadiwanCode>1002</GadiwanCode>
     <GadiwanName>सांगळे दत्तात्रय नामदेव</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="323">
+    <ContractorName>गायकवाड विठ्ठल नामदेव</ContractorName>
+    <GadiwanCode>1122</GadiwanCode>
+    <GadiwanName>गायकवाड विठ्ठल नामदेव</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
