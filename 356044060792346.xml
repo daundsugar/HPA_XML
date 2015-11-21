@@ -704,22 +704,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="4267">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>13758</GrowerCode>
-    <GrowerName>गावडे मधुकर गणपत</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>7</VillageCode>
-    <VillageName>लिंगाळी</VillageName>
-    <serveNo>46</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="4268">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1970</GrowerCode>
@@ -8361,6 +8345,22 @@
     <VillageCode>186</VillageCode>
     <VillageName>लिंगाळी (वेताळनगर)</VillageName>
     <serveNo>11/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="4267">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13758</GrowerCode>
+    <GrowerName>गावडे मधुकर गणपत</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>186</VillageCode>
+    <VillageName>लिंगाळी (वेताळनगर)</VillageName>
+    <serveNo>46</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

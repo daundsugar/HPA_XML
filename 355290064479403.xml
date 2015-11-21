@@ -2224,10 +2224,26 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="1086">
+  <PlotList plotNo="12594">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>7790</GrowerCode>
-    <GrowerName>पानसरे आप्पा दिनकर</GrowerName>
+    <GrowerCode>50577</GrowerCode>
+    <GrowerName>पानसरे बापुराव आप्पा</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>नंदादेवी</VillageName>
+    <serveNo>323</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12596">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50578</GrowerCode>
+    <GrowerName>पानसरे सविता बापुराव</GrowerName>
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>32</VillageCode>
