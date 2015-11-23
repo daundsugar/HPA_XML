@@ -10144,6 +10144,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12642">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20037</GrowerCode>
+    <GrowerName>होलम बदाम विठ्ठल</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>178/3</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="219">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3185</GrowerCode>
@@ -12048,22 +12064,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="147">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>5045</GrowerCode>
-    <GrowerName>काळे कृष्णाबाई पंढरीनाथ</GrowerName>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <serveNo>218</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="326">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>21948</GrowerCode>
@@ -12089,6 +12089,22 @@
     <VillageCode>31</VillageCode>
     <VillageName>पानवकर वस्ती</VillageName>
     <serveNo>343</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12638">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40337</GrowerCode>
+    <GrowerName>वारे रेखा राजेंद्र</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>पानवकर वस्ती</VillageName>
+    <serveNo>218</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

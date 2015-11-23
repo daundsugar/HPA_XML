@@ -4576,22 +4576,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="651">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>7474</GrowerCode>
-    <GrowerName>देवकाते जयराम तात्याबा</GrowerName>
-    <GatCode>1</GatCode>
-    <GatName>आलेगाव</GatName>
-    <VillageCode>145</VillageCode>
-    <VillageName>गाडेवाडी (दौंड)</VillageName>
-    <serveNo>138/2</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="653">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>395</GrowerCode>
@@ -4633,6 +4617,22 @@
     <VillageCode>145</VillageCode>
     <VillageName>गाडेवाडी (दौंड)</VillageName>
     <serveNo>244</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12640">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7844</GrowerCode>
+    <GrowerName>कोकरे पुष्पा मनोहर</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>145</VillageCode>
+    <VillageName>गाडेवाडी (दौंड)</VillageName>
+    <serveNo>138/4</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -5488,10 +5488,10 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="1868">
+  <PlotList plotNo="1870">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>3783</GrowerCode>
-    <GrowerName>कामठे अमोल फ़ुलचंद</GrowerName>
+    <GrowerCode>22071</GrowerCode>
+    <GrowerName>कामठे तात्या ऊर्फ प्रेमचंद्र फुलचंद </GrowerName>
     <GatCode>1</GatCode>
     <GatName>आलेगाव</GatName>
     <VillageCode>202</VillageCode>
@@ -5504,10 +5504,10 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="1870">
+  <PlotList plotNo="12639">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>22071</GrowerCode>
-    <GrowerName>कामठे तात्या ऊर्फ प्रेमचंद्र फुलचंद </GrowerName>
+    <GrowerCode>20018</GrowerCode>
+    <GrowerName>गोधडे झुंबर नारायण</GrowerName>
     <GatCode>1</GatCode>
     <GatName>आलेगाव</GatName>
     <VillageCode>202</VillageCode>

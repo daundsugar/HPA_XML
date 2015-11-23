@@ -1664,6 +1664,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12645">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50496</GrowerCode>
+    <GrowerName>टाक सुलोचना जगन्नाथ</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>704</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="11280">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>13871</GrowerCode>
@@ -8672,6 +8688,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12643">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5557</GrowerCode>
+    <GrowerName>कायगुडे भिवराज दिनकर</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>102</VillageCode>
+    <VillageName>गणेशवाडी</VillageName>
+    <serveNo>311</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="12396">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3969</GrowerCode>
@@ -8761,6 +8793,22 @@
     <VillageCode>102</VillageCode>
     <VillageName>गणेशवाडी</VillageName>
     <serveNo>287</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12644">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15173</GrowerCode>
+    <GrowerName>पांडुळे गणेश दादासाहेब</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>102</VillageCode>
+    <VillageName>गणेशवाडी</VillageName>
+    <serveNo>175</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -9251,7 +9299,7 @@
   <PlotList plotNo="12446">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50496</GrowerCode>
-    <GrowerName>सोलंकर तुकाराम यदु</GrowerName>
+    <GrowerName>टाक सुलोचना जगन्नाथ</GrowerName>
     <GatCode>6</GatCode>
     <GatName>कर्जत</GatName>
     <VillageCode>159</VillageCode>

@@ -4832,6 +4832,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12636">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22416</GrowerCode>
+    <GrowerName>देशमुख कांताबाई बाळासाहेब</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>11</VillageCode>
+    <VillageName>लिंगाळी (माळेवाडी )</VillageName>
+    <serveNo>42/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="715">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1207</GrowerCode>
@@ -12418,8 +12434,8 @@
   </PlotList>
   <PlotList plotNo="4427">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>46848</GrowerCode>
-    <GrowerName>घुले सिमा तुकाराम</GrowerName>
+    <GrowerCode>20306</GrowerCode>
+    <GrowerName>घुले सोमा तुकाराम</GrowerName>
     <GatCode>2</GatCode>
     <GatName>लिंगाळी</GatName>
     <VillageCode>190</VillageCode>
