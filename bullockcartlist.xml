@@ -1397,9 +1397,6 @@
     <GadiwanCode>1028</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1030</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1038</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -2339,6 +2336,9 @@
     <GadiwanCode>503</GadiwanCode>
     <GadiwanName>राठोड मधुकर सेवा</GadiwanName>
     <ContractorName>चव्हाण वसंत कचरु</ContractorName>
+    <GadiwanCode>1030</GadiwanCode>
+    <GadiwanName>चव्हाण किसन बाळु </GadiwanName>
+    <ContractorName>चव्हाण वसंत कचरु</ContractorName>
     <GadiwanCode>1176</GadiwanCode>
     <GadiwanName>चव्हाण किसन बाळु</GadiwanName>
   </ContractorCode>
@@ -3194,7 +3194,7 @@
     <GadiwanName>सांगळे दत्तात्रय नामदेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="323">
-    <ContractorName>गायकवाड विठ्ठल नामदेव</ContractorName>
+    <ContractorName>गायकवाड विठ्ठल नामदेव no pan</ContractorName>
     <GadiwanCode>1122</GadiwanCode>
     <GadiwanName>गायकवाड विठ्ठल नामदेव</GadiwanName>
   </ContractorCode>
