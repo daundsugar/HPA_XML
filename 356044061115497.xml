@@ -160,6 +160,38 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12653">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>45672</GrowerCode>
+    <GrowerName>खोमणे मधुकर बबन</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>घारगाव</VillageName>
+    <serveNo>340</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12654">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14144</GrowerCode>
+    <GrowerName>खामकर पोपट सोपाना</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>घारगाव</VillageName>
+    <serveNo>335/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10498">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>31297</GrowerCode>
@@ -4153,6 +4185,22 @@
     <VillageCode>79</VillageCode>
     <VillageName>सांगवी दुमाला</VillageName>
     <serveNo>207</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12651">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6278</GrowerCode>
+    <GrowerName>फराटे राजकुमार रामचंद्र</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>79</VillageCode>
+    <VillageName>सांगवी दुमाला</VillageName>
+    <serveNo>82</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

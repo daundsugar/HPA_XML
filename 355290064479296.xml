@@ -2848,6 +2848,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12656">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13131</GrowerCode>
+    <GrowerName>भोसले श्रीराम बाळासो</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <serveNo>480/8</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2490">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>13095</GrowerCode>
@@ -4553,6 +4569,22 @@
     <VillageCode>33</VillageCode>
     <VillageName>खानोटा</VillageName>
     <serveNo>256</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12657">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13090</GrowerCode>
+    <GrowerName>भोसले संभाजी शहाजी</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>33</VillageCode>
+    <VillageName>खानोटा</VillageName>
+    <serveNo>234</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -9984,10 +10016,10 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="999">
+  <PlotList plotNo="12646">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>21149</GrowerCode>
-    <GrowerName>वाघमोडे धुळाजी सखाराम</GrowerName>
+    <GrowerCode>12580</GrowerCode>
+    <GrowerName>वाघमोडे कांतीलाल बाजीराव</GrowerName>
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>206</VillageCode>

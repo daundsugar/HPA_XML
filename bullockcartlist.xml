@@ -1400,9 +1400,6 @@
     <GadiwanCode>1038</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1041</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1057</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1437,9 +1434,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1135</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1138</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1141</GadiwanCode>
@@ -1949,6 +1943,9 @@
     <GadiwanCode>1015</GadiwanCode>
     <GadiwanName>पवार तुकाराम भिका</GadiwanName>
     <ContractorName>राठोड वसंत मायकल</ContractorName>
+    <GadiwanCode>1041</GadiwanCode>
+    <GadiwanName>चव्हाण चिंतामण भिला</GadiwanName>
+    <ContractorName>राठोड वसंत मायकल</ContractorName>
     <GadiwanCode>1065</GadiwanCode>
     <GadiwanName>राठोड राजेंद्र दशरथ</GadiwanName>
     <ContractorName>राठोड वसंत मायकल</ContractorName>
@@ -1966,6 +1963,9 @@
     <ContractorName>राठोड वसंत मायकल</ContractorName>
     <GadiwanCode>1133</GadiwanCode>
     <GadiwanName>राठोड किरण काशिनाथ</GadiwanName>
+    <ContractorName>राठोड वसंत मायकल</ContractorName>
+    <GadiwanCode>1138</GadiwanCode>
+    <GadiwanName>चव्हाण आत्माराम झब्बु</GadiwanName>
     <ContractorName>राठोड वसंत मायकल</ContractorName>
     <GadiwanCode>1143</GadiwanCode>
     <GadiwanName>देशमुख लक्ष्मण विठ्ठल</GadiwanName>
@@ -3148,10 +3148,10 @@
     <GadiwanName>नागवे आत्माराम पांडुरंग</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="315">
-    <ContractorName>निकम बुधा हिलाल No pan</ContractorName>
+    <ContractorName>निकम बुधा हिलाल</ContractorName>
     <GadiwanCode>1003</GadiwanCode>
     <GadiwanName>निकम बुधा हिलाल</GadiwanName>
-    <ContractorName>निकम बुधा हिलाल No pan</ContractorName>
+    <ContractorName>निकम बुधा हिलाल</ContractorName>
     <GadiwanCode>1082</GadiwanCode>
     <GadiwanName>निकम बुधा हिलाल</GadiwanName>
   </ContractorCode>

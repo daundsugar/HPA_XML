@@ -2896,6 +2896,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12650">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15775</GrowerCode>
+    <GrowerName>साळवे अनिल लक्ष्मण</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>40</VillageCode>
+    <VillageName>मळद</VillageName>
+    <serveNo>811/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="3909">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>46398</GrowerCode>
