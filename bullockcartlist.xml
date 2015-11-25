@@ -1394,9 +1394,6 @@
     <GadiwanCode>800</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1028</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1038</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1409,31 +1406,13 @@
     <GadiwanCode>1077</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1079</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1085</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1087</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1093</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1100</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1106</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1120</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1121</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1135</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1141</GadiwanCode>
@@ -2073,14 +2052,29 @@
     <GadiwanCode>1075</GadiwanCode>
     <GadiwanName>बडे विष्णु साहेबराव</GadiwanName>
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>1079</GadiwanCode>
+    <GadiwanName>राठोड संदिप विठ्ठल</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>1087</GadiwanCode>
+    <GadiwanName>सांगळे अनिल बाबासाहेब</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>1092</GadiwanCode>
     <GadiwanName>सय्यद आल्लोद्दीन समशोद्दीन</GadiwanName>
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>1096</GadiwanCode>
     <GadiwanName>जाधव लक्ष्मण दामु</GadiwanName>
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>1106</GadiwanCode>
+    <GadiwanName>राठोड नितिन शेषेराव</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>1110</GadiwanCode>
     <GadiwanName>राठोड पांडुरंग मोतीराम</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>1121</GadiwanCode>
+    <GadiwanName>राठोड बाबासाहेब धोंडीराम</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>1135</GadiwanCode>
+    <GadiwanName>चव्हाण दिनकर जनार्दन</GadiwanName>
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>1146</GadiwanCode>
     <GadiwanName>सांगळे अनिल आबासाहेब</GadiwanName>
@@ -2383,6 +2377,9 @@
     <ContractorName>गावडे भाउसाहेब मारुती</ContractorName>
     <GadiwanCode>343</GadiwanCode>
     <GadiwanName>घोडके अशोक बापु</GadiwanName>
+    <ContractorName>गावडे भाउसाहेब मारुती</ContractorName>
+    <GadiwanCode>1093</GadiwanCode>
+    <GadiwanName>रोमन अमोल घनशाम</GadiwanName>
     <ContractorName>गावडे भाउसाहेब मारुती</ContractorName>
     <GadiwanCode>1155</GadiwanCode>
     <GadiwanName>रोमन अमोल घनशाम</GadiwanName>
@@ -3161,6 +3158,9 @@
     <GadiwanName>खोमणे सुदाम दादाराम</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="317">
+    <ContractorName>राठोड बळीराम पिराजी</ContractorName>
+    <GadiwanCode>1028</GadiwanCode>
+    <GadiwanName>राठोड बळीराम पिराजी</GadiwanName>
     <ContractorName>राठोड बळीराम पिराजी</ContractorName>
     <GadiwanCode>1127</GadiwanCode>
     <GadiwanName>राठोड बळीराम पिराजी</GadiwanName>
