@@ -112,6 +112,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12686">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50609</GrowerCode>
+    <GrowerName>दिवेकर किसन शंकर</GrowerName>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>381</VillageCode>
+    <VillageName>वरवंड</VillageName>
+    <serveNo>1774/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="12618">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50585</GrowerCode>
@@ -139,6 +155,22 @@
     <serveNo>1091/</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12674">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30460</GrowerCode>
+    <GrowerName>भोसले शिवाजी बाबुराव</GrowerName>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <serveNo>578/4</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
@@ -249,6 +281,22 @@
     <VillageCode>758</VillageCode>
     <VillageName>खामगाव</VillageName>
     <serveNo>9158005917</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12675">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50601</GrowerCode>
+    <GrowerName>बहिरट अमोल जयवंत</GrowerName>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>758</VillageCode>
+    <VillageName>खामगाव</VillageName>
+    <serveNo>284</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>

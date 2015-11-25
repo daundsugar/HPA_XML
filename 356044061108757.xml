@@ -432,6 +432,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12703">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15800</GrowerCode>
+    <GrowerName>खामकर छगन विष्णु</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>46</VillageCode>
+    <VillageName>घोटवी</VillageName>
+    <serveNo>339</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10561">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>13797</GrowerCode>
@@ -3056,6 +3072,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12701">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50616</GrowerCode>
+    <GrowerName>जठार अलकाबाई मोहन</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>कौठा</VillageName>
+    <serveNo>68/4</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="2225">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>31868</GrowerCode>
@@ -3161,6 +3193,38 @@
     <VillageCode>76</VillageCode>
     <VillageName>कौठा</VillageName>
     <serveNo>273</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12700">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50615</GrowerCode>
+    <GrowerName>जठार मोहन महादु</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>कौठा</VillageName>
+    <serveNo>68/3</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12702">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50616</GrowerCode>
+    <GrowerName>जठार अलकाबाई मोहन</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>कौठा</VillageName>
+    <serveNo>72/3</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -4224,6 +4288,22 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="12698">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30625</GrowerCode>
+    <GrowerName>शितोळे बापुसाहेब हनुमंत</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>79</VillageCode>
+    <VillageName>सांगवी दुमाला</VillageName>
+    <serveNo>110</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="10389">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>32501</GrowerCode>
@@ -4505,6 +4585,22 @@
     <VillageCode>80</VillageCode>
     <VillageName>बोरी (श्रीगोंदा)</VillageName>
     <serveNo>72</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12704">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50617</GrowerCode>
+    <GrowerName>शेळके दिलीप संपत</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>बोरी (श्रीगोंदा)</VillageName>
+    <serveNo>97</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
@@ -5193,6 +5289,22 @@
     <VillageCode>86</VillageCode>
     <VillageName>आनंदवाडी</VillageName>
     <serveNo>328</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12699">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>34216</GrowerCode>
+    <GrowerName>गायकवाड विठ्ठल नामदेव</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>86</VillageCode>
+    <VillageName>आनंदवाडी</VillageName>
+    <serveNo>432</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
