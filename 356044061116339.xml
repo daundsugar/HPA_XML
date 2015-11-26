@@ -2352,22 +2352,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="637">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>21287</GrowerCode>
-    <GrowerName>धुमाळ एकनाथ शिवाजी</GrowerName>
-    <GatCode>1</GatCode>
-    <GatName>आलेगाव</GatName>
-    <VillageCode>2</VillageCode>
-    <VillageName>कदम वस्ती</VillageName>
-    <serveNo>137</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>आडसाली</CaneCode>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="638">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>134</GrowerCode>
@@ -2457,6 +2441,22 @@
     <VillageCode>2</VillageCode>
     <VillageName>कदम वस्ती</VillageName>
     <serveNo>107/4</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>आडसाली</CaneCode>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="12732">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50631</GrowerCode>
+    <GrowerName>धुमाळ दिपाली कालिदास</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>2</VillageCode>
+    <VillageName>कदम वस्ती</VillageName>
+    <serveNo>137</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>आडसाली</CaneCode>
