@@ -1394,12 +1394,6 @@
     <GadiwanCode>800</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1038</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1057</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1076</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -2575,6 +2569,9 @@
     <GadiwanCode>1055</GadiwanCode>
     <GadiwanName>शिंदे नवनाथ रामकिसन</GadiwanName>
     <ContractorName>बहिरवाळ पांडुरंग गोपिनाथ</ContractorName>
+    <GadiwanCode>1057</GadiwanCode>
+    <GadiwanName>शेख छोटुभाई हुसेन</GadiwanName>
+    <ContractorName>बहिरवाळ पांडुरंग गोपिनाथ</ContractorName>
     <GadiwanCode>1105</GadiwanCode>
     <GadiwanName>सय्यद मोबीन मेहबुब</GadiwanName>
     <ContractorName>बहिरवाळ पांडुरंग गोपिनाथ</ContractorName>
@@ -2973,9 +2970,6 @@
   </ContractorCode>
   <ContractorCode Code="299">
     <ContractorName>पोटफोडे अनिल रघुनाथ</ContractorName>
-    <GadiwanCode>1142</GadiwanCode>
-    <GadiwanName>नागवे अंबादास परशुराम </GadiwanName>
-    <ContractorName>पोटफोडे अनिल रघुनाथ</ContractorName>
     <GadiwanCode>1147</GadiwanCode>
     <GadiwanName>नागवे फुलचंद नाना</GadiwanName>
   </ContractorCode>
@@ -3105,7 +3099,7 @@
     <GadiwanName>जाधव राजेंद्र रावसाहेब</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="310">
-    <ContractorName>फडके सागर शिवराम No pan</ContractorName>
+    <ContractorName>फडके सागर शिवराम</ContractorName>
     <GadiwanCode>1080</GadiwanCode>
     <GadiwanName>फडके सागर शिवराम</GadiwanName>
   </ContractorCode>
@@ -3197,5 +3191,15 @@
     <ContractorName>गायकवाड विठ्ठल नामदेव no pan</ContractorName>
     <GadiwanCode>1122</GadiwanCode>
     <GadiwanName>गायकवाड विठ्ठल नामदेव</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="325">
+    <ContractorName>नलगे विश्वनाथ यशवंत</ContractorName>
+    <GadiwanCode>1038</GadiwanCode>
+    <GadiwanName>नलगे विश्वनाथ यशवंत</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="326">
+    <ContractorName>शिंदे अनिल अशोक</ContractorName>
+    <GadiwanCode>1142</GadiwanCode>
+    <GadiwanName>शिंदे अनिल अशोक</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
