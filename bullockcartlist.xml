@@ -1097,12 +1097,6 @@
     <GadiwanCode>600</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>701</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>702</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>703</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1322,9 +1316,6 @@
     <GadiwanCode>776</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>777</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>778</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1394,31 +1385,7 @@
     <GadiwanCode>800</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1076</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1077</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1085</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1100</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1120</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1141</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1173</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1210</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1403</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1404</GadiwanCode>
@@ -1711,6 +1678,12 @@
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1500</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
+    <ContractorName>NA</ContractorName>
+    <GadiwanCode>2004</GadiwanCode>
+    <GadiwanName>NA</GadiwanName>
+    <ContractorName>NA</ContractorName>
+    <GadiwanCode>2053</GadiwanCode>
+    <GadiwanName>NA</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="11">
     <ContractorName>तिरखुंडे विनायक रामकिसन</ContractorName>
@@ -1978,6 +1951,9 @@
     <ContractorName>राठोड वसंत मायकल</ContractorName>
     <GadiwanCode>1205</GadiwanCode>
     <GadiwanName>चव्हाण गोटीराम ममराज</GadiwanName>
+    <ContractorName>राठोड वसंत मायकल</ContractorName>
+    <GadiwanCode>2122</GadiwanCode>
+    <GadiwanName>राठोड भगवान थाऊ</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="31">
     <ContractorName>डिसले ज्योतीराम पंढरीनाथ</ContractorName>
@@ -2134,6 +2110,14 @@
     <GadiwanCode>1200</GadiwanCode>
     <GadiwanName>घुमरे नवनाथ गहिनिनाथ</GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="58">
+    <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
+    <GadiwanCode>2035</GadiwanCode>
+    <GadiwanName>राठोड विकास फकिरा</GadiwanName>
+    <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
+    <GadiwanCode>2147</GadiwanCode>
+    <GadiwanName>राठोड रवि फकिरा</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="65">
     <ContractorName>घोडके बाबु कारभारी</ContractorName>
     <GadiwanCode>371</GadiwanCode>
@@ -2203,6 +2187,9 @@
     <ContractorName>किर्तने रावसाहेब बाजीराव</ContractorName>
     <GadiwanCode>1072</GadiwanCode>
     <GadiwanName>राठोड राम किरण</GadiwanName>
+    <ContractorName>किर्तने रावसाहेब बाजीराव</ContractorName>
+    <GadiwanCode>1076</GadiwanCode>
+    <GadiwanName>राठोड मारुती प्रभु</GadiwanName>
     <ContractorName>किर्तने रावसाहेब बाजीराव</ContractorName>
     <GadiwanCode>1115</GadiwanCode>
     <GadiwanName>राठोड शाम गोटीराम</GadiwanName>
@@ -2331,22 +2318,22 @@
     <GadiwanName>चव्हाण किसन बाळु</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="153">
-    <ContractorName>पवार रधुनाथ बाबुराव</ContractorName>
+    <ContractorName>पवार रघुनाथ बाबुराव</ContractorName>
     <GadiwanCode>1034</GadiwanCode>
     <GadiwanName>शेख बाबा महंमंद</GadiwanName>
-    <ContractorName>पवार रधुनाथ बाबुराव</ContractorName>
+    <ContractorName>पवार रघुनाथ बाबुराव</ContractorName>
     <GadiwanCode>1047</GadiwanCode>
     <GadiwanName>पवार बाबुराव पंडीत</GadiwanName>
-    <ContractorName>पवार रधुनाथ बाबुराव</ContractorName>
+    <ContractorName>पवार रघुनाथ बाबुराव</ContractorName>
     <GadiwanCode>1063</GadiwanCode>
     <GadiwanName>आठरे जालिंदर बबन</GadiwanName>
-    <ContractorName>पवार रधुनाथ बाबुराव</ContractorName>
+    <ContractorName>पवार रघुनाथ बाबुराव</ContractorName>
     <GadiwanCode>1125</GadiwanCode>
     <GadiwanName>आठरे जालिंदर बबन</GadiwanName>
-    <ContractorName>पवार रधुनाथ बाबुराव</ContractorName>
+    <ContractorName>पवार रघुनाथ बाबुराव</ContractorName>
     <GadiwanCode>1126</GadiwanCode>
     <GadiwanName>पवार बाबुराव पंडीत</GadiwanName>
-    <ContractorName>पवार रधुनाथ बाबुराव</ContractorName>
+    <ContractorName>पवार रघुनाथ बाबुराव</ContractorName>
     <GadiwanCode>1128</GadiwanCode>
     <GadiwanName>शेख बाबा मंहम्मद</GadiwanName>
   </ContractorCode>
@@ -2524,6 +2511,11 @@
     <ContractorName>आटोळे कांतीलाल कल्याण</ContractorName>
     <GadiwanCode>1083</GadiwanCode>
     <GadiwanName>आटोळे रामदास हनुमंत</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="218">
+    <ContractorName>मेरगळ रामा नामदेव</ContractorName>
+    <GadiwanCode>1120</GadiwanCode>
+    <GadiwanName>मेरगळ रामा नामदेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="222">
     <ContractorName>नाकाडे आण्णा आश्रूबा</ContractorName>
@@ -2843,6 +2835,14 @@
     <GadiwanCode>1090</GadiwanCode>
     <GadiwanName>पवार तात्याराम बाजीराव</GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="284">
+    <ContractorName>देवकाते अशोक किसन</ContractorName>
+    <GadiwanCode>701</GadiwanCode>
+    <GadiwanName>देवकाते अशोक किसन</GadiwanName>
+    <ContractorName>देवकाते अशोक किसन</ContractorName>
+    <GadiwanCode>702</GadiwanCode>
+    <GadiwanName>देवकाते अशोक किसन</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="287">
     <ContractorName>शेंडकर विठ्ठल आंगद</ContractorName>
     <GadiwanCode>106</GadiwanCode>
@@ -2877,7 +2877,7 @@
     <GadiwanName>झरांडे बबन वामन</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="290">
-    <ContractorName>गोरे आसाराम निवृत्ती No Pan</ContractorName>
+    <ContractorName>गोरे आसाराम निवृत्ती</ContractorName>
     <GadiwanCode>1103</GadiwanCode>
     <GadiwanName>गोरे आसाराम निवृती</GadiwanName>
   </ContractorCode>
@@ -2995,6 +2995,9 @@
     <GadiwanName>शिंदे विनायक एकनाथ</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="303">
+    <ContractorName>मेरगळ सोमनाथ काशिनाथ</ContractorName>
+    <GadiwanCode>1077</GadiwanCode>
+    <GadiwanName>मेरगळ सोमनाथ काशिनाथ</GadiwanName>
     <ContractorName>मेरगळ सोमनाथ काशिनाथ</ContractorName>
     <GadiwanCode>1112</GadiwanCode>
     <GadiwanName>मेरगळ सोमनाथ काशिनाथ</GadiwanName>
@@ -3201,5 +3204,33 @@
     <ContractorName>शिंदे अनिल अशोक</ContractorName>
     <GadiwanCode>1142</GadiwanCode>
     <GadiwanName>शिंदे अनिल अशोक</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="327">
+    <ContractorName>देशमुख सज्जन पंडीतराव</ContractorName>
+    <GadiwanCode>1141</GadiwanCode>
+    <GadiwanName>कापरे विक्रम भाऊराव</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="328">
+    <ContractorName>गावडे शंकर दिनकर</ContractorName>
+    <GadiwanCode>1173</GadiwanCode>
+    <GadiwanName>गावडे शंकर दिनकर</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="329">
+    <ContractorName>वाघमोडे शिवाजी लक्ष्मण</ContractorName>
+    <GadiwanCode>1100</GadiwanCode>
+    <GadiwanName>वाघमोडे शिवाजी लक्ष्मण</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="330">
+    <ContractorName>फडके बापु लक्ष्मण</ContractorName>
+    <GadiwanCode>1403</GadiwanCode>
+    <GadiwanName>फडके बापु लक्ष्मण (स्व्त:ची गाडी)</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="332">
+    <ContractorName>शिंदे रोहीदास सुरेश</ContractorName>
+    <GadiwanCode>777</GadiwanCode>
+    <GadiwanName>शिंदे रोहिदास सुरेश</GadiwanName>
+    <ContractorName>शिंदे रोहीदास सुरेश</ContractorName>
+    <GadiwanCode>1085</GadiwanCode>
+    <GadiwanName>शिंदे रोहिदास सुरेश</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
