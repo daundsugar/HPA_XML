@@ -1440,24 +1440,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="1809">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12367</GrowerCode>
-    <GrowerName>कदम दादासो बाबासो</GrowerName>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <serveNo>331/2</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>25-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="1810">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12075</GrowerCode>
@@ -1539,6 +1521,24 @@
     <VillageCode>20</VillageCode>
     <VillageName>देऊळगावराजे</VillageName>
     <serveNo>378</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-JUL-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12987">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12074</GrowerCode>
+    <GrowerName>कदम बापु बाबासाहेब</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>देऊळगावराजे</VillageName>
+    <serveNo>331/2</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -3222,24 +3222,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="348">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>13347</GrowerCode>
-    <GrowerName>बाराते गणेश सखाराम</GrowerName>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>23</VillageCode>
-    <VillageName>वडगाव दरेकर</VillageName>
-    <serveNo>126</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="350">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>4064</GrowerCode>
@@ -3555,6 +3537,24 @@
     <VillageCode>23</VillageCode>
     <VillageName>वडगाव दरेकर</VillageName>
     <serveNo>125/5</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12988">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4046</GrowerCode>
+    <GrowerName>नागवे परशुराम यशवंत</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>वडगाव दरेकर</VillageName>
+    <serveNo>126</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
