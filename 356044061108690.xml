@@ -4068,24 +4068,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="1540">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11487</GrowerCode>
-    <GrowerName>धुमाळ आप्पासो श्रीपती</GrowerName>
-    <GatCode>33</GatCode>
-    <GatName>गिरीम</GatName>
-    <VillageCode>1019</VillageCode>
-    <VillageName>सोनवडी</VillageName>
-    <serveNo>172</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="9729">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>46087</GrowerCode>
@@ -7605,6 +7587,24 @@
     <VillageCode>1020</VillageCode>
     <VillageName>नानवीज</VillageName>
     <serveNo>186</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="1540">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2028</GrowerCode>
+    <GrowerName>धुमाळ आप्पासो श्रीपदराव</GrowerName>
+    <GatCode>33</GatCode>
+    <GatName>गिरीम</GatName>
+    <VillageCode>1020</VillageCode>
+    <VillageName>नानवीज</VillageName>
+    <serveNo>172</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>1</CaneCode>
