@@ -266,9 +266,6 @@
     <GadiwanCode>139</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>142</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>143</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -369,9 +366,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>190</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>192</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>195</GadiwanCode>
@@ -896,9 +890,6 @@
     <GadiwanCode>497</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>498</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>502</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1095,12 +1086,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>600</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>703</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>704</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>705</GadiwanCode>
@@ -1383,9 +1368,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>800</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1210</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1404</GadiwanCode>
@@ -1730,6 +1712,9 @@
     <GadiwanCode>13</GadiwanCode>
     <GadiwanName>देवडे एकनाथ ईश्वर</GadiwanName>
     <ContractorName>पवार बाबुराव भगवान</ContractorName>
+    <GadiwanCode>142</GadiwanCode>
+    <GadiwanName>नाकाडे नागनाथ रघुनाथ</GadiwanName>
+    <ContractorName>पवार बाबुराव भगवान</ContractorName>
     <GadiwanCode>576</GadiwanCode>
     <GadiwanName>पवार राजेंद्र भानुदास</GadiwanName>
     <ContractorName>पवार बाबुराव भगवान</ContractorName>
@@ -1980,6 +1965,9 @@
     <GadiwanCode>572</GadiwanCode>
     <GadiwanName>गर्कळ विष्णू मारुती</GadiwanName>
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>704</GadiwanCode>
+    <GadiwanName>शेख युसुफ मेहबुब</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>1004</GadiwanCode>
     <GadiwanName>शेख युसुफ मेहबुब</GadiwanName>
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
@@ -2206,6 +2194,9 @@
     <GadiwanCode>1207</GadiwanCode>
     <GadiwanName>खेडकर पांडुरंग साहेबराव</GadiwanName>
     <ContractorName>किर्तने रावसाहेब बाजीराव</ContractorName>
+    <GadiwanCode>1210</GadiwanCode>
+    <GadiwanName>मार्कंडे श्रीधर लहु</GadiwanName>
+    <ContractorName>किर्तने रावसाहेब बाजीराव</ContractorName>
     <GadiwanCode>1401</GadiwanCode>
     <GadiwanName>मार्कंडे परमेश्वर लहु</GadiwanName>
   </ContractorCode>
@@ -2356,6 +2347,9 @@
     <GadiwanCode>343</GadiwanCode>
     <GadiwanName>घोडके अशोक बापु</GadiwanName>
     <ContractorName>गावडे भाउसाहेब मारुती</ContractorName>
+    <GadiwanCode>498</GadiwanCode>
+    <GadiwanName>घोडके दगडु कारभारी</GadiwanName>
+    <ContractorName>गावडे भाउसाहेब मारुती</ContractorName>
     <GadiwanCode>1093</GadiwanCode>
     <GadiwanName>रोमन अमोल घनशाम</GadiwanName>
     <ContractorName>गावडे भाउसाहेब मारुती</ContractorName>
@@ -2422,6 +2416,9 @@
     <ContractorName>गोरबंजारा बबन मगन</ContractorName>
     <GadiwanCode>189</GadiwanCode>
     <GadiwanName>राठोड ताराचंद भोमा</GadiwanName>
+    <ContractorName>गोरबंजारा बबन मगन</ContractorName>
+    <GadiwanCode>192</GadiwanCode>
+    <GadiwanName>चव्हाण कृष्णा आप्पा</GadiwanName>
     <ContractorName>गोरबंजारा बबन मगन</ContractorName>
     <GadiwanCode>395</GadiwanCode>
     <GadiwanName>चव्हाण समाधान आप्पा</GadiwanName>
@@ -2930,7 +2927,7 @@
     <GadiwanName>बोडखे संभाजी रोहिदास</GadiwanName>
     <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
     <GadiwanCode>1139</GadiwanCode>
-    <GadiwanName>बोडखे संभाजी रघुनाथ</GadiwanName>
+    <GadiwanName>बोडखे संभाजी रोहिदास</GadiwanName>
     <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
     <GadiwanCode>1149</GadiwanCode>
     <GadiwanName>गर्कळ नंदराज शहादेव</GadiwanName>
@@ -3224,6 +3221,11 @@
     <ContractorName>फडके बापु लक्ष्मण</ContractorName>
     <GadiwanCode>1403</GadiwanCode>
     <GadiwanName>फडके बापु लक्ष्मण (स्व्त:ची गाडी)</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="331">
+    <ContractorName>मोहिते गोपीचंद सुरेश</ContractorName>
+    <GadiwanCode>703</GadiwanCode>
+    <GadiwanName>मोहिते गोपिचंद सुरेश</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="332">
     <ContractorName>शिंदे रोहीदास सुरेश</ContractorName>
