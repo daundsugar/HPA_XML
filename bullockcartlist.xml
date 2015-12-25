@@ -1085,9 +1085,6 @@
     <GadiwanCode>600</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>706</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>707</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1356,9 +1353,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>800</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1404</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1405</GadiwanCode>
@@ -2266,6 +2260,9 @@
     <ContractorName>भिताडे राजेंद्र मारुती</ContractorName>
     <GadiwanCode>505</GadiwanCode>
     <GadiwanName>भिताडे संदिप राजेंद्र</GadiwanName>
+    <ContractorName>भिताडे राजेंद्र मारुती</ContractorName>
+    <GadiwanCode>706</GadiwanCode>
+    <GadiwanName>भोसले अभिमान चंदर</GadiwanName>
     <ContractorName>भिताडे राजेंद्र मारुती</ContractorName>
     <GadiwanCode>1036</GadiwanCode>
     <GadiwanName>भोसले अभिमान चंदर</GadiwanName>
@@ -3236,5 +3233,10 @@
     <ContractorName>सांगळे शिवाजी बाळु</ContractorName>
     <GadiwanCode>780</GadiwanCode>
     <GadiwanName>सांगळे शिवाजी बाळु</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="334">
+    <ContractorName>शिंदे गणेश शिवाजी</ContractorName>
+    <GadiwanCode>1404</GadiwanCode>
+    <GadiwanName>शिंदे गणेश शिवाजी (स्वत:ची गाडी)</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
