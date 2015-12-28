@@ -635,6 +635,12 @@
       <TrollyNoA>T1469-1</TrollyNoA>
       <TrollyNoB>T1469-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="1472">
+      <ContractorName>अवचर बाळकृष्ण सोपान</ContractorName>
+      <VehicleNo>MH 42 3351</VehicleNo>
+      <TrollyNoA>T1472-1</TrollyNoA>
+      <TrollyNoB>T1472-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="1476">
       <ContractorName>घाडगे जिजाबा बाजीराव</ContractorName>
       <VehicleNo>MH 12 JN 7177</VehicleNo>
@@ -1120,6 +1126,12 @@
       <VehicleNo>MH 20 CR 3248</VehicleNo>
       <TrollyNoA>T2590-1</TrollyNoA>
       <TrollyNoB>T2590-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="2604">
+      <ContractorName>घुगे भारत वाल्मिक</ContractorName>
+      <VehicleNo>New Ghuge</VehicleNo>
+      <TrollyNoA>T2604-1</TrollyNoA>
+      <TrollyNoB>T2604-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="2797">
       <ContractorName>लंबाते नवनाथ नामदेव</ContractorName>
