@@ -1088,15 +1088,6 @@
     <GadiwanCode>707</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>708</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>709</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>710</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>711</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -2062,6 +2053,9 @@
     <GadiwanCode>358</GadiwanCode>
     <GadiwanName>साठे बबन सोपान</GadiwanName>
     <ContractorName>शेंडकर केदार साहेबराव</ContractorName>
+    <GadiwanCode>710</GadiwanCode>
+    <GadiwanName>पवणे रावसाहेब विठ्ठल</GadiwanName>
+    <ContractorName>शेंडकर केदार साहेबराव</ContractorName>
     <GadiwanCode>772</GadiwanCode>
     <GadiwanName>घुमरे नवनाथ गहिनीनाथ</GadiwanName>
     <ContractorName>शेंडकर केदार साहेबराव</ContractorName>
@@ -2871,10 +2865,16 @@
   </ContractorCode>
   <ContractorCode Code="293">
     <ContractorName>पाटिल धिरेश भालेराव</ContractorName>
+    <GadiwanCode>708</GadiwanCode>
+    <GadiwanName>पाटिल धिरेश भालेराव</GadiwanName>
+    <ContractorName>पाटिल धिरेश भालेराव</ContractorName>
     <GadiwanCode>1156</GadiwanCode>
     <GadiwanName>पाटिल धिरेश भालेराव </GadiwanName>
   </ContractorCode>
   <ContractorCode Code="294">
+    <ContractorName>शिंदे प्रकाश त्र्यंबक</ContractorName>
+    <GadiwanCode>709</GadiwanCode>
+    <GadiwanName>शिंदे प्रकाश त्रिंबक </GadiwanName>
     <ContractorName>शिंदे प्रकाश त्र्यंबक</ContractorName>
     <GadiwanCode>1157</GadiwanCode>
     <GadiwanName>शिंदे प्रकाश त्रिंबक</GadiwanName>
