@@ -1088,9 +1088,6 @@
     <GadiwanCode>707</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>711</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>713</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -2181,6 +2178,9 @@
     <ContractorName>किर्तने रावसाहेब बाजीराव</ContractorName>
     <GadiwanCode>1401</GadiwanCode>
     <GadiwanName>मार्कंडे परमेश्वर लहु</GadiwanName>
+    <ContractorName>किर्तने रावसाहेब बाजीराव</ContractorName>
+    <GadiwanCode>2022</GadiwanCode>
+    <GadiwanName>किर्तने अविनाश प्रभाकर</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="85">
     <ContractorName>शिंदे गुलाब आजीनाथ</ContractorName>
@@ -3047,16 +3047,16 @@
     <GadiwanName>शिंदे सुरेश शंकर</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="308">
-    <ContractorName>जाधव अशोक रामराव No pan</ContractorName>
+    <ContractorName>जाधव अशोक रामराव</ContractorName>
     <GadiwanCode>1074</GadiwanCode>
     <GadiwanName>भालेराव राजु नामदेव</GadiwanName>
-    <ContractorName>जाधव अशोक रामराव No pan</ContractorName>
+    <ContractorName>जाधव अशोक रामराव</ContractorName>
     <GadiwanCode>1102</GadiwanCode>
     <GadiwanName>पवार रोहिदास सुर्यभान</GadiwanName>
-    <ContractorName>जाधव अशोक रामराव No pan</ContractorName>
+    <ContractorName>जाधव अशोक रामराव</ContractorName>
     <GadiwanCode>1111</GadiwanCode>
     <GadiwanName>आढाव गणपत गोरक्षनाथ</GadiwanName>
-    <ContractorName>जाधव अशोक रामराव No pan</ContractorName>
+    <ContractorName>जाधव अशोक रामराव</ContractorName>
     <GadiwanCode>1131</GadiwanCode>
     <GadiwanName>बर्डे राजाराम सुर्यभान</GadiwanName>
   </ContractorCode>
@@ -3151,10 +3151,10 @@
     <GadiwanName>राठोड बळीराम पिराजी (2)</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="318">
-    <ContractorName>बाराते रामचंद्र दादाराम No Pan</ContractorName>
+    <ContractorName>बाराते रामचंद्र दादाराम</ContractorName>
     <GadiwanCode>1114</GadiwanCode>
     <GadiwanName>बाराते रामचंद्र दादाराम</GadiwanName>
-    <ContractorName>बाराते रामचंद्र दादाराम No Pan</ContractorName>
+    <ContractorName>बाराते रामचंद्र दादाराम</ContractorName>
     <GadiwanCode>1129</GadiwanCode>
     <GadiwanName>बाराते रामचंद्र दादाराम</GadiwanName>
   </ContractorCode>
@@ -3184,6 +3184,9 @@
     <GadiwanName>गायकवाड विठ्ठल नामदेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="325">
+    <ContractorName>नलगे विश्वनाथ यशवंत</ContractorName>
+    <GadiwanCode>711</GadiwanCode>
+    <GadiwanName>नलगे विश्वनाथ यशवंत</GadiwanName>
     <ContractorName>नलगे विश्वनाथ यशवंत</ContractorName>
     <GadiwanCode>1038</GadiwanCode>
     <GadiwanName>नलगे विश्वनाथ यशवंत</GadiwanName>
