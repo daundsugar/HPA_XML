@@ -443,6 +443,12 @@
       <TrollyNoA>T255-1</TrollyNoA>
       <TrollyNoB>T255-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="259">
+      <ContractorName>पाटणकर हेमंत व्यंकटेश</ContractorName>
+      <VehicleNo>MH 42 F 3888</VehicleNo>
+      <TrollyNoA>T259-1</TrollyNoA>
+      <TrollyNoB>T259-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="262">
       <ContractorName>पाटील सर्जेराव उत्तम</ContractorName>
       <VehicleNo>MH 19 AP 5054</VehicleNo>
@@ -1843,7 +1849,7 @@
     </ContractorCode>
     <ContractorCode Code="3360">
       <ContractorName>क्षिरसागर सोमनाथ मधुकर</ContractorName>
-      <VehicleNo>MH 42 Y 4359</VehicleNo>
+      <VehicleNo>MH 42 Y 4159</VehicleNo>
       <TrollyNoA>T3360-1</TrollyNoA>
       <TrollyNoB>T3360-2</TrollyNoB>
     </ContractorCode>
@@ -1974,7 +1980,7 @@
       <TrollyNoB>T3390-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="3391">
-      <ContractorName>फडके बाबासाहेब ज्ञानदेव No pan</ContractorName>
+      <ContractorName>फडके बाबासाहेब ज्ञानदेव</ContractorName>
       <VehicleNo>MH 42  A 5691</VehicleNo>
       <TrollyNoA>T3391-1</TrollyNoA>
       <TrollyNoB>T3391-2</TrollyNoB>
