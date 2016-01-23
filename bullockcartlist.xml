@@ -3179,7 +3179,7 @@
     <GadiwanName>सांगळे दत्तात्रय नामदेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="323">
-    <ContractorName>गायकवाड विठ्ठल नामदेव no pan</ContractorName>
+    <ContractorName>गायकवाड विठ्ठल नामदेव</ContractorName>
     <GadiwanCode>1122</GadiwanCode>
     <GadiwanName>गायकवाड विठ्ठल नामदेव</GadiwanName>
   </ContractorCode>
@@ -3244,5 +3244,13 @@
     <ContractorName>शिंदे गणेश शिवाजी</ContractorName>
     <GadiwanCode>2124</GadiwanCode>
     <GadiwanName>शिंदे गणेश शिवाजी</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="335">
+    <ContractorName>चव्हाण सिताराम मिठू</ContractorName>
+    <GadiwanCode>2078</GadiwanCode>
+    <GadiwanName>चव्हाण शांताराम मिठु</GadiwanName>
+    <ContractorName>चव्हाण सिताराम मिठू</ContractorName>
+    <GadiwanCode>2141</GadiwanCode>
+    <GadiwanName>चव्हाण शांताराम मिठु</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
