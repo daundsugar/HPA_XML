@@ -1088,9 +1088,6 @@
     <GadiwanCode>707</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>713</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>714</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -2388,6 +2385,14 @@
     <ContractorName>तांबे भरत दिगांबर</ContractorName>
     <GadiwanCode>579</GadiwanCode>
     <GadiwanName>रंधवे दशरथ तबाजी</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="174">
+    <ContractorName>तांबे जालिंदर नामदेव</ContractorName>
+    <GadiwanCode>713</GadiwanCode>
+    <GadiwanName>तांबे राम भास्कर</GadiwanName>
+    <ContractorName>तांबे जालिंदर नामदेव</ContractorName>
+    <GadiwanCode>2173</GadiwanCode>
+    <GadiwanName>तांबे जालिंदर नामदेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="188">
     <ContractorName>तिरखुंडे बबन हरीभाउ</ContractorName>
