@@ -2087,5 +2087,17 @@
       <TrollyNoA>T3443-1</TrollyNoA>
       <TrollyNoB>T3443-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="3445">
+      <ContractorName>सलगर भिमराव गोविंद </ContractorName>
+      <VehicleNo>MH 45 F 8705</VehicleNo>
+      <TrollyNoA>T3445-1</TrollyNoA>
+      <TrollyNoB>T3445-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="3446">
+      <ContractorName>देवकाते उज्वला संतोष</ContractorName>
+      <VehicleNo>MH 42 F 2739</VehicleNo>
+      <TrollyNoA>T3446-1</TrollyNoA>
+      <TrollyNoB>T3446-2</TrollyNoB>
+    </ContractorCode>
   </VechicleType>
 </ContractorDetails>
