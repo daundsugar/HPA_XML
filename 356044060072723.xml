@@ -3600,6 +3600,42 @@
     <Plotend>N</Plotend>
     <PlantationDate>09-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14185">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30047</GrowerCode>
+    <GrowerName>अहिर गोरख चंद्रशेखर</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>2</VillageCode>
+    <VillageName>कदम वस्ती</VillageName>
+    <serveNo>40/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>10-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14186">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51353</GrowerCode>
+    <GrowerName>अहिर मंगलकुमार चंद्रशेखर</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>2</VillageCode>
+    <VillageName>कदम वस्ती</VillageName>
+    <serveNo>40/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>10-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="4848">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>107</GrowerCode>
@@ -3843,6 +3879,24 @@
     <VillageCode>2</VillageCode>
     <VillageName>कदम वस्ती</VillageName>
     <serveNo>117</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14183">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51351</GrowerCode>
+    <GrowerName>कदम विमल बापुराव</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>2</VillageCode>
+    <VillageName>कदम वस्ती</VillageName>
+    <serveNo>6/2</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -12869,6 +12923,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>28-NOV-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14184">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51352</GrowerCode>
+    <GrowerName>भोसले बापु कैलास</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>202</VillageCode>
+    <VillageName>जोतीबानगर</VillageName>
+    <serveNo>196/5</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>29-NOV-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="4495">
     <ProgramNo>1</ProgramNo>
