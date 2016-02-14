@@ -263,9 +263,6 @@
     <GadiwanCode>139</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>143</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>144</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -455,9 +452,6 @@
     <GadiwanCode>234</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>235</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>236</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -510,9 +504,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>258</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>259</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>263</GadiwanCode>
@@ -1088,15 +1079,6 @@
     <GadiwanCode>707</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>714</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>715</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>716</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>717</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1275,9 +1257,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>779</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>781</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>782</GadiwanCode>
@@ -1919,6 +1898,15 @@
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>122</GadiwanCode>
     <GadiwanName>शेख युसुफ गुलाब</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>143</GadiwanCode>
+    <GadiwanName>केकाण अरुण मोहन</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>235</GadiwanCode>
+    <GadiwanName>दहिफळे भगवान जगन्नाथ</GadiwanName>
+    <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
+    <GadiwanCode>259</GadiwanCode>
+    <GadiwanName>राठोड भाऊसाहेब दिगांबर</GadiwanName>
     <ContractorName>गर्कळ बाबासाहेब दगडु</ContractorName>
     <GadiwanCode>321</GadiwanCode>
     <GadiwanName>दहिफळे अंबादास दामोदर</GadiwanName>
@@ -3076,6 +3064,9 @@
     <GadiwanCode>412</GadiwanCode>
     <GadiwanName>बहिरवाळ समाधान विठ्ठल</GadiwanName>
     <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
+    <GadiwanCode>781</GadiwanCode>
+    <GadiwanName>घोशिर संदिप प्रभु</GadiwanName>
+    <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
     <GadiwanCode>1007</GadiwanCode>
     <GadiwanName>गायकवाड सतिष महादेव</GadiwanName>
     <ContractorName>खटाणे हनुमान सखाराम</ContractorName>
@@ -3257,5 +3248,19 @@
     <ContractorName>चव्हाण सिताराम मिठू</ContractorName>
     <GadiwanCode>2141</GadiwanCode>
     <GadiwanName>चव्हाण शांताराम मिठु</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="337">
+    <ContractorName>काळे सिताराम आलिज</ContractorName>
+    <GadiwanCode>714</GadiwanCode>
+    <GadiwanName>काळे बाळासाहेब भाऊसाहेब</GadiwanName>
+    <ContractorName>काळे सिताराम आलिज</ContractorName>
+    <GadiwanCode>715</GadiwanCode>
+    <GadiwanName>करडुळे अशोक मल्हारी</GadiwanName>
+    <ContractorName>काळे सिताराम आलिज</ContractorName>
+    <GadiwanCode>716</GadiwanCode>
+    <GadiwanName>करडुळे अशोक मल्हारी</GadiwanName>
+    <ContractorName>काळे सिताराम आलिज</ContractorName>
+    <GadiwanCode>2026</GadiwanCode>
+    <GadiwanName>काळे बाळासाहेब भाऊसाहेब</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
