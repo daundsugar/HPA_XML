@@ -5607,8 +5607,8 @@
     <VillageCode>9</VillageCode>
     <VillageName>खोरवडी</VillageName>
     <serveNo>103</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>4</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
@@ -7013,24 +7013,6 @@
     <serveNo>8</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>12-MAR-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="9125">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>699</GrowerCode>
-    <GrowerName>येडे बाळु कोंडिबा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>9</VillageCode>
-    <VillageName>खोरवडी</VillageName>
-    <serveNo>8</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
@@ -24282,6 +24264,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>03-JAN-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14390">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>697</GrowerCode>
+    <GrowerName>येडे मधुकर कोंडिबा</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>190</VillageCode>
+    <VillageName>खोरवडी (वाघदरा)</VillageName>
+    <serveNo>388</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>03-JAN-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="9091">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12025</GrowerCode>
@@ -24615,6 +24615,24 @@
     <VillageCode>190</VillageCode>
     <VillageName>खोरवडी (वाघदरा)</VillageName>
     <serveNo>289</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>14-JAN-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14330">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>538</GrowerCode>
+    <GrowerName>पानसरे कल्पना यादव</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>190</VillageCode>
+    <VillageName>खोरवडी (वाघदरा)</VillageName>
+    <serveNo>366</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -25091,6 +25109,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>07-MAR-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="9125">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>699</GrowerCode>
+    <GrowerName>येडे बाळु कोंडिबा</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>190</VillageCode>
+    <VillageName>खोरवडी (वाघदरा)</VillageName>
+    <serveNo>8</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>12-MAR-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="9040">
     <ProgramNo>1</ProgramNo>
