@@ -5598,6 +5598,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14610">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12480</GrowerCode>
+    <GrowerName>महानवर प्रविण बबन</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <serveNo>599</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8474">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12450</GrowerCode>
@@ -5663,6 +5681,24 @@
     <serveNo>513</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>30-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14608">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7303</GrowerCode>
+    <GrowerName>येवले रंजना बापु</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <serveNo>516</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
@@ -17244,6 +17280,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>30-NOV-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14605">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39548</GrowerCode>
+    <GrowerName>गावडे कावेरी महादेव</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>142</VillageCode>
+    <VillageName>राजेगाव (फार्म)</VillageName>
+    <serveNo>169</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="6615">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>22369</GrowerCode>
@@ -17261,6 +17315,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>07-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14607">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51635</GrowerCode>
+    <GrowerName>वाघ उषा शिवाजी</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>142</VillageCode>
+    <VillageName>राजेगाव (फार्म)</VillageName>
+    <serveNo>33</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>10-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14606">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51635</GrowerCode>
+    <GrowerName>वाघ उषा शिवाजी</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>142</VillageCode>
+    <VillageName>राजेगाव (फार्म)</VillageName>
+    <serveNo>32</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>10-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="6616">
     <ProgramNo>1</ProgramNo>
@@ -21024,6 +21114,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>29-NOV-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14611">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12226</GrowerCode>
+    <GrowerName>वाघमोडे अकुंश अनंता</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>206</VillageCode>
+    <VillageName>मलठण स्टेशन</VillageName>
+    <serveNo>209</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="6168">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>30760</GrowerCode>
@@ -21627,6 +21735,24 @@
     <VillageCode>206</VillageCode>
     <VillageName>मलठण स्टेशन</VillageName>
     <serveNo>255</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>30-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14609">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>45217</GrowerCode>
+    <GrowerName>थोरात दिक्षा राजेंद्र</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>206</VillageCode>
+    <VillageName>मलठण स्टेशन</VillageName>
+    <serveNo>64</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
