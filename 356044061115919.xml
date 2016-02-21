@@ -3836,8 +3836,8 @@
   </PlotList>
   <PlotList plotNo="14555">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>51602</GrowerCode>
-    <GrowerName>लोंढे विश्वास कैलास</GrowerName>
+    <GrowerCode>9145</GrowerCode>
+    <GrowerName>लोंढे विश्वास कैलास </GrowerName>
     <GatCode>6</GatCode>
     <GatName>कर्जत</GatName>
     <VillageCode>55</VillageCode>
@@ -9072,6 +9072,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14618">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5350</GrowerCode>
+    <GrowerName>सांगळे सुरेश गणपत</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>320</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="13786">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>47062</GrowerCode>
@@ -11079,6 +11097,24 @@
     <VillageCode>93</VillageCode>
     <VillageName>सिध्दटेक</VillageName>
     <serveNo>129</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14619">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51636</GrowerCode>
+    <GrowerName>म्हस्के यशोदा भिवा</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>93</VillageCode>
+    <VillageName>सिध्दटेक</VillageName>
+    <serveNo>27</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -13377,7 +13413,7 @@
   <PlotList plotNo="13706">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>51129</GrowerCode>
-    <GrowerName>गिरगोसावी संतोष दत्तात्रय</GrowerName>
+    <GrowerName>गिरीगोसावी संतोष दत्तात्रय</GrowerName>
     <GatCode>6</GatCode>
     <GatName>कर्जत</GatName>
     <VillageCode>113</VillageCode>
