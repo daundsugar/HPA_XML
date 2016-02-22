@@ -3366,6 +3366,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>15-NOV-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14757">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51747</GrowerCode>
+    <GrowerName>शेटे मोहन महादेव </GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>19/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-NOV-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="10930">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>17466</GrowerCode>
@@ -3915,6 +3933,24 @@
     <VillageCode>55</VillageCode>
     <VillageName>भांबोरा</VillageName>
     <serveNo>544</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14755">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4525</GrowerCode>
+    <GrowerName>शितोळे सर्जेराव निवृत्ती</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>336</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -8945,6 +8981,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>18-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14756">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40325</GrowerCode>
+    <GrowerName>झगडे नामदेव सुदाम</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>376</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="11292">
     <ProgramNo>1</ProgramNo>
