@@ -18,24 +18,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="23">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>26063</GrowerCode>
-    <GrowerName>गावडे बबन राजाराम</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>7</VillageCode>
-    <VillageName>लिंगाळी</VillageName>
-    <serveNo>46</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="33">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1955</GrowerCode>
@@ -89,24 +71,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>02-JUL-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="13527">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1861</GrowerCode>
-    <GrowerName>वत्रे शंकर दिनकर</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>7</VillageCode>
-    <VillageName>लिंगाळी</VillageName>
-    <serveNo>25/7ऑष/3</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>04-JUL-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="2688">
     <ProgramNo>1</ProgramNo>
@@ -360,42 +324,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>14-SEP-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="10947">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1998</GrowerCode>
-    <GrowerName>जगदाळे मधुकर रघुनाथ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>7</VillageCode>
-    <VillageName>लिंगाळी</VillageName>
-    <serveNo>30</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>14-SEP-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="10948">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1935</GrowerCode>
-    <GrowerName>जगदाळे नारायण सोपान</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>7</VillageCode>
-    <VillageName>लिंगाळी</VillageName>
-    <serveNo>61</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>15-SEP-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="10949">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>46396</GrowerCode>
@@ -467,24 +395,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>16-SEP-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="10953">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>29944</GrowerCode>
-    <GrowerName>जाधव रेखा धनंजय</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>7</VillageCode>
-    <VillageName>लिंगाळी</VillageName>
-    <serveNo>28/९</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>17-SEP-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="10954">
     <ProgramNo>1</ProgramNo>
@@ -1187,24 +1097,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>17-DEC-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="8857">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>6327</GrowerCode>
-    <GrowerName>जगदाळे दत्तु भगवान</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>7</VillageCode>
-    <VillageName>लिंगाळी</VillageName>
-    <serveNo>19/1</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>20-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="14544">
     <ProgramNo>1</ProgramNo>
@@ -1998,24 +1890,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>05-AUG-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="3389">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>32833</GrowerCode>
-    <GrowerName>जगताप सुवर्णा राजु</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>8</VillageCode>
-    <VillageName>मसनेरवाडी</VillageName>
-    <serveNo>59</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>10-AUG-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="3390">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>32833</GrowerCode>
@@ -2033,24 +1907,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>10-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="3392">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>21545</GrowerCode>
-    <GrowerName>येडे दादाराम विठ्ठल</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>8</VillageCode>
-    <VillageName>मसनेरवाडी</VillageName>
-    <serveNo>20</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>11-AUG-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="3394">
     <ProgramNo>1</ProgramNo>
@@ -2213,24 +2069,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>07-SEP-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="11032">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>970</GrowerCode>
-    <GrowerName>येडे भगवान महादेव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>8</VillageCode>
-    <VillageName>मसनेरवाडी</VillageName>
-    <serveNo>39/1</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>12-SEP-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="11037">
     <ProgramNo>1</ProgramNo>
@@ -2429,24 +2267,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>04-NOV-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="12156">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>963</GrowerCode>
-    <GrowerName>जगदाळे सुमन जगन्नाथ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>8</VillageCode>
-    <VillageName>मसनेरवाडी</VillageName>
-    <serveNo>-</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>05-NOV-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="7116">
     <ProgramNo>1</ProgramNo>
@@ -3096,24 +2916,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>30-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="2680">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>46212</GrowerCode>
-    <GrowerName>सदगर राधाजी गोविंद</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>9</VillageCode>
-    <VillageName>खोरवडी</VillageName>
-    <serveNo>27</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>30-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="2681">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>546</GrowerCode>
@@ -3573,24 +3375,6 @@
     <VillageCode>9</VillageCode>
     <VillageName>खोरवडी</VillageName>
     <serveNo>20</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>22-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="4409">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>7935</GrowerCode>
-    <GrowerName>धावडे परशुराम धोंडिबा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>9</VillageCode>
-    <VillageName>खोरवडी</VillageName>
-    <serveNo>119</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -5040,24 +4824,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-DEC-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="9108">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>30197</GrowerCode>
-    <GrowerName>पिसाळ भागाबाई किसन</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>9</VillageCode>
-    <VillageName>खोरवडी</VillageName>
-    <serveNo>200/1</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>26-DEC-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="8196">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>22988</GrowerCode>
@@ -5615,6 +5381,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>14-JAN-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15061">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30183</GrowerCode>
+    <GrowerName>दगडे ताईबाई सावळाराम</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>393</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-JAN-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="8552">
     <ProgramNo>1</ProgramNo>
@@ -6858,24 +6642,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>05-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="501">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1452</GrowerCode>
-    <GrowerName>वाबळे शकुंतला लालासाहेब</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>दौंड</VillageName>
-    <serveNo>9</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>07-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="1906">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1426</GrowerCode>
@@ -6929,24 +6695,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>07-JUL-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="1908">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1040</GrowerCode>
-    <GrowerName>वाबळे निर्मला सुभाष</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>दौंड</VillageName>
-    <serveNo>9</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>11-JUL-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="1909">
     <ProgramNo>1</ProgramNo>
@@ -7109,24 +6857,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>23-JUL-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="1917">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1450</GrowerCode>
-    <GrowerName>काटे शाम लक्ष्मण</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>दौंड</VillageName>
-    <serveNo>11/4/</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>28-JUL-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="5433">
     <ProgramNo>1</ProgramNo>
@@ -7758,24 +7488,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>06-DEC-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="5649">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12072</GrowerCode>
-    <GrowerName>मखरे राहुल मधुकर</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>10</VillageCode>
-    <VillageName>दौंड</VillageName>
-    <serveNo>12</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>10-DEC-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="14320">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>33667</GrowerCode>
@@ -8217,42 +7929,6 @@
     <VillageCode>11</VillageCode>
     <VillageName>लिंगाळी (माळेवाडी )</VillageName>
     <serveNo>18</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="711">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11874</GrowerCode>
-    <GrowerName>होले संतोष नामदेव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>11</VillageCode>
-    <VillageName>लिंगाळी (माळेवाडी )</VillageName>
-    <serveNo>12/11</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="736">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>7372</GrowerCode>
-    <GrowerName>मेरगळ वामन भैरु</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>11</VillageCode>
-    <VillageName>लिंगाळी (माळेवाडी )</VillageName>
-    <serveNo>46</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -8946,24 +8622,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>18-NOV-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="9140">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1231</GrowerCode>
-    <GrowerName>लगड केशव माणिकराव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>11</VillageCode>
-    <VillageName>लिंगाळी (माळेवाडी )</VillageName>
-    <serveNo>50/1</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>21-NOV-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="9155">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11874</GrowerCode>
@@ -9071,24 +8729,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>09-DEC-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="9146">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>8207</GrowerCode>
-    <GrowerName>वत्रे ठकसेन रंगनाथ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>11</VillageCode>
-    <VillageName>लिंगाळी (माळेवाडी )</VillageName>
-    <serveNo>-</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>10-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="9147">
     <ProgramNo>1</ProgramNo>
@@ -9215,24 +8855,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>20-DEC-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="9154">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>22409</GrowerCode>
-    <GrowerName>जगदाळे गोरख माणिकराव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>11</VillageCode>
-    <VillageName>लिंगाळी (माळेवाडी )</VillageName>
-    <serveNo>16</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>22-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="9156">
     <ProgramNo>1</ProgramNo>
@@ -9396,24 +9018,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>11-JAN-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="9164">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1211</GrowerCode>
-    <GrowerName>येडे मारुती गोविंद </GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>11</VillageCode>
-    <VillageName>लिंगाळी (माळेवाडी )</VillageName>
-    <serveNo>19</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>14-JAN-2015</PlantationDate>
-  </PlotList>
   <PlotList plotNo="9165">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1196</GrowerCode>
@@ -9449,24 +9053,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>20-JAN-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="9168">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1292</GrowerCode>
-    <GrowerName>जगदाळे संतोष व्यंकटराव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>11</VillageCode>
-    <VillageName>लिंगाळी (माळेवाडी )</VillageName>
-    <serveNo>14</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>21-JAN-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="9170">
     <ProgramNo>1</ProgramNo>
@@ -9612,24 +9198,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>08-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="1924">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1196</GrowerCode>
-    <GrowerName>पासलकर काशीनाथ नारायण </GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>53/1</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>25-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="11907">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1183</GrowerCode>
@@ -9701,24 +9269,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>06-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="3322">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1971</GrowerCode>
-    <GrowerName>आगरवाल गिरीश जगदीशप्रसाद</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>41</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>08-AUG-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="3376">
     <ProgramNo>1</ProgramNo>
@@ -9792,24 +9342,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>18-AUG-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="4298">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>13758</GrowerCode>
-    <GrowerName>गावडे मधुकर गणपत</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>26</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>18-AUG-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="13525">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1179</GrowerCode>
@@ -9827,60 +9359,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>20-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="13526">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1179</GrowerCode>
-    <GrowerName>येडे बापु बाबु</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>15/1</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>20-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="4300">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>46808</GrowerCode>
-    <GrowerName>भंडळकर बाबा सोनबा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>15/56</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>22-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="4302">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1388</GrowerCode>
-    <GrowerName>मेरगळ चंद्रकांत आप्पा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>36</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>23-AUG-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="4303">
     <ProgramNo>1</ProgramNo>
@@ -9953,24 +9431,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>30-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="11083">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>39456</GrowerCode>
-    <GrowerName>मेरगळ राहुल आण्णा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>-</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>03-SEP-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="13685">
     <ProgramNo>1</ProgramNo>
@@ -10080,24 +9540,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>11-SEP-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="13565">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>45107</GrowerCode>
-    <GrowerName>घागरे मल्हारी मारुती</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>26/1</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>15-SEP-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="13684">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1281</GrowerCode>
@@ -10169,24 +9611,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>30-SEP-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="8696">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>38692</GrowerCode>
-    <GrowerName>वाघमारे किसन हरिभाऊ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>15/42</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>17-OCT-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="8697">
     <ProgramNo>1</ProgramNo>
@@ -10296,24 +9720,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>04-NOV-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="7636">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1157</GrowerCode>
-    <GrowerName>येडे रामाजी बाबा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>11</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>09-NOV-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="7639">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39439</GrowerCode>
@@ -10368,24 +9774,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>20-NOV-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="7642">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1381</GrowerCode>
-    <GrowerName>सांगळे विठ्ठल कुंडलिक</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>27</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>21-NOV-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="7641">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11871</GrowerCode>
@@ -10435,24 +9823,6 @@
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>2</CaneCode>
     <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>27-NOV-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7644">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1419</GrowerCode>
-    <GrowerName>येडे हरिभाऊ बाबा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>11</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -10613,24 +9983,6 @@
     <serveNo>28</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>16-DEC-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7781">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>46618</GrowerCode>
-    <GrowerName>बारवकर जयवंत रामभाऊ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>15/76</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
@@ -10853,24 +10205,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>23-DEC-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7797">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1360</GrowerCode>
-    <GrowerName>येडे सिताराम बापु</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>10/3</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>24-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="7801">
     <ProgramNo>1</ProgramNo>
@@ -11555,24 +10889,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>05-MAR-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="9132">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11918</GrowerCode>
-    <GrowerName>गावडे नाना राजाराम</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>12</VillageCode>
-    <VillageName>मेरगळवाडी</VillageName>
-    <serveNo>33</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>10-MAR-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="447">
     <ProgramNo>1</ProgramNo>
@@ -12393,24 +11709,6 @@
     <VillageCode>13</VillageCode>
     <VillageName>गोपाळवाडी</VillageName>
     <serveNo>155</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>14-NOV-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="8725">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>708</GrowerCode>
-    <GrowerName>पासलकर शिवाजी बाबुराव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>13</VillageCode>
-    <VillageName>गोपाळवाडी</VillageName>
-    <serveNo>63/ऑष/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -14652,24 +13950,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>16-AUG-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="4267">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>13758</GrowerCode>
-    <GrowerName>गावडे मधुकर गणपत</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>186</VillageCode>
-    <VillageName>लिंगाळी (वेताळनगर)</VillageName>
-    <serveNo>46</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>18-AUG-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="4278">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>24954</GrowerCode>
@@ -14687,24 +13967,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>26-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="10938">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>2001</GrowerCode>
-    <GrowerName>जगदाळे सुरेश बाजीराव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>186</VillageCode>
-    <VillageName>लिंगाळी (वेताळनगर)</VillageName>
-    <serveNo>15</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>10-SEP-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="10940">
     <ProgramNo>1</ProgramNo>
@@ -14823,24 +14085,6 @@
     <VillageCode>186</VillageCode>
     <VillageName>लिंगाळी (वेताळनगर)</VillageName>
     <serveNo>63</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>27-SEP-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="10964">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1849</GrowerCode>
-    <GrowerName>जगदाळे एकनाथ बाळासाहेब</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>186</VillageCode>
-    <VillageName>लिंगाळी (वेताळनगर)</VillageName>
-    <serveNo>13</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>2</CaneCode>
@@ -15480,24 +14724,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="51">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>982</GrowerCode>
-    <GrowerName>वाबळे सुभाष बबन</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>187</VillageCode>
-    <VillageName>मसनेरवाडी (कॅबीन)</VillageName>
-    <serveNo>65</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="56">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11337</GrowerCode>
@@ -15642,24 +14868,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>02-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="5352">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1168</GrowerCode>
-    <GrowerName>जगदाळे रामदास सदाशिव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>187</VillageCode>
-    <VillageName>मसनेरवाडी (कॅबीन)</VillageName>
-    <serveNo>36/2</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>02-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="5353">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>22545</GrowerCode>
@@ -15781,24 +14989,6 @@
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>5</CaneCode>
     <CaneType>बेने खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>15-JUL-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="1930">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>46126</GrowerCode>
-    <GrowerName>शिंदे रमेश विठ्ठल</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>187</VillageCode>
-    <VillageName>मसनेरवाडी (कॅबीन)</VillageName>
-    <serveNo>50/5</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -15929,42 +15119,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>02-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="4317">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>13890</GrowerCode>
-    <GrowerName>हिरभगत भिमराव दिनकर</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>187</VillageCode>
-    <VillageName>मसनेरवाडी (कॅबीन)</VillageName>
-    <serveNo>55/3</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>16-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="4356">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>935</GrowerCode>
-    <GrowerName>येडे शिवाजी सोपाना</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>187</VillageCode>
-    <VillageName>मसनेरवाडी (कॅबीन)</VillageName>
-    <serveNo>55</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>19-AUG-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="4347">
     <ProgramNo>1</ProgramNo>
@@ -17046,24 +16200,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="2670">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>20205</GrowerCode>
-    <GrowerName>येडे रखमाबाई मारुती</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>188</VillageCode>
-    <VillageName>मसनेरवाडी (येडेवाडी)</VillageName>
-    <serveNo>28</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>05-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="1903">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1061</GrowerCode>
@@ -17099,24 +16235,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>08-JUL-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="1988">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>46135</GrowerCode>
-    <GrowerName>येडे महादेव दादा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>188</VillageCode>
-    <VillageName>मसनेरवाडी (येडेवाडी)</VillageName>
-    <serveNo>18</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>27-JUL-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="11910">
     <ProgramNo>1</ProgramNo>
@@ -17225,24 +16343,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>17-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="4346">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>19977</GrowerCode>
-    <GrowerName>येडे किसन बाबुराव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>188</VillageCode>
-    <VillageName>मसनेरवाडी (येडेवाडी)</VillageName>
-    <serveNo>36</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>22-AUG-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="11034">
     <ProgramNo>1</ProgramNo>
@@ -17369,24 +16469,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>08-NOV-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="6893">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>949</GrowerCode>
-    <GrowerName>विघ्ने आबा विश्वनाथ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>188</VillageCode>
-    <VillageName>मसनेरवाडी (येडेवाडी)</VillageName>
-    <serveNo>35/1</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>13-NOV-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="7115">
     <ProgramNo>1</ProgramNo>
@@ -17549,24 +16631,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>19-DEC-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7151">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>20196</GrowerCode>
-    <GrowerName>येडे जयराम बाबुराव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>188</VillageCode>
-    <VillageName>मसनेरवाडी (येडेवाडी)</VillageName>
-    <serveNo>28</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>21-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="7154">
     <ProgramNo>1</ProgramNo>
@@ -18090,24 +17154,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>06-JUL-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="1926">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>929</GrowerCode>
-    <GrowerName>येडे सोपाना श्रीपती</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>189</VillageCode>
-    <VillageName>मसनेरवाडी (जगतापवस्ती)</VillageName>
-    <serveNo>5/5</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>13-JUL-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="1937">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>31978</GrowerCode>
@@ -18161,24 +17207,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>28-JUL-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="11908">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>530</GrowerCode>
-    <GrowerName>जगताप प्रल्हाद नारायण (मसनेरवाडी)</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>189</VillageCode>
-    <VillageName>मसनेरवाडी (जगतापवस्ती)</VillageName>
-    <serveNo>60</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>18-AUG-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="4345">
     <ProgramNo>1</ProgramNo>
@@ -18252,24 +17280,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-AUG-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="11026">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11321</GrowerCode>
-    <GrowerName>मेरगळ नाना महादु</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>189</VillageCode>
-    <VillageName>मसनेरवाडी (जगतापवस्ती)</VillageName>
-    <serveNo>3/12</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>03-SEP-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="11031">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>946</GrowerCode>
@@ -18323,24 +17333,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>15-SEP-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="11044">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11539</GrowerCode>
-    <GrowerName>मेरगळ निर्मला केरबा</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>189</VillageCode>
-    <VillageName>मसनेरवाडी (जगतापवस्ती)</VillageName>
-    <serveNo>6</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>21-SEP-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="11069">
     <ProgramNo>1</ProgramNo>
@@ -18972,24 +17964,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>16-JAN-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="7209">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>34042</GrowerCode>
-    <GrowerName>मेरगळ भाऊसाहेब हरिभाऊ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>189</VillageCode>
-    <VillageName>मसनेरवाडी (जगतापवस्ती)</VillageName>
-    <serveNo>3/4</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>20-JAN-2015</PlantationDate>
-  </PlotList>
   <PlotList plotNo="7215">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11539</GrowerCode>
@@ -19278,42 +18252,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>18-AUG-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="4390">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12173</GrowerCode>
-    <GrowerName>जठार शिवराम बापुराव</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>327</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>19-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="4392">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>888</GrowerCode>
-    <GrowerName>मोहीते दिलीप परशुराम</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>374</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>19-AUG-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="4405">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>632</GrowerCode>
@@ -19403,24 +18341,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>25-AUG-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="4428">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>721</GrowerCode>
-    <GrowerName>जठार राजु तुळशीराम</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>273</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>26-AUG-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="4429">
     <ProgramNo>1</ProgramNo>
@@ -19746,24 +18666,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>20-SEP-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="11003">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>725</GrowerCode>
-    <GrowerName>जगताप ज्ञानदेव जगन्नाथ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>377/3</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>20-SEP-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="11005">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>6877</GrowerCode>
@@ -19800,24 +18702,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>22-SEP-2014</PlantationDate>
   </PlotList>
-  <PlotList plotNo="11009">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>40715</GrowerCode>
-    <GrowerName>जठार आण्णासाहेब मारुती</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>275</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>24-SEP-2014</PlantationDate>
-  </PlotList>
   <PlotList plotNo="11016">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>15746</GrowerCode>
@@ -19827,24 +18711,6 @@
     <VillageCode>190</VillageCode>
     <VillageName>खोरवडी (वाघदरा)</VillageName>
     <serveNo>350/8</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>2</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>26-SEP-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="11017">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>39420</GrowerCode>
-    <GrowerName>बेलदार अनिल मल्हारी</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>345</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>2</CaneCode>
@@ -19997,24 +18863,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>28-OCT-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="8927">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>725</GrowerCode>
-    <GrowerName>जगताप ज्ञानदेव जगन्नाथ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>377/3</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>31-OCT-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="8925">
     <ProgramNo>1</ProgramNo>
@@ -20501,24 +19349,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>16-NOV-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="8961">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>581</GrowerCode>
-    <GrowerName>जठार संजय विठ्ठल</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>304</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>22-NOV-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="8963">
     <ProgramNo>1</ProgramNo>
@@ -21105,24 +19935,6 @@
     <VillageCode>190</VillageCode>
     <VillageName>खोरवडी (वाघदरा)</VillageName>
     <serveNo>365</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>22-DEC-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="9076">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12016</GrowerCode>
-    <GrowerName>जठार सुनिल सुरेश</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>190</VillageCode>
-    <VillageName>खोरवडी (वाघदरा)</VillageName>
-    <serveNo>276</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -22445,24 +21257,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>03-NOV-2014</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7650">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>34786</GrowerCode>
-    <GrowerName>थोरात पांडुरंग एकनाथ</GrowerName>
-    <GatCode>2</GatCode>
-    <GatName>लिंगाळी</GatName>
-    <VillageCode>476</VillageCode>
-    <VillageName>मेरगळवाडी (मोरेवस्ती)</VillageName>
-    <serveNo>15/50</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>04-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="7652">
     <ProgramNo>1</ProgramNo>

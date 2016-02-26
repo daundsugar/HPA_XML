@@ -90,6 +90,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="595">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>18865</GrowerCode>
+    <GrowerName>कदम राजाराम रामकृष्ण</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>आलेगाव</VillageName>
+    <serveNo>33/3</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="597">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>18864</GrowerCode>
@@ -3276,10 +3294,10 @@
     <Plotend>N</Plotend>
     <PlantationDate>10-JAN-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="14856">
+  <PlotList plotNo="15084">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>51823</GrowerCode>
-    <GrowerName>धुमाळ रामचंद्र कोंडिबा</GrowerName>
+    <GrowerCode>40555</GrowerCode>
+    <GrowerName>धुमाळ दत्तात्रय हरीश्चंद्र</GrowerName>
     <GatCode>1</GatCode>
     <GatName>आलेगाव</GatName>
     <VillageCode>2</VillageCode>
@@ -8028,6 +8046,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>04-JAN-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14982">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51211</GrowerCode>
+    <GrowerName>अवचर भिमराव बापुराव</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>6</VillageCode>
+    <VillageName>काळेवाडी</VillageName>
+    <serveNo>38/4</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-JAN-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="5318">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39212</GrowerCode>
@@ -8045,6 +8081,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>22-JAN-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14983">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23094</GrowerCode>
+    <GrowerName>अवचर छगन बापुराव</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>6</VillageCode>
+    <VillageName>काळेवाडी</VillageName>
+    <serveNo>38/4</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-JAN-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="5319">
     <ProgramNo>1</ProgramNo>

@@ -6390,6 +6390,42 @@
     <Plotend>N</Plotend>
     <PlantationDate>20-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15070">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51987</GrowerCode>
+    <GrowerName>हंडाळ बाळु जानबा</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>379</VillageCode>
+    <VillageName>आलेगांव पागा</VillageName>
+    <serveNo>285</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>22-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15069">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51987</GrowerCode>
+    <GrowerName>हंडाळ बाळु जानबा</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>379</VillageCode>
+    <VillageName>आलेगांव पागा</VillageName>
+    <serveNo>285</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>30-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2345">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>46176</GrowerCode>
@@ -12834,6 +12870,60 @@
     <Plotend>N</Plotend>
     <PlantationDate>06-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14978">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51918</GrowerCode>
+    <GrowerName>वाळुंज कृष्णा बबन</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>752</VillageCode>
+    <VillageName>शिंदोडी </VillageName>
+    <serveNo>140</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15077">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51993</GrowerCode>
+    <GrowerName>ओव्हाळ रतनबाई पांडुरंग</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>752</VillageCode>
+    <VillageName>शिंदोडी </VillageName>
+    <serveNo>570</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14979">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51918</GrowerCode>
+    <GrowerName>वाळुंज कृष्णा बबन</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>752</VillageCode>
+    <VillageName>शिंदोडी </VillageName>
+    <serveNo>140</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="14373">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>51475</GrowerCode>
@@ -13193,6 +13283,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>25-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15074">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51991</GrowerCode>
+    <GrowerName>साठे उज्वला संतराज</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>756</VillageCode>
+    <VillageName>नागरगाव</VillageName>
+    <serveNo>272</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>30-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="2311">
     <ProgramNo>1</ProgramNo>
@@ -13805,6 +13913,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>20-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15068">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51986</GrowerCode>
+    <GrowerName>कोळपे बिरु भागुजी</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>934</VillageCode>
+    <VillageName>गुनाट</VillageName>
+    <serveNo>174</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>21-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15066">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51985</GrowerCode>
+    <GrowerName>कोळपे भागुजी भिमाजी</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>934</VillageCode>
+    <VillageName>गुनाट</VillageName>
+    <serveNo>160</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>23-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="13851">
     <ProgramNo>1</ProgramNo>
@@ -14436,6 +14580,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-SEP-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14977">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51917</GrowerCode>
+    <GrowerName>कोळपे गुलाब मारुती</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1046</VillageCode>
+    <VillageName>उरळगांव</VillageName>
+    <serveNo>636</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>28-NOV-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="14367">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>41062</GrowerCode>
@@ -14544,6 +14706,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15073">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51990</GrowerCode>
+    <GrowerName>विर मधुकर शांताराम</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1046</VillageCode>
+    <VillageName>उरळगांव</VillageName>
+    <serveNo>508</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>28-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="14923">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>51875</GrowerCode>
@@ -14553,6 +14733,24 @@
     <VillageCode>1046</VillageCode>
     <VillageName>उरळगांव</VillageName>
     <serveNo>35795</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JAN-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15071">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51988</GrowerCode>
+    <GrowerName>चव्हाण योगेश पर्वतराव</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1046</VillageCode>
+    <VillageName>उरळगांव</VillageName>
+    <serveNo>811</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -14760,6 +14958,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>29-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="14973">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51915</GrowerCode>
+    <GrowerName>बेंद्रे वैशाली सुधिर</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1058</VillageCode>
+    <VillageName>आंबळे (शिरुर)</VillageName>
+    <serveNo>66</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-JAN-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="14095">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>51303</GrowerCode>
@@ -14849,6 +15065,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>01-SEP-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14974">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49442</GrowerCode>
+    <GrowerName>गारगोटे सागर आनंदराव</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1371</VillageCode>
+    <VillageName>दहिवडी(गारगोटेवाडी)</VillageName>
+    <serveNo>167</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>17-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="14975">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49577</GrowerCode>
+    <GrowerName>गारगोटे बबन निवृत्ती</GrowerName>
+    <GatCode>10</GatCode>
+    <GatName>शिरुर</GatName>
+    <VillageCode>1371</VillageCode>
+    <VillageName>दहिवडी(गारगोटेवाडी)</VillageName>
+    <serveNo>170</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>26-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="13612">
     <ProgramNo>1</ProgramNo>

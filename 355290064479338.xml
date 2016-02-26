@@ -5706,6 +5706,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>30-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15082">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51996</GrowerCode>
+    <GrowerName>येवले सुरेश महादेव</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <serveNo>516</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>31-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="6369">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>21715</GrowerCode>
@@ -8937,6 +8955,24 @@
     <VillageCode>33</VillageCode>
     <VillageName>खानोटा</VillageName>
     <serveNo>213</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15083">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14452</GrowerCode>
+    <GrowerName>माळवदकर धन्याबाई शिवाजी</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>33</VillageCode>
+    <VillageName>खानोटा</VillageName>
+    <serveNo>140</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -17316,6 +17352,42 @@
     <Plotend>N</Plotend>
     <PlantationDate>27-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15085">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35273</GrowerCode>
+    <GrowerName>लोळे शिवाजी निवृत्ती</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>142</VillageCode>
+    <VillageName>राजेगाव (फार्म)</VillageName>
+    <serveNo>137</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>27-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15086">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51997</GrowerCode>
+    <GrowerName>चोपडे पंडीत किसन</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>142</VillageCode>
+    <VillageName>राजेगाव (फार्म)</VillageName>
+    <serveNo>140/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>27-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="7225">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20225</GrowerCode>
@@ -24803,5 +24875,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>28-MAR-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15032">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25722</GrowerCode>
+    <GrowerName>आटोळे मुक्ताबाई भगवान(CSSK)</GrowerName>
+    <GatCode>17</GatCode>
+    <GatName>छत्रपती कारखाना</GatName>
+    <VillageCode>486</VillageCode>
+    <VillageName>सावळ (CSSK)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-AUG-2014</PlantationDate>
   </PlotList>
 </HarvestingProgramDetailsList>
