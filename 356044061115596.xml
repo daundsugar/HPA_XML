@@ -360,6 +360,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15196">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15494</GrowerCode>
+    <GrowerName>खामकर शिवाजी अमृता</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>घारगाव</VillageName>
+    <serveNo>334</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="14913">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>48199</GrowerCode>
@@ -4103,6 +4121,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>05-JAN-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15195">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13994</GrowerCode>
+    <GrowerName>चव्हाण रामदास भाऊसाहेब</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>73</VillageCode>
+    <VillageName>शेंडेवाडी</VillageName>
+    <serveNo>160</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>08-JAN-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="10255">
     <ProgramNo>1</ProgramNo>
