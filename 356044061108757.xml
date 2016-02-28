@@ -1908,6 +1908,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>02-JAN-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15244">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>52115</GrowerCode>
+    <GrowerName>कोकाटे अरुण हरीभाऊ</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>54</VillageCode>
+    <VillageName>काष्टी</VillageName>
+    <serveNo>1007</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02-JAN-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="10161">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>23636</GrowerCode>
@@ -9827,6 +9845,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>29-NOV-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15245">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23401</GrowerCode>
+    <GrowerName>कांडेकर भास्कर गणपत </GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>505</VillageCode>
+    <VillageName>डोमाळेवाडी</VillageName>
+    <serveNo>96</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>05-JAN-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="10268">
     <ProgramNo>1</ProgramNo>
