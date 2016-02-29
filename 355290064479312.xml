@@ -3294,6 +3294,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15367">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7222</GrowerCode>
+    <GrowerName>रणदिवे विजय रावसाहेब</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>282/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="11275">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>5066</GrowerCode>
@@ -9153,6 +9171,24 @@
     <VillageCode>91</VillageCode>
     <VillageName>जलालपूर</VillageName>
     <serveNo>801</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-JAN-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15366">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5224</GrowerCode>
+    <GrowerName>धालवडे श्रावण मारुती</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>595</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
