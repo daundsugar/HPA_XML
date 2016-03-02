@@ -3744,6 +3744,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-DEC-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15507">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8526</GrowerCode>
+    <GrowerName>चव्हाण सुभाष जगन्नाथ</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>337/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="11118">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>4421</GrowerCode>
@@ -11753,6 +11771,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>25-NOV-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15506">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7663</GrowerCode>
+    <GrowerName>भोसले किरण रामचंद्र</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>बेर्डी</VillageName>
+    <serveNo>117</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15505">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7776</GrowerCode>
+    <GrowerName>शेळके रेवनाथ उत्तम</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>बेर्डी</VillageName>
+    <serveNo>234</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-DEC-2014</PlantationDate>
   </PlotList>
   <PlotList plotNo="15436">
     <ProgramNo>1</ProgramNo>
