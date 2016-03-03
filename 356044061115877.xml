@@ -8712,6 +8712,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>10-FEB-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15605">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26761</GrowerCode>
+    <GrowerName>खिलारे महेश जिवनाजी</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>445</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>10-FEB-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="10755">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>5574</GrowerCode>
@@ -11880,6 +11898,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>10-FEB-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="15582">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5629</GrowerCode>
+    <GrowerName>भोसले अंबादास आप्पाजी </GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>बेर्डी</VillageName>
+    <serveNo>44</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-FEB-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="12042">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>8739</GrowerCode>
@@ -12455,5 +12491,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>15-NOV-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="15606">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>52360</GrowerCode>
+    <GrowerName>गावडे सदाशिव बाळु</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>304</VillageCode>
+    <VillageName>बारडगाव सुद्रिक</VillageName>
+    <serveNo>314/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-DEC-2014</PlantationDate>
   </PlotList>
 </HarvestingProgramDetailsList>
