@@ -8769,7 +8769,7 @@
   <PlotList plotNo="15784">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>52494</GrowerCode>
-    <GrowerName>चांदगुडे दत्तू किसन</GrowerName>
+    <GrowerName>चांदगुडे दत्तु विठ्ठल</GrowerName>
     <GatCode>6</GatCode>
     <GatName>कर्जत</GatName>
     <VillageCode>91</VillageCode>
@@ -9864,6 +9864,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>27-NOV-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="16063">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32960</GrowerCode>
+    <GrowerName>झंझणे देविदास लक्ष्मण</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>93</VillageCode>
+    <VillageName>सिध्दटेक</VillageName>
+    <serveNo>98</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="10787">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>5508</GrowerCode>
@@ -10539,6 +10557,24 @@
     <VillageCode>93</VillageCode>
     <VillageName>सिध्दटेक</VillageName>
     <serveNo>120</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-FEB-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="16066">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>52718</GrowerCode>
+    <GrowerName>सांगळे रतन रामदास</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>93</VillageCode>
+    <VillageName>सिध्दटेक</VillageName>
+    <serveNo>78/2</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -12455,5 +12491,41 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>20-DEC-2014</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="16060">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>52713</GrowerCode>
+    <GrowerName>गावडे ज्ञानदेव बापुराव</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>304</VillageCode>
+    <VillageName>बारडगाव सुद्रिक</VillageName>
+    <serveNo>310</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-JAN-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="16061">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>52714</GrowerCode>
+    <GrowerName>गावडे गौतम भागुजी</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>304</VillageCode>
+    <VillageName>बारडगाव सुद्रिक</VillageName>
+    <serveNo>380</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-JAN-2015</PlantationDate>
   </PlotList>
 </HarvestingProgramDetailsList>
