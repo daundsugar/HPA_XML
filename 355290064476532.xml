@@ -3474,6 +3474,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>13-NOV-2014</PlantationDate>
   </PlotList>
+  <PlotList plotNo="16301">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>52925</GrowerCode>
+    <GrowerName>जाधव सोमनाथ बाबा</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>77</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>17-NOV-2014</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8960">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12117</GrowerCode>
@@ -13499,6 +13517,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>17-JAN-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="16302">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16777</GrowerCode>
+    <GrowerName>विंचुरकर नागाप्पा हंपय्या</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>187</VillageCode>
+    <VillageName>मसनेरवाडी (कॅबीन)</VillageName>
+    <serveNo>37/38</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>18-JAN-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="7207">
     <ProgramNo>1</ProgramNo>
