@@ -288,4 +288,10 @@
     <rstart>10300001</rstart>
     <rend>10310000</rend>
   </imeicode>
+  <imeicode imei="353953060186163">
+    <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044061115919.xml</url>
+    <version>1</version>
+    <rstart>10300001</rstart>
+    <rend>10310000</rend>
+  </imeicode>
 </devices>
