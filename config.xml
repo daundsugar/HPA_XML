@@ -6,12 +6,6 @@
     <rstart>10310001</rstart>
     <rend>10320000</rend>
   </imeicode>
-  <imeicode imei="356603050785832">
-    <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044060310545.xml</url>
-    <version>1</version>
-    <rstart>10310001</rstart>
-    <rend>10320000</rend>
-  </imeicode>
   <imeicode imei="356044060067822">
     <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044060067822.xml</url>
     <version>1</version>
@@ -111,7 +105,7 @@
   <imeicode imei="356044060310537">
     <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044060310537.xml</url>
     <version>1</version>
-    <rstart>20500002</rstart>
+    <rstart>20500001</rstart>
     <rend>20510000</rend>
   </imeicode>
   <imeicode imei="355290064479213">
@@ -231,7 +225,7 @@
   <imeicode imei="356044061108740">
     <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044061108740.xml</url>
     <version>1</version>
-    <rstart>10200019</rstart>
+    <rstart>10200001</rstart>
     <rend>10210000</rend>
   </imeicode>
   <imeicode imei="356044061108757">
@@ -289,12 +283,6 @@
     <rend>10300000</rend>
   </imeicode>
   <imeicode imei="356044061115919">
-    <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044061115919.xml</url>
-    <version>1</version>
-    <rstart>10300001</rstart>
-    <rend>10310000</rend>
-  </imeicode>
-  <imeicode imei="353953060186163">
     <url>https://raw.githubusercontent.com/daundsugar/HPA_XML/master/356044061115919.xml</url>
     <version>1</version>
     <rstart>10300001</rstart>
