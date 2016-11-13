@@ -9990,6 +9990,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>14-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="10787">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15056</GrowerCode>
+    <GrowerName>आवचर विनायक लक्ष्मण</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>पेडगाव(दौंड)</VillageName>
+    <serveNo>135</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8533">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20695</GrowerCode>
@@ -19431,6 +19449,24 @@
     <VillageCode>31</VillageCode>
     <VillageName>पानवकर वस्ती</VillageName>
     <serveNo>230/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="10788">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4941</GrowerCode>
+    <GrowerName>माने विजय विठ्ठल</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>पानवकर वस्ती</VillageName>
+    <serveNo>230</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
