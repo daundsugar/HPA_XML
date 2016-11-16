@@ -4248,6 +4248,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="10988">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55857</GrowerCode>
+    <GrowerName>शिर्के शिवाजी पार्वती</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>आर्वी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="9143">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>14001</GrowerCode>
@@ -4644,6 +4662,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="10989">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55858</GrowerCode>
+    <GrowerName>घोलप विलास दशरथ</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>67</VillageCode>
+    <VillageName>अनगरे</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="9223">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>31814</GrowerCode>
@@ -4653,6 +4689,24 @@
     <VillageCode>67</VillageCode>
     <VillageName>अनगरे</VillageName>
     <serveNo>77</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="10991">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55860</GrowerCode>
+    <GrowerName>घोलप रमेश दादा</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>67</VillageCode>
+    <VillageName>अनगरे</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -7474,6 +7528,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>38749</GrowerCode>
     <GrowerName>कांबळे एकनाथ राऊ</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>79</VillageCode>
+    <VillageName>सांगवी दुमाला</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="10995">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6770</GrowerCode>
+    <GrowerName>नलगे राजेंद्र अर्जुन</GrowerName>
     <GatCode>7</GatCode>
     <GatName>श्रीगोंदा</GatName>
     <VillageCode>79</VillageCode>
@@ -13085,5 +13157,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>05-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11001">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55864</GrowerCode>
+    <GrowerName>क्षिरसागर मोहन माणिक</GrowerName>
+    <GatCode>7</GatCode>
+    <GatName>श्रीगोंदा</GatName>
+    <VillageCode>1296</VillageCode>
+    <VillageName>अजनुज (नवथळ)</VillageName>
+    <serveNo>441</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-AUG-2015</PlantationDate>
   </PlotList>
 </HarvestingProgramDetailsList>

@@ -3330,6 +3330,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>19-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="11006">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12074</GrowerCode>
+    <GrowerName>कदम बापु बाबासाहेब</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>2</VillageCode>
+    <VillageName>कदम वस्ती</VillageName>
+    <serveNo>331/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="437">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>141</GrowerCode>
@@ -8415,6 +8433,24 @@
     <VillageCode>5</VillageCode>
     <VillageName>लोणारवाडी </VillageName>
     <serveNo>66/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="10998">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39598</GrowerCode>
+    <GrowerName>देवकाते मनोज केशव</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>5</VillageCode>
+    <VillageName>लोणारवाडी </VillageName>
+    <serveNo>73</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>

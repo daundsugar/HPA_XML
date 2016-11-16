@@ -13446,6 +13446,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>28-MAR-2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="10870">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>19737</GrowerCode>
+    <GrowerName>भोसले बापु मारुती</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>हिंगणीबेर्डी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="1293">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>51179</GrowerCode>
@@ -14895,6 +14913,24 @@
     <VillageCode>27</VillageCode>
     <VillageName>हिंगणीबेर्डी</VillageName>
     <serveNo>92</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>10-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11005">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55868</GrowerCode>
+    <GrowerName>गायकवाड ज्ञानेश्वर भाऊसाहेब</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>हिंगणीबेर्डी</VillageName>
+    <serveNo>147</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
