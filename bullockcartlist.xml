@@ -1301,9 +1301,6 @@
     <GadiwanCode>1038</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1053</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1054</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>चव्हाण बाळु हौसराव</ContractorName>
@@ -1730,9 +1727,6 @@
     <ContractorName>नरवडे बबन मारुती</ContractorName>
     <GadiwanCode>1131</GadiwanCode>
     <GadiwanName>कोलते सुभाष आश्रु</GadiwanName>
-    <ContractorName>नरवडे बबन मारुती</ContractorName>
-    <GadiwanCode>1144</GadiwanCode>
-    <GadiwanName>म्हस्के गणेश बाळु</GadiwanName>
     <ContractorName>नरवडे बबन मारुती</ContractorName>
     <GadiwanCode>1154</GadiwanCode>
     <GadiwanName>म्हस्के गणेश बाळु</GadiwanName>
@@ -2868,5 +2862,13 @@
     <ContractorName>चव्हाण बाळु हौसराव</ContractorName>
     <GadiwanCode>1080</GadiwanCode>
     <GadiwanName>चव्हाण बाळु हौसिराम</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="361">
+    <ContractorName>सांगळे नवनाथ केसु</ContractorName>
+    <GadiwanCode>1053</GadiwanCode>
+    <GadiwanName>सांगळे भरत गोरख</GadiwanName>
+    <ContractorName>सांगळे नवनाथ केसु</ContractorName>
+    <GadiwanCode>1144</GadiwanCode>
+    <GadiwanName>सांगळे वैजिनाथ नवनाथ</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
