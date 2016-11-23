@@ -4176,24 +4176,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>13-JUL-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="7483">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12872</GrowerCode>
-    <GrowerName>होले गोरख तुकाराम</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>36</VillageCode>
-    <VillageName>स्वामी चिंचोली</VillageName>
-    <serveNo>380</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>25-JUL-2015</PlantationDate>
-  </PlotList>
   <PlotList plotNo="7484">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20513</GrowerCode>
@@ -14129,6 +14111,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>18-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="7483">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12872</GrowerCode>
+    <GrowerName>होले गोरख तुकाराम</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>500</VillageCode>
+    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
+    <serveNo>380</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-JUL-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="7486">
     <ProgramNo>1</ProgramNo>
