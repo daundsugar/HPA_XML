@@ -119,9 +119,6 @@
     <GadiwanCode>60</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>61</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>62</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1318,12 +1315,9 @@
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1065</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1066</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
+    <ContractorName>किर्तने मच्छिंद्र बाजीराव</ContractorName>
     <GadiwanCode>1070</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
+    <GadiwanName>xxx</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1072</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
@@ -1335,9 +1329,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1076</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1077</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1078</GadiwanCode>
@@ -1391,15 +1382,6 @@
     <GadiwanCode>1130</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1132</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1141</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1142</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1149</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1410,9 +1392,6 @@
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1173</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1207</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
     <GadiwanCode>1405</GadiwanCode>
@@ -1909,6 +1888,9 @@
   </ContractorCode>
   <ContractorCode Code="56">
     <ContractorName>तांबे बळीराम नामदेव</ContractorName>
+    <GadiwanCode>61</GadiwanCode>
+    <GadiwanName>सुर्यवंशी विलास रामराव</GadiwanName>
+    <ContractorName>तांबे बळीराम नामदेव</ContractorName>
     <GadiwanCode>95</GadiwanCode>
     <GadiwanName>तांबे रामा भास्कर</GadiwanName>
     <ContractorName>तांबे बळीराम नामदेव</ContractorName>
@@ -2002,6 +1984,20 @@
     <ContractorName>किर्तने रावसाहेब बाजीराव</ContractorName>
     <GadiwanCode>1110</GadiwanCode>
     <GadiwanName>चव्हाण शिवाजी होनाजी</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="79">
+    <ContractorName>राठोड पंडीत सोना</ContractorName>
+    <GadiwanCode>1066</GadiwanCode>
+    <GadiwanName>राठोड प्रकाश बाबु</GadiwanName>
+    <ContractorName>राठोड पंडीत सोना</ContractorName>
+    <GadiwanCode>1077</GadiwanCode>
+    <GadiwanName>राठोड कांतीलाल बन्सी</GadiwanName>
+    <ContractorName>राठोड पंडीत सोना</ContractorName>
+    <GadiwanCode>1132</GadiwanCode>
+    <GadiwanName>राठोड कांतिलाल बन्सी</GadiwanName>
+    <ContractorName>राठोड पंडीत सोना</ContractorName>
+    <GadiwanCode>1142</GadiwanCode>
+    <GadiwanName>राठोड प्रकाश बाबु</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="85">
     <ContractorName>शिंदे गुलाब आजीनाथ</ContractorName>
@@ -2333,6 +2329,9 @@
     <ContractorName>पालवे विठ्ठल लक्ष्मण</ContractorName>
     <GadiwanCode>1210</GadiwanCode>
     <GadiwanName>आंधळे सोमनाथ यादव</GadiwanName>
+    <ContractorName>पालवे विठ्ठल लक्ष्मण</ContractorName>
+    <GadiwanCode>1210</GadiwanCode>
+    <GadiwanName>आंधळे सोमनाथ यादव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="265">
     <ContractorName>राठोड बन्सीलाल ओंकार</ContractorName>
@@ -2401,6 +2400,9 @@
   <ContractorCode Code="271">
     <ContractorName>माने प्रकाश अनंता</ContractorName>
     <GadiwanCode>1122</GadiwanCode>
+    <GadiwanName>माने प्रकाश अनंता</GadiwanName>
+    <ContractorName>माने प्रकाश अनंता</ContractorName>
+    <GadiwanCode>1207</GadiwanCode>
     <GadiwanName>माने प्रकाश अनंता</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="287">
@@ -2622,11 +2624,6 @@
     <ContractorName>बाराते रामचंद्र दादाराम</ContractorName>
     <GadiwanCode>1192</GadiwanCode>
     <GadiwanName>बाराते रामचंद्र दादाराम</GadiwanName>
-  </ContractorCode>
-  <ContractorCode Code="322">
-    <ContractorName>सांगळे दत्तात्रय नामदेव</ContractorName>
-    <GadiwanCode>1162</GadiwanCode>
-    <GadiwanName>सांगळे दत्तात्रय नामदेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="339">
     <ContractorName>बडे गहिनीनाथ मारुती 1</ContractorName>
@@ -2870,5 +2867,13 @@
     <ContractorName>सांगळे नवनाथ केसु</ContractorName>
     <GadiwanCode>1144</GadiwanCode>
     <GadiwanName>सांगळे वैजिनाथ नवनाथ</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="362">
+    <ContractorName>राठोड ईश्वर एकनाथ</ContractorName>
+    <GadiwanCode>1141</GadiwanCode>
+    <GadiwanName>राठोड गोरख देविदास</GadiwanName>
+    <ContractorName>राठोड ईश्वर एकनाथ</ContractorName>
+    <GadiwanCode>1162</GadiwanCode>
+    <GadiwanName>राठोड गोरख देविदास</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
