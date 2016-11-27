@@ -12456,6 +12456,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>17-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="11602">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56237</GrowerCode>
+    <GrowerName>पासलकर सुरेश चंद्रकांत</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>202</VillageCode>
+    <VillageName>जोतीबानगर</VillageName>
+    <serveNo>123</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>17-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="541">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50406</GrowerCode>
@@ -13913,6 +13931,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>22-DEC-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11600">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40571</GrowerCode>
+    <GrowerName>वसंतदादा शुगर इन्स्टिट्युट, पुणे</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>868</VillageCode>
+    <VillageName>लोणारवाडी (पठार)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="581">
     <ProgramNo>1</ProgramNo>
@@ -40428,6 +40464,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>04-NOV-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="11606">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9958</GrowerCode>
+    <GrowerName>भिसे दिपक बबन</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>देऊळगावराजे</VillageName>
+    <serveNo>175</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>05-NOV-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2644">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3211</GrowerCode>
@@ -40509,6 +40563,24 @@
     <VillageCode>20</VillageCode>
     <VillageName>देऊळगावराजे</VillageName>
     <serveNo>67/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>13-NOV-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11605">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12561</GrowerCode>
+    <GrowerName>भिसे पोपट बबन</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>देऊळगावराजे</VillageName>
+    <serveNo>175</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
@@ -49374,6 +49446,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>30-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="11604">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21949</GrowerCode>
+    <GrowerName>शितोळे निलम राजेंद्र </GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>पेडगाव(दौंड)</VillageName>
+    <serveNo>273</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>30-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="1953">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>54216</GrowerCode>
@@ -53927,6 +54017,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>31-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11603">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22115</GrowerCode>
+    <GrowerName>गायकवाड गोरख नामदेव</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>हिंगणीबेर्डी</VillageName>
+    <serveNo>146</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>05-SEP-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="1959">
     <ProgramNo>1</ProgramNo>
