@@ -66240,6 +66240,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>30-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="11590">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2361</GrowerCode>
+    <GrowerName>शेळके हरिभाऊ बाळासो</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>18</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <serveNo>401</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>30-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8679">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50361</GrowerCode>
@@ -84312,6 +84330,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="11560">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12510</GrowerCode>
+    <GrowerName>शेळके उर्मिला लक्ष्मण</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>206</VillageCode>
+    <VillageName>मलठण स्टेशन</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8580">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>21095</GrowerCode>
@@ -85635,6 +85671,24 @@
     <VillageCode>206</VillageCode>
     <VillageName>मलठण स्टेशन</VillageName>
     <serveNo>113</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>30-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11591">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39143</GrowerCode>
+    <GrowerName>वाघमोडे पार्वती दगडु</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>206</VillageCode>
+    <VillageName>मलठण स्टेशन</VillageName>
+    <serveNo>301</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
