@@ -18216,6 +18216,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>11-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="11656">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>749</GrowerCode>
+    <GrowerName>दगडे किसन पांगरु</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>11-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="6958">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>22428</GrowerCode>
@@ -46767,7 +46785,7 @@
   <PlotList plotNo="1226">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>54139</GrowerCode>
-    <GrowerName>बारते सुलोचना पोपट</GrowerName>
+    <GrowerName>बाराते सुलोचना पोपट</GrowerName>
     <GatCode>3</GatCode>
     <GatName>देऊळगाव राजे</GatName>
     <VillageCode>25</VillageCode>
@@ -77274,6 +77292,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>12-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="11688">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56287</GrowerCode>
+    <GrowerName>गुणवरे सत्यभामा हरीशचंद्र</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>135</VillageCode>
+    <VillageName>राजेगाव</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>12-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="5584">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>54727</GrowerCode>
@@ -80536,6 +80572,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>6494</GrowerCode>
     <GrowerName>जामले बापुराव पांडुरंग</GrowerName>
+    <GatCode>4</GatCode>
+    <GatName>राजेगाव</GatName>
+    <VillageCode>142</VillageCode>
+    <VillageName>राजेगाव (फार्म)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>12-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11689">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56288</GrowerCode>
+    <GrowerName>चव्हाण विट्टल देवराम</GrowerName>
     <GatCode>4</GatCode>
     <GatName>राजेगाव</GatName>
     <VillageCode>142</VillageCode>
