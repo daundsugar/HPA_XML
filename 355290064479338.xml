@@ -8769,7 +8769,7 @@
   <PlotList plotNo="1226">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>54139</GrowerCode>
-    <GrowerName>बारते सुलोचना पोपट</GrowerName>
+    <GrowerName>बाराते सुलोचना पोपट</GrowerName>
     <GatCode>3</GatCode>
     <GatName>देऊळगाव राजे</GatName>
     <VillageCode>25</VillageCode>
@@ -19577,6 +19577,24 @@
     <serveNo>120</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-JAN-2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11731">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5138</GrowerCode>
+    <GrowerName>जगताप राजेंद्र नारायण</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>128</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
