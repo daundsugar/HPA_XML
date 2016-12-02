@@ -4572,24 +4572,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="11115">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>8427</GrowerCode>
-    <GrowerName>शेलार दत्तात्रय बाळु</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>38</VillageCode>
-    <VillageName>कौठडी</VillageName>
-    <serveNo>-</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>11-JUL-2015</PlantationDate>
-  </PlotList>
   <PlotList plotNo="8403">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3535</GrowerCode>
@@ -5903,24 +5885,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>05-JUL-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7847">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>40539</GrowerCode>
-    <GrowerName>पोंदकुले सोपाना दादाराम</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>144</VillageCode>
-    <VillageName>नंदादेवी (पठार)</VillageName>
-    <serveNo>246</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>06-JUL-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="7848">
     <ProgramNo>1</ProgramNo>
@@ -13842,96 +13806,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>13-FEB-2016</PlantationDate>
   </PlotList>
-  <PlotList plotNo="7699">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>20838</GrowerCode>
-    <GrowerName>शेंडगे कांतीलाल भिवा</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>500</VillageCode>
-    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
-    <serveNo>263</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7700">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>20840</GrowerCode>
-    <GrowerName>शेंडगे रविंद्र भिवा</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>500</VillageCode>
-    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
-    <serveNo>263</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7701">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>20823</GrowerCode>
-    <GrowerName>शेंडगे संतोष भिवा</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>500</VillageCode>
-    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
-    <serveNo>263</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7703">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>14317</GrowerCode>
-    <GrowerName>शेंडगे भिवा दशरथ</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>500</VillageCode>
-    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
-    <serveNo>260</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="10406">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>55439</GrowerCode>
-    <GrowerName>सोनटक्के राजेंद्र राघू</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>500</VillageCode>
-    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
-    <serveNo>201</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2015</PlantationDate>
-  </PlotList>
   <PlotList plotNo="7702">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20823</GrowerCode>
@@ -13995,24 +13869,6 @@
     <VillageCode>500</VillageCode>
     <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
     <serveNo>276</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>10-JUL-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7707">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>27000</GrowerCode>
-    <GrowerName>शेंडगे अशोक जयसिंग</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>500</VillageCode>
-    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
-    <serveNo>263</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
