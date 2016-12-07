@@ -2358,6 +2358,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>15-NOV-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12094">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56507</GrowerCode>
+    <GrowerName>गायकवाड वैभव कमलाकर</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>देऊळगावराजे</VillageName>
+    <serveNo>40</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>16-NOV-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2648">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>22021</GrowerCode>
@@ -6246,6 +6264,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>05-SEP-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12093">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47308</GrowerCode>
+    <GrowerName>वाघमोरे बाबुराव शंकर</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>वडगाव दरेकर</VillageName>
+    <serveNo>128</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>03-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2316">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20618</GrowerCode>
@@ -6543,6 +6579,24 @@
     <VillageCode>23</VillageCode>
     <VillageName>वडगाव दरेकर</VillageName>
     <serveNo>200</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>26-NOV-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12092">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56361</GrowerCode>
+    <GrowerName>बाराते अंबिका सुभाष</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>वडगाव दरेकर</VillageName>
+    <serveNo>115</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
