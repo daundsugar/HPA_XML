@@ -11592,6 +11592,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>26-NOV-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12165">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56547</GrowerCode>
+    <GrowerName>बाराते संतोष तुकाराम</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>पेडगाव(दौंड)</VillageName>
+    <serveNo>138</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>26-NOV-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2550">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>13257</GrowerCode>
@@ -16848,6 +16866,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>07-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12163">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40337</GrowerCode>
+    <GrowerName>वारे रेखा राजेंद्र</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>112</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>08-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="1608">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>4963</GrowerCode>
@@ -17469,6 +17505,24 @@
     <VillageCode>29</VillageCode>
     <VillageName>शिरापुर</VillageName>
     <serveNo>190/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>10-NOV-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12166">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5037</GrowerCode>
+    <GrowerName>सातव विलास विठ्ठल</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>96/1</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
