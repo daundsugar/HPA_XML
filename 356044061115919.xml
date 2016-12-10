@@ -1296,6 +1296,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>08-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12262">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4581</GrowerCode>
+    <GrowerName>परकाळे मोहन काशिनाथ</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>09-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="10151">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>4377</GrowerCode>
@@ -1966,6 +1984,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12153</GrowerCode>
     <GrowerName>होलम नितीन बाळासो</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>भांबोरा</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>12-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12248">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50307</GrowerCode>
+    <GrowerName>झंझणे अनिल रंगनाथ</GrowerName>
     <GatCode>6</GatCode>
     <GatName>कर्जत</GatName>
     <VillageCode>55</VillageCode>
@@ -6246,6 +6282,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>05-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12261">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25890</GrowerCode>
+    <GrowerName>गोळे गोपीनाथ नामदेव</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>दुधोडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>09-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="9980">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>6663</GrowerCode>
@@ -7739,6 +7793,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12260">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5237</GrowerCode>
+    <GrowerName>मराडे धनंजय चांगदेव</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>जलालपूर</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>09-JUL-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="9062">
     <ProgramNo>1</ProgramNo>
@@ -12033,6 +12105,24 @@
     <VillageCode>102</VillageCode>
     <VillageName>गणेशवाडी</VillageName>
     <serveNo>311</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="11706">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56301</GrowerCode>
+    <GrowerName>कायगुडे सुरवंता विठ्ठल</GrowerName>
+    <GatCode>6</GatCode>
+    <GatName>कर्जत</GatName>
+    <VillageCode>102</VillageCode>
+    <VillageName>गणेशवाडी</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
     <CaneCode>1</CaneCode>
