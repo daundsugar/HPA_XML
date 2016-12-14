@@ -1328,12 +1328,6 @@
     <GadiwanCode>1173</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1419</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>1420</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1421</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -1570,27 +1564,6 @@
     <ContractorName>NA</ContractorName>
     <GadiwanCode>2035</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>2101</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>2118</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>2129</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>2149</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>2153</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>2155</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
-    <GadiwanCode>2190</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="11">
     <ContractorName>तिरखुंडे विनायक रामकिसन</ContractorName>
@@ -1655,6 +1628,9 @@
     <ContractorName>राठोड मिठु रामदास</ContractorName>
     <GadiwanCode>221</GadiwanCode>
     <GadiwanName>राठोड लक्ष्मण कर्मा</GadiwanName>
+    <ContractorName>राठोड मिठु रामदास</ContractorName>
+    <GadiwanCode>248</GadiwanCode>
+    <GadiwanName>पवार रमेश सिरचंद</GadiwanName>
     <ContractorName>राठोड मिठु रामदास</ContractorName>
     <GadiwanCode>248</GadiwanCode>
     <GadiwanName>पवार रमेश सिरचंद</GadiwanName>
@@ -2079,6 +2055,9 @@
     <GadiwanCode>94</GadiwanCode>
     <GadiwanName>चव्हाण दशरथ दुधा</GadiwanName>
     <ContractorName>पवार ममराज किसन</ContractorName>
+    <GadiwanCode>94</GadiwanCode>
+    <GadiwanName>चव्हाण दशरथ दुधा</GadiwanName>
+    <ContractorName>पवार ममराज किसन</ContractorName>
     <GadiwanCode>133</GadiwanCode>
     <GadiwanName>चव्हाण विजय शिवाजी</GadiwanName>
     <ContractorName>पवार ममराज किसन</ContractorName>
@@ -2144,6 +2123,9 @@
     <ContractorName>दहिफळे विष्णु सुखदेव</ContractorName>
     <GadiwanCode>131</GadiwanCode>
     <GadiwanName>दहिफळे मल्हारी म्हातारदेव</GadiwanName>
+    <ContractorName>दहिफळे विष्णु सुखदेव</ContractorName>
+    <GadiwanCode>144</GadiwanCode>
+    <GadiwanName>कांबळे परमेश्वर रामभाऊ</GadiwanName>
     <ContractorName>दहिफळे विष्णु सुखदेव</ContractorName>
     <GadiwanCode>144</GadiwanCode>
     <GadiwanName>कांबळे परमेश्वर रामभाऊ</GadiwanName>
@@ -2923,5 +2905,36 @@
     <ContractorName>आटोळे नवनाथ आप्पा</ContractorName>
     <GadiwanCode>1095</GadiwanCode>
     <GadiwanName>आटोळे नवनाथ आप्पा</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="371">
+    <ContractorName>बारहाते रमेश लक्ष्मण</ContractorName>
+    <GadiwanCode>1419</GadiwanCode>
+    <GadiwanName>शिंदे बापु राजाराम (स्वता टायर)</GadiwanName>
+    <ContractorName>बारहाते रमेश लक्ष्मण</ContractorName>
+    <GadiwanCode>2101</GadiwanCode>
+    <GadiwanName>बोचरे रामेश्वर बालाजी</GadiwanName>
+    <ContractorName>बारहाते रमेश लक्ष्मण</ContractorName>
+    <GadiwanCode>2118</GadiwanCode>
+    <GadiwanName>वाघमोरे संतोष आश्रुबा </GadiwanName>
+    <ContractorName>बारहाते रमेश लक्ष्मण</ContractorName>
+    <GadiwanCode>2129</GadiwanCode>
+    <GadiwanName>चोरमले बाबु आबाजी</GadiwanName>
+    <ContractorName>बारहाते रमेश लक्ष्मण</ContractorName>
+    <GadiwanCode>2149</GadiwanCode>
+    <GadiwanName>भोसले कैलास सोमनाथ</GadiwanName>
+    <ContractorName>बारहाते रमेश लक्ष्मण</ContractorName>
+    <GadiwanCode>2153</GadiwanCode>
+    <GadiwanName>शेळके जालिंदर आण्णा</GadiwanName>
+    <ContractorName>बारहाते रमेश लक्ष्मण</ContractorName>
+    <GadiwanCode>2155</GadiwanCode>
+    <GadiwanName>शिंदे बाबुराव देवराव</GadiwanName>
+    <ContractorName>बारहाते रमेश लक्ष्मण</ContractorName>
+    <GadiwanCode>2190</GadiwanCode>
+    <GadiwanName>जाधव विश्वनाथ बाबासाहेब</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="372">
+    <ContractorName>फराटे ज्ञानेश्वर आप्पासाहेब</ContractorName>
+    <GadiwanCode>1420</GadiwanCode>
+    <GadiwanName>फराटे ज्ञानेश्वर आप्पासाहेब (स्वत :ची गाडी)</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
