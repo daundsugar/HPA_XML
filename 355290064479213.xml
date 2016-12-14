@@ -2052,24 +2052,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>05-JUL-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="8079">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>2696</GrowerCode>
-    <GrowerName>आटोळे रामचंद्र बाबा</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>19</VillageCode>
-    <VillageName>रावणगाव</VillageName>
-    <serveNo>178</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>05-JUL-2015</PlantationDate>
-  </PlotList>
   <PlotList plotNo="8080">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39395</GrowerCode>
@@ -4185,24 +4167,6 @@
     <VillageCode>36</VillageCode>
     <VillageName>स्वामी चिंचोली</VillageName>
     <serveNo>284</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>26-AUG-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="8502">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>20703</GrowerCode>
-    <GrowerName>होले अंकुश तुकाराम</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>36</VillageCode>
-    <VillageName>स्वामी चिंचोली</VillageName>
-    <serveNo>303</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -9108,6 +9072,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>13-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12475">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13232</GrowerCode>
+    <GrowerName>आटोळे वसंत लक्ष्मण</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>398</VillageCode>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="7608">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>54947</GrowerCode>
@@ -13968,24 +13950,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>10-JUL-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="7695">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12850</GrowerCode>
-    <GrowerName>होले नवनाथ तुकाराम</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>500</VillageCode>
-    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
-    <serveNo>303</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>12-JUL-2015</PlantationDate>
-  </PlotList>
   <PlotList plotNo="7696">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12852</GrowerCode>
@@ -14057,24 +14021,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>18-JUL-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="7483">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>12872</GrowerCode>
-    <GrowerName>होले गोरख तुकाराम</GrowerName>
-    <GatCode>5</GatCode>
-    <GatName>रावणगाव</GatName>
-    <VillageCode>500</VillageCode>
-    <VillageName>स्वामी चिंचोली (शेंडगेवस्ती)</VillageName>
-    <serveNo>380</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>25-JUL-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="7486">
     <ProgramNo>1</ProgramNo>
