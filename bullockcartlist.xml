@@ -1328,9 +1328,6 @@
     <GadiwanCode>1173</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
-    <GadiwanCode>1421</GadiwanCode>
-    <GadiwanName>NA</GadiwanName>
-    <ContractorName>NA</ContractorName>
     <GadiwanCode>1422</GadiwanCode>
     <GadiwanName>NA</GadiwanName>
     <ContractorName>NA</ContractorName>
@@ -2936,5 +2933,19 @@
     <ContractorName>फराटे ज्ञानेश्वर आप्पासाहेब</ContractorName>
     <GadiwanCode>1420</GadiwanCode>
     <GadiwanName>फराटे ज्ञानेश्वर आप्पासाहेब (स्वत :ची गाडी)</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="373">
+    <ContractorName>पौळ आभिमान गणपती</ContractorName>
+    <GadiwanCode>701</GadiwanCode>
+    <GadiwanName>पौळ आभिमान गणपत</GadiwanName>
+    <ContractorName>पौळ आभिमान गणपती</ContractorName>
+    <GadiwanCode>702</GadiwanCode>
+    <GadiwanName>पौळ आभिमान गणपत</GadiwanName>
+    <ContractorName>पौळ आभिमान गणपती</ContractorName>
+    <GadiwanCode>703</GadiwanCode>
+    <GadiwanName>पौळ बाळु आभिमान</GadiwanName>
+    <ContractorName>पौळ आभिमान गणपती</ContractorName>
+    <GadiwanCode>1421</GadiwanCode>
+    <GadiwanName>पौळ बाळु आभिमान </GadiwanName>
   </ContractorCode>
 </ContractorDetails>
