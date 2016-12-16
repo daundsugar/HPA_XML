@@ -6228,6 +6228,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>10-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12579">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54993</GrowerCode>
+    <GrowerName>शेटीया सतिश पुनमचंद</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>नंदादेवी (पठार)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>12-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="7869">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39745</GrowerCode>
@@ -9324,6 +9342,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>26-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12523">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56737</GrowerCode>
+    <GrowerName>आटोळे बाळासो तुकाराम</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>398</VillageCode>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8476">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>2533</GrowerCode>
@@ -9467,6 +9503,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>26-NOV-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12549">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56751</GrowerCode>
+    <GrowerName>आटोळे सोमनाथ लक्ष्मण (रावणगाव)</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>398</VillageCode>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="8475">
     <ProgramNo>1</ProgramNo>
@@ -17136,6 +17190,42 @@
     <Plotend>N</Plotend>
     <PlantationDate>20-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12517">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56732</GrowerCode>
+    <GrowerName>गाढवे बाळू महादेव</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>315</VillageCode>
+    <VillageName>कळस</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12525">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56738</GrowerCode>
+    <GrowerName>खारतोडे बाळु गेनदेव</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>315</VillageCode>
+    <VillageName>कळस</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="9817">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>46687</GrowerCode>
@@ -17171,6 +17261,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>20-NOV-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12550">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56752</GrowerCode>
+    <GrowerName>सांगळे विजय सदाशिव</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>315</VillageCode>
+    <VillageName>कळस</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="9813">
     <ProgramNo>1</ProgramNo>
@@ -17315,6 +17423,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>15-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="3236">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54348</GrowerCode>
+    <GrowerName>वणवे उत्तम बापुराव</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>328</VillageCode>
+    <VillageName>हनुमान निंबोडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="11903">
     <ProgramNo>1</ProgramNo>
@@ -17748,6 +17874,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12504">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56725</GrowerCode>
+    <GrowerName>घोळवे कमल गोकुळ </GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>328</VillageCode>
+    <VillageName>हनुमान निंबोडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="11869">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56392</GrowerCode>
@@ -17842,6 +17986,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56630</GrowerCode>
     <GrowerName>घोळवे दादा शिवाजी </GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>328</VillageCode>
+    <VillageName>हनुमान निंबोडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12559">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51422</GrowerCode>
+    <GrowerName>वणवे सत्यभामा भाऊसो</GrowerName>
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
     <VillageCode>328</VillageCode>
@@ -18166,6 +18328,42 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56718</GrowerCode>
     <GrowerName>घोळवे रामचंद्र शिवाजी</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>328</VillageCode>
+    <VillageName>हनुमान निंबोडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12534">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56743</GrowerCode>
+    <GrowerName>जगताप नानासो शंकर</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>328</VillageCode>
+    <VillageName>हनुमान निंबोडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12535">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56744</GrowerCode>
+    <GrowerName>घोळवे मारुती ज्ञानदेव</GrowerName>
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
     <VillageCode>328</VillageCode>
@@ -18629,6 +18827,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>28-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12551">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56753</GrowerCode>
+    <GrowerName>शेलार रोहिणी राजेंद्र</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>328</VillageCode>
+    <VillageName>हनुमान निंबोडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="12083">
     <ProgramNo>1</ProgramNo>
@@ -19134,6 +19350,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12516">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56731</GrowerCode>
+    <GrowerName>जगताप मिना संजय</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>354</VillageCode>
+    <VillageName>डाळज नं 2</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="9199">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>55186</GrowerCode>
@@ -19278,6 +19512,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>20-NOV-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12511">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56728</GrowerCode>
+    <GrowerName>जामदार दादासो ज्ञानदेव </GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>383</VillageCode>
+    <VillageName>बोरी (इदापुर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="11045">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>51540</GrowerCode>
@@ -19318,6 +19570,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56648</GrowerCode>
     <GrowerName>वाघमोडे शिवदत्त अरुण</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>383</VillageCode>
+    <VillageName>बोरी (इदापुर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12519">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56734</GrowerCode>
+    <GrowerName>मदने तानाजी दादा</GrowerName>
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
     <VillageCode>383</VillageCode>
@@ -19458,6 +19728,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-OCT-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12528">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56740</GrowerCode>
+    <GrowerName>धायगुडे गणपत विठ्ठल</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>383</VillageCode>
+    <VillageName>बोरी (इदापुर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="12339">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>53088</GrowerCode>
@@ -19512,6 +19800,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12538">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56746</GrowerCode>
+    <GrowerName>भरणे शिवाजी गंगाराम</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>385</VillageCode>
+    <VillageName>आंथुर्णे</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="11756">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56334</GrowerCode>
@@ -19552,6 +19858,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56715</GrowerCode>
     <GrowerName>आवाळे सुनिल देविदास</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>385</VillageCode>
+    <VillageName>आंथुर्णे</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12572">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56764</GrowerCode>
+    <GrowerName>भरणे सागर सुनिल </GrowerName>
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
     <VillageCode>385</VillageCode>
@@ -20501,6 +20825,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>09-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12532">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56742</GrowerCode>
+    <GrowerName>काटे सुनिता अजय</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>602</VillageCode>
+    <VillageName>कन्हेरी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-AUG-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="11015">
     <ProgramNo>1</ProgramNo>
@@ -21564,6 +21906,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>15-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12581">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>34383</GrowerCode>
+    <GrowerName>शिंदे चंद्रकांत भानुदास</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>791</VillageCode>
+    <VillageName>वरकुटे बु.</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="11967">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56447</GrowerCode>
@@ -21744,6 +22104,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>21-SEP-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12521">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56735</GrowerCode>
+    <GrowerName>घोडके रणजित राजेंद्र</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>791</VillageCode>
+    <VillageName>वरकुटे बु.</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="9805">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>37395</GrowerCode>
@@ -21923,6 +22301,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>25-NOV-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12554">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35005</GrowerCode>
+    <GrowerName>कुंभार विठ्ठल लक्ष्मण</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>791</VillageCode>
+    <VillageName>वरकुटे बु.</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="9799">
     <ProgramNo>1</ProgramNo>
@@ -22482,24 +22878,6 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-AUG-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="10481">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>55476</GrowerCode>
-    <GrowerName>रोडके लक्ष्मण बाबुराव</GrowerName>
-    <GatCode>16</GatCode>
-    <GatName>इंदापुर </GatName>
-    <VillageCode>823</VillageCode>
-    <VillageName>कालठण नं.2</VillageName>
-    <serveNo>-</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>01-AUG-2015</PlantationDate>
-  </PlotList>
   <PlotList plotNo="11625">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>51070</GrowerCode>
@@ -22644,10 +23022,46 @@
     <Plotend>N</Plotend>
     <PlantationDate>12-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12586">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50803</GrowerCode>
+    <GrowerName>भरणे तेजस्विनी अमरजीत</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>823</VillageCode>
+    <VillageName>कालठण नं.2</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="12217">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56578</GrowerCode>
     <GrowerName>रेडके पांडुरंग तुकाराम</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>823</VillageCode>
+    <VillageName>कालठण नं.2</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12580">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50804</GrowerCode>
+    <GrowerName>भरणे पुनम आबासाहेब</GrowerName>
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
     <VillageCode>823</VillageCode>
@@ -23670,10 +24084,64 @@
     <Plotend>N</Plotend>
     <PlantationDate>15-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12529">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56741</GrowerCode>
+    <GrowerName>शेंडगे विठ्ठल म्हसु</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>856</VillageCode>
+    <VillageName>कालठण नं.1</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12555">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56755</GrowerCode>
+    <GrowerName>करे संतोष मारुती</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>856</VillageCode>
+    <VillageName>कालठण नं.1</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="12422">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56680</GrowerCode>
     <GrowerName>खुरुंगे योगेश जनार्धन</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>870</VillageCode>
+    <VillageName>राजवडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12544">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56747</GrowerCode>
+    <GrowerName>खुरंगे सखाराम भगवान</GrowerName>
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
     <VillageCode>870</VillageCode>
@@ -24174,6 +24642,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12505">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56726</GrowerCode>
+    <GrowerName>डोंगरे प्रल्हाद हरिबा </GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1388</VillageCode>
+    <VillageName>भावडी (इंदापुर )</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="11942">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56434</GrowerCode>
@@ -24245,6 +24731,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>15-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="10811">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55735</GrowerCode>
+    <GrowerName>शेलार सरुबाई धोंडिबा</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1392</VillageCode>
+    <VillageName>माळवाडी (पळसदेव)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="10961">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55840</GrowerCode>
+    <GrowerName>कोळेकर तानाजी अंबादास</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1392</VillageCode>
+    <VillageName>माळवाडी (पळसदेव)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="11710">
     <ProgramNo>1</ProgramNo>
@@ -24876,23 +25398,23 @@
     <Plotend>N</Plotend>
     <PlantationDate>15-AUG-2015</PlantationDate>
   </PlotList>
-  <PlotList plotNo="10961">
+  <PlotList plotNo="12585">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>55840</GrowerCode>
-    <GrowerName>गावडे दादा अनंता </GrowerName>
+    <GrowerCode>56773</GrowerCode>
+    <GrowerName>भोसले देविदास नारायण </GrowerName>
     <GatCode>16</GatCode>
     <GatName>इंदापुर </GatName>
-    <VillageCode>1472</VillageCode>
-    <VillageName>बळपुडी</VillageName>
+    <VillageCode>1464</VillageCode>
+    <VillageName>चांडगांव (इंदापूर)</VillageName>
     <serveNo>-</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
-    <PlantationDate>01-JUL-2015</PlantationDate>
+    <PlantationDate>15-AUG-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="11534">
     <ProgramNo>1</ProgramNo>
@@ -25139,6 +25661,24 @@
     <serveNo>-</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12575">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56766</GrowerCode>
+    <GrowerName>काळे नरहरी ज्योतिराम</GrowerName>
+    <GatCode>16</GatCode>
+    <GatName>इंदापुर </GatName>
+    <VillageCode>1502</VillageCode>
+    <VillageName>गंगावळण</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>बिगर सभासद</CanegrowerType>

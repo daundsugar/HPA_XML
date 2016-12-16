@@ -6228,6 +6228,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>10-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12579">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54993</GrowerCode>
+    <GrowerName>शेटीया सतिश पुनमचंद</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>नंदादेवी (पठार)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>12-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="7869">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>39745</GrowerCode>
@@ -9324,6 +9342,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>26-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12523">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56737</GrowerCode>
+    <GrowerName>आटोळे बाळासो तुकाराम</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>398</VillageCode>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="8476">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>2533</GrowerCode>
@@ -9467,6 +9503,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>26-NOV-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12549">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56751</GrowerCode>
+    <GrowerName>आटोळे सोमनाथ लक्ष्मण (रावणगाव)</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>398</VillageCode>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="8475">
     <ProgramNo>1</ProgramNo>
