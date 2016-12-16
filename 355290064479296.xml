@@ -11448,6 +11448,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>24-DEC-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12602">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3232</GrowerCode>
+    <GrowerName>अवचर तुकाराम दादासो</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>पेडगाव(दौंड)</VillageName>
+    <serveNo>106</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-DEC-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2340">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>54255</GrowerCode>
@@ -16920,6 +16938,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>26-DEC-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12600">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39387</GrowerCode>
+    <GrowerName>अवचर सुरेंद्र कृष्णा</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>27-DEC-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2532">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>2961</GrowerCode>
@@ -18657,6 +18693,24 @@
     <VillageCode>31</VillageCode>
     <VillageName>पानवकर वस्ती</VillageName>
     <serveNo>235</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-DEC-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12601">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4957</GrowerCode>
+    <GrowerName>सुर्यवंशी अर्जुन बापुराव</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>पानवकर वस्ती</VillageName>
+    <serveNo>320</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>
