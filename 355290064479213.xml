@@ -6480,6 +6480,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>06-NOV-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12616">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56784</GrowerCode>
+    <GrowerName>आटोळे निखिल बाळासो</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>नंदादेवी (पठार)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="7772">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20166</GrowerCode>
@@ -9508,6 +9526,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56751</GrowerCode>
     <GrowerName>आटोळे सोमनाथ लक्ष्मण (रावणगाव)</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>398</VillageCode>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12617">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2405</GrowerCode>
+    <GrowerName>रांधवण तुकाराम सखाराम</GrowerName>
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>

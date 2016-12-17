@@ -3402,6 +3402,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>25-SEP-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12662">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>99</GrowerCode>
+    <GrowerName>कदम संध्या जिजाबा</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>2</VillageCode>
+    <VillageName>कदम वस्ती</VillageName>
+    <serveNo>85</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-SEP-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="702">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20164</GrowerCode>
@@ -12114,6 +12132,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>20-SEP-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12651">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7966</GrowerCode>
+    <GrowerName>काळे लक्ष्मण रघुनाथ</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>202</VillageCode>
+    <VillageName>जोतीबानगर</VillageName>
+    <serveNo>133</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-SEP-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="692">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50350</GrowerCode>
@@ -12671,6 +12707,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>18-DEC-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12661">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>451</GrowerCode>
+    <GrowerName>वाळके झुंबर निवृत्ती</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>202</VillageCode>
+    <VillageName>जोतीबानगर</VillageName>
+    <serveNo>243</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="860">
     <ProgramNo>1</ProgramNo>
