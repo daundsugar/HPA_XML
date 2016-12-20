@@ -3258,6 +3258,42 @@
     <Plotend>N</Plotend>
     <PlantationDate>24-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="667">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83</GrowerCode>
+    <GrowerName>बोबडे उमेश राजाराम</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>2</VillageCode>
+    <VillageName>कदम वस्ती</VillageName>
+    <serveNo>395</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-AUG-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="668">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83</GrowerCode>
+    <GrowerName>बोबडे उमेश राजाराम</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>2</VillageCode>
+    <VillageName>कदम वस्ती</VillageName>
+    <serveNo>395</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>5</CaneCode>
+    <CaneType>बेने खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="663">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>12010</GrowerCode>
@@ -6641,42 +6677,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>19-AUG-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="667">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>83</GrowerCode>
-    <GrowerName>बोबडे उमेश राजाराम</GrowerName>
-    <GatCode>1</GatCode>
-    <GatName>आलेगाव</GatName>
-    <VillageCode>3</VillageCode>
-    <VillageName>बोरीबेल</VillageName>
-    <serveNo>395</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>25-AUG-2015</PlantationDate>
-  </PlotList>
-  <PlotList plotNo="668">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>83</GrowerCode>
-    <GrowerName>बोबडे उमेश राजाराम</GrowerName>
-    <GatCode>1</GatCode>
-    <GatName>आलेगाव</GatName>
-    <VillageCode>3</VillageCode>
-    <VillageName>बोरीबेल</VillageName>
-    <serveNo>395</serveNo>
-    <CaneVariety>2</CaneVariety>
-    <CaneVarietyName>CoM-265</CaneVarietyName>
-    <CaneCode>5</CaneCode>
-    <CaneType>बेने खोडवा</CaneType>
-    <CanegrowerType>बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-    <PlantationDate>25-AUG-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="648">
     <ProgramNo>1</ProgramNo>
@@ -91156,6 +91156,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56642</GrowerCode>
     <GrowerName>आटोळे संपत ज्ञानदेव</GrowerName>
+    <GatCode>5</GatCode>
+    <GatName>रावणगाव</GatName>
+    <VillageCode>398</VillageCode>
+    <VillageName>रावणगाव (आकाशनगर)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12783">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2535</GrowerCode>
+    <GrowerName>आटोळे पोपट मारुती</GrowerName>
     <GatCode>5</GatCode>
     <GatName>रावणगाव</GatName>
     <VillageCode>398</VillageCode>
