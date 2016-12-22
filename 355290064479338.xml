@@ -17568,6 +17568,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>12-JAN-2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12969">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56994</GrowerCode>
+    <GrowerName>राजपुरे सुभद्रा लक्ष्मण</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>14-JAN-2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2373">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>32410</GrowerCode>
@@ -19403,6 +19421,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>29-DEC-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12967">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13180</GrowerCode>
+    <GrowerName>नवले तुकाराम बळिबा</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>पानवकर वस्ती</VillageName>
+    <serveNo>335</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>30-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="2466">
     <ProgramNo>1</ProgramNo>
