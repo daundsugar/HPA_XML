@@ -11898,6 +11898,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>01-JAN-2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="12945">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8121</GrowerCode>
+    <GrowerName>इंदलकर शोभा सुरेश</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>पेडगाव(दौंड)</VillageName>
+    <serveNo>30/1</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JAN-2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2375">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>3950</GrowerCode>
@@ -12332,8 +12350,8 @@
   </PlotList>
   <PlotList plotNo="12903">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>20993</GrowerCode>
-    <GrowerName>वाघमोरे प्रेमा रामचंद्र</GrowerName>
+    <GrowerCode>56983</GrowerCode>
+    <GrowerName>वाघमोरे प्रेमचंद रामचंद्र</GrowerName>
     <GatCode>3</GatCode>
     <GatName>देऊळगाव राजे</GatName>
     <VillageCode>25</VillageCode>
@@ -20537,5 +20555,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>12-JAN-2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="12946">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>47125</GrowerCode>
+    <GrowerName>शिर्के अनिल दादा</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>1297</VillageCode>
+    <VillageName>आर्वी बेट</VillageName>
+    <serveNo>120</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>19-JAN-2016</PlantationDate>
   </PlotList>
 </HarvestingProgramDetailsList>
