@@ -936,6 +936,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>24-NOV-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13022">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6079</GrowerCode>
+    <GrowerName>काळे कुसुम आत्माराम </GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>आलेगाव</VillageName>
+    <serveNo>7/2</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-NOV-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="1071">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11892</GrowerCode>
@@ -1187,6 +1205,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>16-DEC-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="13097">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57059</GrowerCode>
+    <GrowerName>चितारे मिरा लक्ष्मण</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>1</VillageCode>
+    <VillageName>आलेगाव</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>17-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="863">
     <ProgramNo>1</ProgramNo>
