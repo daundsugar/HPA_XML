@@ -6354,6 +6354,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>15-JAN-2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13168">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21366</GrowerCode>
+    <GrowerName>धावडे अरुण किसन</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>184</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-JAN-2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="7372">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>20532</GrowerCode>
@@ -6687,6 +6705,24 @@
     <VillageCode>9</VillageCode>
     <VillageName>खोरवडी</VillageName>
     <serveNo>93</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>27-JAN-2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="13167">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57102</GrowerCode>
+    <GrowerName>धावडे पांडुरंग बारकु</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>184/3</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>4</CaneCode>

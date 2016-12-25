@@ -12006,6 +12006,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>02-JAN-2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13166">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3846</GrowerCode>
+    <GrowerName>कापसे गौतम बापूराव</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>पेडगाव(दौंड)</VillageName>
+    <serveNo>216</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>02-JAN-2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2590">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>16186</GrowerCode>
@@ -17045,6 +17063,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>30-NOV-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="13151">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22858</GrowerCode>
+    <GrowerName>गिरमकर उमेश रामभाऊ</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>शिरापुर</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="2485">
     <ProgramNo>1</ProgramNo>
