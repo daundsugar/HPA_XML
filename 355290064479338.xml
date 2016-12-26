@@ -3726,6 +3726,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>16-JAN-2016</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13208">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12333</GrowerCode>
+    <GrowerName>गिरमकर सुनिल गणपत</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>देऊळगावराजे</VillageName>
+    <serveNo>02</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>17-JAN-2016</PlantationDate>
+  </PlotList>
   <PlotList plotNo="2430">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>13034</GrowerCode>
@@ -3820,6 +3838,24 @@
     <ProgramNo>1</ProgramNo>
     <GrowerCode>57060</GrowerCode>
     <GrowerName>गिरमकर दादा नामदेव</GrowerName>
+    <GatCode>3</GatCode>
+    <GatName>देऊळगाव राजे</GatName>
+    <VillageCode>20</VillageCode>
+    <VillageName>देऊळगावराजे</VillageName>
+    <serveNo>470</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-JAN-2016</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="13207">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57131</GrowerCode>
+    <GrowerName>अवचर नवनाथ शिवाजी</GrowerName>
     <GatCode>3</GatCode>
     <GatName>देऊळगाव राजे</GatName>
     <VillageCode>20</VillageCode>
