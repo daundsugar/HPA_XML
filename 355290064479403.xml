@@ -5454,6 +5454,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>28-SEP-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13171">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>593</GrowerCode>
+    <GrowerName>शिंदे रावा लक्ष्मण</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>25-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="6733">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>21437</GrowerCode>
@@ -14535,6 +14553,24 @@
     <VillageCode>13</VillageCode>
     <VillageName>गोपाळवाडी</VillageName>
     <serveNo>23/5</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-JUL-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="13258">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57133</GrowerCode>
+    <GrowerName>होले रामचंद्र दगडू</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>13</VillageCode>
+    <VillageName>गोपाळवाडी</VillageName>
+    <serveNo>-</serveNo>
     <CaneVariety>2</CaneVariety>
     <CaneVarietyName>CoM-265</CaneVarietyName>
     <CaneCode>1</CaneCode>
