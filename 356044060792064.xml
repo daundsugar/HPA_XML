@@ -990,6 +990,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>11-NOV-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13451">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16111</GrowerCode>
+    <GrowerName>ओझा गोविंद नारायणदास</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-NOV-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="7331">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1949</GrowerCode>
@@ -5472,6 +5490,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>28-SEP-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13399">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57249</GrowerCode>
+    <GrowerName>गुन्नर संजय साहेबराव</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>12-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="13171">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>593</GrowerCode>
@@ -5795,6 +5831,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>10-DEC-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="13446">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22437</GrowerCode>
+    <GrowerName>सकट बाबा विश्वनाथ</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>12-DEC-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="7374">
     <ProgramNo>1</ProgramNo>
