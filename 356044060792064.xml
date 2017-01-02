@@ -4500,6 +4500,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>14-AUG-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13650">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>564</GrowerCode>
+    <GrowerName>चव्हाण मारुती बापु</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>15-AUG-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="6997">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>54909</GrowerCode>
@@ -14706,6 +14724,24 @@
     <Plotend>N</Plotend>
     <PlantationDate>20-DEC-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13619">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>634</GrowerCode>
+    <GrowerName>डोंगरे विजय प्रल्हाद</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>13</VillageCode>
+    <VillageName>गोपाळवाडी</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>Co-86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>20-DEC-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="12964">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>56993</GrowerCode>
@@ -16019,6 +16055,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
     <PlantationDate>24-SEP-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="13635">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8265</GrowerCode>
+    <GrowerName>लोणकर महादेव मारुती</GrowerName>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>187</VillageCode>
+    <VillageName>मसनेरवाडी (कॅबीन)</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
   </PlotList>
   <PlotList plotNo="1701">
     <ProgramNo>1</ProgramNo>
