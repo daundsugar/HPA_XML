@@ -11952,6 +11952,42 @@
     <Plotend>N</Plotend>
     <PlantationDate>30-SEP-2015</PlantationDate>
   </PlotList>
+  <PlotList plotNo="13758">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39728</GrowerCode>
+    <GrowerName>भोसले सुरेश नारायण(जोतिबानगर)</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>202</VillageCode>
+    <VillageName>जोतीबानगर</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
+  <PlotList plotNo="13791">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57481</GrowerCode>
+    <GrowerName>गायकवाड संतोष सर्जेराव</GrowerName>
+    <GatCode>1</GatCode>
+    <GatName>आलेगाव</GatName>
+    <VillageCode>202</VillageCode>
+    <VillageName>जोतीबानगर</VillageName>
+    <serveNo>-</serveNo>
+    <CaneVariety>2</CaneVariety>
+    <CaneVarietyName>CoM-265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+    <PlantationDate>01-OCT-2015</PlantationDate>
+  </PlotList>
   <PlotList plotNo="805">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>13168</GrowerCode>
